@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-04T12:53:22",
+  "last_updated": "2026-07-04T12:53:35",
   "html": {
     "https://web.archive.org/web/20260625042853if_/https://twitter.com/ivan20221126/status/2070001259625779694": {
       "status": "done",
@@ -2158,8 +2158,8 @@
           "https://pbs.twimg.com/profile_images/2069637016992587776/X1KGhVKT_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-04T12:53:15",
-      "miss_count": 1
+      "last_updated": "2026-07-04T12:53:35",
+      "miss_count": 2
     },
     "20260627112117_twitter_com_ivan20221126_status_2070829817357066641.json": {
       "status": "done",
