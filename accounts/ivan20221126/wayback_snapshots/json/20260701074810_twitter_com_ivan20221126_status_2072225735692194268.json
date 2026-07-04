@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2071508537453240598",
+    "created_at": "2026-07-01T07:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072225735692194268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1779066511518486528",
+          "start": 0,
+          "username": "GognHere97799"
+        },
+        {
+          "end": 23,
+          "id": "1984316739363209216",
+          "start": 15,
+          "username": "Ouiwops"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072225735692194268",
+    "in_reply_to_user_id": "1779066511518486528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071542112240451659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GognHere97799 @Ouiwops 昭和天皇：既然知道是中国人就别出风头\n希特勒：既然知道是犹太人就别出风头\n3k党：既然知道是黑人黄种人就别出风头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2071508537453240598",
+        "created_at": "2026-07-01T07:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072225735692194268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1779066511518486528",
+              "start": 0,
+              "username": "GognHere97799"
+            },
+            {
+              "end": 23,
+              "id": "1984316739363209216",
+              "start": 15,
+              "username": "Ouiwops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072225735692194268",
+        "in_reply_to_user_id": "1779066511518486528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071542112240451659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GognHere97799 @Ouiwops 昭和天皇：既然知道是中国人就别出风头\n希特勒：既然知道是犹太人就别出风头\n3k党：既然知道是黑人黄种人就别出风头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779066511518486528",
+        "conversation_id": "2071508537453240598",
+        "created_at": "2026-06-29T10:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071542112240451659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1984316739363209216",
+              "start": 0,
+              "username": "Ouiwops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071542112240451659",
+        "in_reply_to_user_id": "1984316739363209216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2023,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071508537453240598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ouiwops 既然知道是性少数就别出风头，这叫民主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "https://t.co/KOybWvEtg9.西格玛高原",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "GO.TO",
+                "end": 23,
+                "expanded_url": "http://GO.TO",
+                "start": 0,
+                "url": "https://t.co/KOybWvEtg9"
+              }
+            ]
+          }
+        },
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 91,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T08:38:12.000Z",
+        "description": "Fulltime Undergrad (English Language) \nPart-time Opinion haver\nCurrent focus on HSR, AMP hater, playing for the plot",
+        "id": "1779066511518486528",
+        "location": "Protest camp outside MHY HQ",
+        "name": "Itsjustgogn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838400116102959106/P13xL4qr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 306,
+          "like_count": 17653,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2324
+        },
+        "url": "",
+        "username": "GognHere97799",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T17:49:28.000Z",
+        "description": "一个无可救药的理想主义者\n\n老婆：@nvdlaamdmag114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "nvdlaamdmag114"
+              }
+            ]
+          }
+        },
+        "id": "1984316739363209216",
+        "location": "乌托邦",
+        "name": "阳🇵🇸🇺🇦🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071219189331992576/qeduwppF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 715,
+          "like_count": 5557,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1910
+        },
+        "url": "",
+        "username": "Ouiwops",
+        "verified": false
+      }
+    ]
+  }
+}

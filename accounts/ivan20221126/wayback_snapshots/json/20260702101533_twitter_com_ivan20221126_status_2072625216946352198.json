@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072625213158899712"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072625216946352198",
+    "created_at": "2026-07-02T10:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072625216946352198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JDq50CU0CH",
+          "end": 34,
+          "expanded_url": "https://x.com/ivan20221126/status/2072625216946352198/photo/1",
+          "media_key": "3_2072625213158899712",
+          "start": 11,
+          "url": "https://t.co/JDq50CU0CH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072625216946352198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是的，这确实是我🤓🤓 https://t.co/JDq50CU0CH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_2072625213158899712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNxpm7awAAhC0O.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072625213158899712"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072625216946352198",
+        "created_at": "2026-07-02T10:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072625216946352198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDq50CU0CH",
+              "end": 34,
+              "expanded_url": "https://x.com/ivan20221126/status/2072625216946352198/photo/1",
+              "media_key": "3_2072625213158899712",
+              "start": 11,
+              "url": "https://t.co/JDq50CU0CH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072625216946352198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，这确实是我🤓🤓 https://t.co/JDq50CU0CH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 98,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      }
+    ]
+  }
+}

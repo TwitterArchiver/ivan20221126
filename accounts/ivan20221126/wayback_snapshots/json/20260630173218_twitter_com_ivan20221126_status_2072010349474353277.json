@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2071808951788986387",
+    "created_at": "2026-06-30T17:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072010349474353277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2061368001170231296",
+          "start": 0,
+          "username": "HermanHuanyx"
+        },
+        {
+          "end": 30,
+          "id": "1557846379736666113",
+          "start": 14,
+          "username": "Meguminsama2009"
+        },
+        {
+          "end": 42,
+          "id": "2033160057995841536",
+          "start": 31,
+          "username": "PingYe7814"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072010349474353277",
+    "in_reply_to_user_id": "2061368001170231296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071912756727701606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HermanHuanyx @Meguminsama2009 @PingYe7814 中国共产党确实野狗，应该纹你脑门上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2071808951788986387",
+        "created_at": "2026-06-30T17:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072010349474353277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2061368001170231296",
+              "start": 0,
+              "username": "HermanHuanyx"
+            },
+            {
+              "end": 30,
+              "id": "1557846379736666113",
+              "start": 14,
+              "username": "Meguminsama2009"
+            },
+            {
+              "end": 42,
+              "id": "2033160057995841536",
+              "start": 31,
+              "username": "PingYe7814"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072010349474353277",
+        "in_reply_to_user_id": "2061368001170231296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071912756727701606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HermanHuanyx @Meguminsama2009 @PingYe7814 中国共产党确实野狗，应该纹你脑门上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061368001170231296",
+        "conversation_id": "2071808951788986387",
+        "created_at": "2026-06-30T11:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071912756727701606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            },
+            {
+              "end": 28,
+              "id": "2033160057995841536",
+              "start": 17,
+              "username": "PingYe7814"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071912756727701606",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071911737541226810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 @PingYe7814 不光没有，我还想把党徽纹在你妈的腰上，这样我后入的时候有一种神圣感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "此为医院自动发放，不可能不吃",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 88,
+          "like_count": 813,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T08:43:52.000Z",
+        "description": "台湾人母亲被我杀了",
+        "id": "2061368001170231296",
+        "name": "Herman Huang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "HermanHuanyx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1966,
+          "like_count": 3291,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 7327
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:35:22.000Z",
+        "description": "",
+        "id": "2033160057995841536",
+        "name": "平业",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033160127428354048/eYDTxqIb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 113,
+          "like_count": 4849,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "PingYe7814",
+        "verified": false
+      }
+    ]
+  }
+}

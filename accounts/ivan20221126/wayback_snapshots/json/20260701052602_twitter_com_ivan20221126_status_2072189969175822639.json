@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2071993977159741884",
+    "created_at": "2026-07-01T05:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072189969175822639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954899813817843712",
+          "start": 0,
+          "username": "catgirl8964"
+        },
+        {
+          "end": 29,
+          "id": "1852895432269234176",
+          "start": 13,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072189969175822639",
+    "in_reply_to_user_id": "1954899813817843712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072097419722940873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catgirl8964 @432Ifantrygroup 那么他们是怎么通过帮助性少数敛财的？售卖激素药物，跨性别手术？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2071993977159741884",
+        "created_at": "2026-07-01T05:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072189969175822639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954899813817843712",
+              "start": 0,
+              "username": "catgirl8964"
+            },
+            {
+              "end": 29,
+              "id": "1852895432269234176",
+              "start": 13,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072189969175822639",
+        "in_reply_to_user_id": "1954899813817843712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072097419722940873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catgirl8964 @432Ifantrygroup 那么他们是怎么通过帮助性少数敛财的？售卖激素药物，跨性别手术？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954899813817843712",
+        "conversation_id": "2071993977159741884",
+        "created_at": "2026-06-30T23:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072097419722940873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072097419722940873",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071993977159741884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 反对，显然帮助性少数和弱势群体同工同酬比在文艺作品里强行塞政治正确内容更重要，否认这一点就是在掩盖问题，彩虹资本主义最大的问题很显然在于，把帮助性少数作为敛财的工具而非目的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "此为医院自动发放，不可能不吃",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 91,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T13:37:00.000Z",
+        "description": "“柏林秩序井然！” 你们这帮愚蠢的奴才！你们的“秩序”是建立在流沙之上的。明天革命将在“磨刀擦枪声中再次兴起”，吹响令你们惊惶失措的号角，宣告： 　　我来过，我又来到，我还将重临！",
+        "id": "1954899813817843712",
+        "name": "猫娘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963462082659053568/BmrZLxLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 324,
+          "like_count": 17400,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 3145
+        },
+        "url": "",
+        "username": "catgirl8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 4217,
+          "like_count": 44751,
+          "listed_count": 4,
+          "media_count": 537,
+          "tweet_count": 12882
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

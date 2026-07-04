@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072774468242649088"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072774470633509064",
+    "created_at": "2026-07-02T20:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072774470633509064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/luS6cUTuxO",
+          "end": 56,
+          "expanded_url": "https://x.com/ivan20221126/status/2072774470633509064/photo/1",
+          "media_key": "3_2072774468242649088",
+          "start": 33,
+          "url": "https://t.co/luS6cUTuxO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072774470633509064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "根据犬儒乐队的皮囊改编的\n欸，期望有人能翻唱一下\n为“毒虫”正名 https://t.co/luS6cUTuxO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072774468242649088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMP5ZZcaMAAgBr9.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072774468242649088"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072774470633509064",
+        "created_at": "2026-07-02T20:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072774470633509064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/luS6cUTuxO",
+              "end": 56,
+              "expanded_url": "https://x.com/ivan20221126/status/2072774470633509064/photo/1",
+              "media_key": "3_2072774468242649088",
+              "start": 33,
+              "url": "https://t.co/luS6cUTuxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072774470633509064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根据犬儒乐队的皮囊改编的\n欸，期望有人能翻唱一下\n为“毒虫”正名 https://t.co/luS6cUTuxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 101,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      }
+    ]
+  }
+}

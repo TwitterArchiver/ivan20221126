@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2070570040366346450",
+    "created_at": "2026-06-27T06:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070755897866158572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803288616539668480",
+          "start": 0,
+          "username": "ARVNVT870"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070755897866158572",
+    "in_reply_to_user_id": "1803288616539668480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070570040366346450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARVNVT870 战绩两扇窗还是不够看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1878,
+        "media_key": "3_2070570036390178816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwkek2asAAFKri.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2070570040366346450",
+        "created_at": "2026-06-27T06:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070755897866158572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803288616539668480",
+              "start": 0,
+              "username": "ARVNVT870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070755897866158572",
+        "in_reply_to_user_id": "1803288616539668480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070570040366346450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARVNVT870 战绩两扇窗还是不够看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070570036390178816"
+          ]
+        },
+        "author_id": "1803288616539668480",
+        "conversation_id": "2070570040366346450",
+        "created_at": "2026-06-26T18:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070570040366346450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWZNxfDKYu",
+              "end": 27,
+              "expanded_url": "https://x.com/ARVNVT870/status/2070570040366346450/photo/1",
+              "media_key": "3_2070570036390178816",
+              "start": 4,
+              "url": "https://t.co/NWZNxfDKYu"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2070489755532566803",
+              "start": 28,
+              "url": "https://t.co/ymZO1RAPK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070570040366346450",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 901,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070489755532566803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁😁😁 https://t.co/NWZNxfDKYu https://t.co/ymZO1RAPK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "第三世😅😅",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 63,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T04:48:14.000Z",
+        "description": "军批与狗不得入内\n哪天无了就启用此帐号:@vmmacv971",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "vmmacv971"
+              }
+            ]
+          }
+        },
+        "id": "1803288616539668480",
+        "location": "Panama",
+        "name": "VictorTran870",
+        "pinned_tweet_id": "1949834461836607537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069704498075803648/8SaIS-pQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 1132,
+          "like_count": 12741,
+          "listed_count": 5,
+          "media_count": 615,
+          "tweet_count": 5314
+        },
+        "url": "",
+        "username": "ARVNVT870",
+        "verified": true
+      }
+    ]
+  }
+}

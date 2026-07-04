@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072423242191794310",
+    "created_at": "2026-07-02T20:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072776328064237766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1727543655844708352",
+          "start": 0,
+          "username": "TcTXEQpcUd40667"
+        },
+        {
+          "end": 31,
+          "id": "1455369368506822657",
+          "start": 17,
+          "username": "taimathetokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072776328064237766",
+    "in_reply_to_user_id": "1727543655844708352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072690089189413096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TcTXEQpcUd40667 @taimathetokyo 但是台湾太弱小了，体量不行，我希望有朝一日，中日韩能放下偏见，携手向前，泛亚主义的梦，何时才能实现"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_2072690085779345408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOspsRaEAABzQY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072423242191794310",
+        "created_at": "2026-07-02T20:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072776328064237766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1727543655844708352",
+              "start": 0,
+              "username": "TcTXEQpcUd40667"
+            },
+            {
+              "end": 31,
+              "id": "1455369368506822657",
+              "start": 17,
+              "username": "taimathetokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072776328064237766",
+        "in_reply_to_user_id": "1727543655844708352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072690089189413096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TcTXEQpcUd40667 @taimathetokyo 但是台湾太弱小了，体量不行，我希望有朝一日，中日韩能放下偏见，携手向前，泛亚主义的梦，何时才能实现"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072690085779345408"
+          ]
+        },
+        "author_id": "1727543655844708352",
+        "conversation_id": "2072423242191794310",
+        "created_at": "2026-07-02T14:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072690089189413096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455369368506822657",
+              "start": 0,
+              "username": "taimathetokyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wR2GQq9t7u",
+              "end": 46,
+              "expanded_url": "https://x.com/TcTXEQpcUd40667/status/2072690089189413096/photo/1",
+              "media_key": "3_2072690085779345408",
+              "start": 23,
+              "url": "https://t.co/wR2GQq9t7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072690089189413096",
+        "in_reply_to_user_id": "1455369368506822657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072423242191794310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taimathetokyo 台湾なら有り。 https://t.co/wR2GQq9t7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 101,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T04:25:18.000Z",
+        "description": "迎合せず気楽にやってます。🇯🇵",
+        "id": "1727543655844708352",
+        "name": "レスポールマニア",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727876050921938944/L0Yup0ck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 33,
+          "like_count": 5826,
+          "listed_count": 1,
+          "media_count": 855,
+          "tweet_count": 3163
+        },
+        "url": "",
+        "username": "TcTXEQpcUd40667",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-02T03:01:35.000Z",
+        "description": "",
+        "id": "1455369368506822657",
+        "name": "やぽ君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503078522897645569/AFjlFtZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 917,
+          "like_count": 22271,
+          "listed_count": 8,
+          "media_count": 2915,
+          "tweet_count": 10065
+        },
+        "url": "",
+        "username": "taimathetokyo",
+        "verified": false
+      }
+    ]
+  }
+}

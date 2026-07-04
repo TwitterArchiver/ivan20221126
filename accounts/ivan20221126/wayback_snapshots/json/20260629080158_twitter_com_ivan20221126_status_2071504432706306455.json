@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071504421125779456"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2071171642957652040",
+    "created_at": "2026-06-29T08:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071504432706306455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1635644561862307842",
+          "start": 0,
+          "username": "yoshitsunehq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5hQbfRX2ZL",
+          "end": 37,
+          "expanded_url": "https://x.com/ivan20221126/status/2071504432706306455/photo/1",
+          "media_key": "3_2071504421125779456",
+          "start": 14,
+          "url": "https://t.co/5hQbfRX2ZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071504432706306455",
+    "in_reply_to_user_id": "1635644561862307842",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071171642957652040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshitsunehq https://t.co/5hQbfRX2ZL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2071504421125779456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL92S7PacAA8mEK.jpg",
+        "width": 716
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2071170493500248064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5Glx5aUAAvRLW.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1632,
+        "media_key": "3_2071171084444160000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5HILVa0AA__EX.jpg",
+        "width": 2912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071504421125779456"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2071171642957652040",
+        "created_at": "2026-06-29T08:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071504432706306455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1635644561862307842",
+              "start": 0,
+              "username": "yoshitsunehq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hQbfRX2ZL",
+              "end": 37,
+              "expanded_url": "https://x.com/ivan20221126/status/2071504432706306455/photo/1",
+              "media_key": "3_2071504421125779456",
+              "start": 14,
+              "url": "https://t.co/5hQbfRX2ZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071504432706306455",
+        "in_reply_to_user_id": "1635644561862307842",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071171642957652040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshitsunehq https://t.co/5hQbfRX2ZL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071170493500248064",
+            "3_2071171084444160000"
+          ]
+        },
+        "author_id": "1635644561862307842",
+        "conversation_id": "2071171642957652040",
+        "created_at": "2026-06-28T09:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071171642957652040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xRY7zs11G",
+              "end": 180,
+              "expanded_url": "https://x.com/yoshitsunehq/status/2071171642957652040/photo/1",
+              "media_key": "3_2071170493500248064",
+              "start": 157,
+              "url": "https://t.co/1xRY7zs11G"
+            },
+            {
+              "display_url": "pic.x.com/1xRY7zs11G",
+              "end": 180,
+              "expanded_url": "https://x.com/yoshitsunehq/status/2071171642957652040/photo/1",
+              "media_key": "3_2071171084444160000",
+              "start": 157,
+              "url": "https://t.co/1xRY7zs11G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071171642957652040",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "언젠가 우리나라의 지도는 이렇게 될거다.\n고조선과 동이족의 옛 영토.\n남김없이 되찾아야한다.\n일본인의 조상도 위만조선 유민이다.\n언젠가 다 되찾아야한다.\n\n하북성,산동반도,요녕성,길림성,흑룡강성,연해주,훗카이도,\n일본열도 모두 고조선 동이족 겨레의 땅이다.\n\n임나가라의 수로,백제 근초고왕,고구려 광개토태왕,야마토 왕 찬 진 제 흥 무,신라 진흥왕,신라 흥무대왕 김유신이 꿈꾼 대업.\n\n'미나모토요시츠네징기스칸'이 거의 다 이뤘었고,\n이제 우리 대한민국이 그걸 이뤄야한다.\n같은 민족끼리 서로 분열해서야 되겠는가?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 29074,
+          "like_count": 57,
+          "quote_count": 27,
+          "reply_count": 331,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "언젠가 우리나라의 지도는 이렇게 될거다.\n고조선과 동이족의 옛 영토.\n남김없이 되찾아야한다.\n일본인의 조상도 위만조선 유민이다.\n언젠가 다 되찾아야한다.\n\n하북성,산동반도,요녕성,길림성,흑룡강성,연해주,훗카이도,\n일본열도 모두 고조선 동이족 겨레의 땅이다.\n\n임나가라의 수로,백제 https://t.co/1xRY7zs11G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "第三世😅😅",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 83,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T14:10:53.000Z",
+        "description": "壇君 魏滿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yoshitsune1184",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yoshitsune1184",
+                "start": 0,
+                "url": "https://t.co/0tQd7eidlO"
+              }
+            ]
+          }
+        },
+        "id": "1635644561862307842",
+        "location": "王險城",
+        "name": "단군 위만",
+        "pinned_tweet_id": "1801715770491342890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069570349427982336/_6-Eglza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 7501,
+          "like_count": 31790,
+          "listed_count": 9,
+          "media_count": 16874,
+          "tweet_count": 69517
+        },
+        "url": "https://t.co/0tQd7eidlO",
+        "username": "yoshitsunehq",
+        "verified": true
+      }
+    ]
+  }
+}

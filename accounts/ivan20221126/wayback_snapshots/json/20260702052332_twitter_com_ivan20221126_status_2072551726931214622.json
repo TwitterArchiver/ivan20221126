@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072197299904844221",
+    "created_at": "2026-07-02T05:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072551726931214622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1975198699702951937",
+          "start": 0,
+          "username": "junzishendu1006"
+        },
+        {
+          "end": 28,
+          "id": "1851254945984741376",
+          "start": 17,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072551726931214622",
+    "in_reply_to_user_id": "1975198699702951937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072537609663099283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@junzishendu1006 @LastExeX01 是没参与，但是也没有什么民众组织起来反对啊，深圳佳士为什么没有成功？不就是因为民众素质太低，现在能变成这样，国民的责任是不可避免的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072197299904844221",
+        "created_at": "2026-07-02T05:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072551726931214622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1975198699702951937",
+              "start": 0,
+              "username": "junzishendu1006"
+            },
+            {
+              "end": 28,
+              "id": "1851254945984741376",
+              "start": 17,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072551726931214622",
+        "in_reply_to_user_id": "1975198699702951937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072537609663099283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junzishendu1006 @LastExeX01 是没参与，但是也没有什么民众组织起来反对啊，深圳佳士为什么没有成功？不就是因为民众素质太低，现在能变成这样，国民的责任是不可避免的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975198699702951937",
+        "conversation_id": "2072197299904844221",
+        "created_at": "2026-07-02T04:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072537609663099283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043745937298792448",
+              "start": 0,
+              "username": "ivan20221126"
+            },
+            {
+              "end": 25,
+              "id": "1851254945984741376",
+              "start": 14,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072537609663099283",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072218967960351116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan20221126 @LastExeX01 哪来的傻逼？现在经济下行的直接原因不就是你匪一开始垄断土地资源带头搞土地财政把房价炒到天上最后撑不住泡沫崩裂了吗？还有计划生育的恶果导致新生儿越来越少，失去儿童这一超级消费者作为推动内需的主要动力，再加上小学生开倒车搞国进民退，我问你这傻逼这几个政策哪个中国老百姓参与决策了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 96,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T13:57:34.000Z",
+        "description": "一切键政的终点就是马上开启大乱斗模式斗死你妈这一颠扑不破之真理",
+        "id": "1975198699702951937",
+        "name": "君子慎独",
+        "pinned_tweet_id": "2071196189350072370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071195517422592000/OhO889H3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 503,
+          "like_count": 15873,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 4306
+        },
+        "url": "",
+        "username": "junzishendu1006",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇳🇪🇺🇺🇦🇵🇸🇲🇽🇰🇷🇰🇿│现代主义、进步和理性",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2068235850983583750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063881024455741440/McWFMVcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 436,
+          "like_count": 22528,
+          "listed_count": 4,
+          "media_count": 1147,
+          "tweet_count": 9802
+        },
+        "url": "",
+        "username": "LastExeX01",
+        "verified": false
+      }
+    ]
+  }
+}

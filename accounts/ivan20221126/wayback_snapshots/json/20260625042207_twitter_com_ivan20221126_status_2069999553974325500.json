@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069999551407357952",
+        "3_2069999551860412416"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2069999553974325500",
+    "created_at": "2026-06-25T04:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069999553974325500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VB0jxxrARR",
+          "end": 31,
+          "expanded_url": "https://x.com/ivan20221126/status/2069999553974325500/photo/1",
+          "media_key": "3_2069999551407357952",
+          "start": 8,
+          "url": "https://t.co/VB0jxxrARR"
+        },
+        {
+          "display_url": "pic.x.com/VB0jxxrARR",
+          "end": 31,
+          "expanded_url": "https://x.com/ivan20221126/status/2069999553974325500/photo/1",
+          "media_key": "3_2069999551860412416",
+          "start": 8,
+          "url": "https://t.co/VB0jxxrARR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069999553974325500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "二世而死😅😅😅 https://t.co/VB0jxxrARR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_2069999551407357952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLodn-ragAA3St2.jpg",
+        "width": 1263
+      },
+      {
+        "height": 1100,
+        "media_key": "3_2069999551860412416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLodoAXbkAAJ0Zb.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069999551407357952",
+            "3_2069999551860412416"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2069999553974325500",
+        "created_at": "2026-06-25T04:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069999553974325500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VB0jxxrARR",
+              "end": 31,
+              "expanded_url": "https://x.com/ivan20221126/status/2069999553974325500/photo/1",
+              "media_key": "3_2069999551407357952",
+              "start": 8,
+              "url": "https://t.co/VB0jxxrARR"
+            },
+            {
+              "display_url": "pic.x.com/VB0jxxrARR",
+              "end": 31,
+              "expanded_url": "https://x.com/ivan20221126/status/2069999553974325500/photo/1",
+              "media_key": "3_2069999551860412416",
+              "start": 8,
+              "url": "https://t.co/VB0jxxrARR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069999553974325500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二世而死😅😅😅 https://t.co/VB0jxxrARR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "事实上，他是被某种意外，违背他\n的意志，从虚无召唤至有生命的.....为什么呢？他想了解自己存在的意义和目的，但人们不跟他说，或者说些无稽之谈；他敲门一一没人给他开；他面前走来了死神——这也同样违背他的意志。",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      }
+    ]
+  }
+}

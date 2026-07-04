@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2069803660880888134",
+    "created_at": "2026-06-25T07:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070049112632987845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989191439339933696",
+          "start": 0,
+          "username": "Hiro8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070049112632987845",
+    "in_reply_to_user_id": "1989191439339933696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069803660880888134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiro8964 不止吃着苦还会让你的味觉变苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2069803660880888134",
+        "created_at": "2026-06-25T07:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070049112632987845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989191439339933696",
+              "start": 0,
+              "username": "Hiro8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070049112632987845",
+        "in_reply_to_user_id": "1989191439339933696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069803660880888134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiro8964 不止吃着苦还会让你的味觉变苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989191439339933696",
+        "conversation_id": "2069803660880888134",
+        "created_at": "2026-06-24T15:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069803660880888134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hiro8964/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hiro8964/status/2069753273549258758",
+              "start": 9,
+              "url": "https://t.co/fIsNPpu1nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069803660880888134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069753273549258758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "司马了怎么这么苦 https://t.co/fIsNPpu1nl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "第三世😅😅",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 29,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T04:39:32.000Z",
+        "description": "漆黑清冷的夜",
+        "id": "1989191439339933696",
+        "name": "Hiro",
+        "pinned_tweet_id": "2057836503393583580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066116758373793793/BIAgwpoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 284,
+          "like_count": 5265,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2207
+        },
+        "url": "",
+        "username": "Hiro8964",
+        "verified": false
+      }
+    ]
+  }
+}

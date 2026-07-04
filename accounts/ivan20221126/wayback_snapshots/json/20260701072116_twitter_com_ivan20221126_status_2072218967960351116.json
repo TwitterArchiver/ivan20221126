@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072197299904844221",
+    "created_at": "2026-07-01T07:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072218967960351116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1975198699702951937",
+          "start": 0,
+          "username": "junzishendu1006"
+        },
+        {
+          "end": 28,
+          "id": "1851254945984741376",
+          "start": 17,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072218967960351116",
+    "in_reply_to_user_id": "1975198699702951937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072216334654681571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@junzishendu1006 @LastExeX01 舆论，愚民的力量，你国屁民确实有威能，野蛮无知蒙昧的力量，现在的经济下行确实有屁民责任"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072197299904844221",
+        "created_at": "2026-07-01T07:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072218967960351116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1975198699702951937",
+              "start": 0,
+              "username": "junzishendu1006"
+            },
+            {
+              "end": 28,
+              "id": "1851254945984741376",
+              "start": 17,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072218967960351116",
+        "in_reply_to_user_id": "1975198699702951937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072216334654681571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junzishendu1006 @LastExeX01 舆论，愚民的力量，你国屁民确实有威能，野蛮无知蒙昧的力量，现在的经济下行确实有屁民责任"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975198699702951937",
+        "conversation_id": "2072197299904844221",
+        "created_at": "2026-07-01T07:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072216334654681571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851254945984741376",
+              "start": 0,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072216334654681571",
+        "in_reply_to_user_id": "1851254945984741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072197299904844221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastExeX01 幽默屁眼怪又把责任往民众身上推，原来在你眼里你国屁民这些年越来越有话语权了，不知道的还以为你国什么时候在小学生的领导下变成民主国家了，天天把自身受害的原因归结给其他无辜民众那就别反过来责怪自己被民众看不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "https://t.co/KOybWvEtg9.西格玛高原",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "GO.TO",
+                "end": 23,
+                "expanded_url": "http://GO.TO",
+                "start": 0,
+                "url": "https://t.co/KOybWvEtg9"
+              }
+            ]
+          }
+        },
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 91,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T13:57:34.000Z",
+        "description": "一切键政的终点就是马上开启大乱斗模式斗死你妈这一颠扑不破之真理",
+        "id": "1975198699702951937",
+        "name": "君子慎独",
+        "pinned_tweet_id": "2071196189350072370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071195517422592000/OhO889H3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 503,
+          "like_count": 15780,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 4271
+        },
+        "url": "",
+        "username": "junzishendu1006",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇳🇪🇺🇺🇦🇵🇸🇲🇽🇰🇷🇰🇿│现代主义、进步和理性",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2068235850983583750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063881024455741440/McWFMVcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 436,
+          "like_count": 22525,
+          "listed_count": 4,
+          "media_count": 1147,
+          "tweet_count": 9801
+        },
+        "url": "",
+        "username": "LastExeX01",
+        "verified": false
+      }
+    ]
+  }
+}

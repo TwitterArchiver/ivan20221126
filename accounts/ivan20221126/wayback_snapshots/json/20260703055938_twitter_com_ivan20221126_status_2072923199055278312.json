@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072873040971776337",
+    "created_at": "2026-07-03T05:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072923199055278312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2058289305404297216",
+          "start": 0,
+          "username": "RhinetheLab"
+        },
+        {
+          "end": 25,
+          "id": "1667423809148981248",
+          "start": 13,
+          "username": "2FlameCubed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072923199055278312",
+    "in_reply_to_user_id": "2058289305404297216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072920361092669667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RhinetheLab @2FlameCubed 同行都是恩人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072873040971776337",
+        "created_at": "2026-07-03T05:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072923199055278312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2058289305404297216",
+              "start": 0,
+              "username": "RhinetheLab"
+            },
+            {
+              "end": 25,
+              "id": "1667423809148981248",
+              "start": 13,
+              "username": "2FlameCubed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072923199055278312",
+        "in_reply_to_user_id": "2058289305404297216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072920361092669667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RhinetheLab @2FlameCubed 同行都是恩人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058289305404297216",
+        "conversation_id": "2072873040971776337",
+        "created_at": "2026-07-03T05:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072920361092669667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667423809148981248",
+              "start": 0,
+              "username": "2FlameCubed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072920361092669667",
+        "in_reply_to_user_id": "1667423809148981248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072885790057865224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2FlameCubed 別笑，合伙人坑了缪缪借款+货款小一万然后美美跑路了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 102,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T20:51:11.000Z",
+        "description": "Welcome to Rhine·Lab，这里出售一些物品。\n了解更多见下方链接群组",
+        "id": "2058289305404297216",
+        "location": "偏偏希望无价",
+        "name": "莱茵生命（绝赞被骗中",
+        "pinned_tweet_id": "2067431127443538227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058290042460856321/4D6eUIT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 50,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "RhinetheLab",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 1015,
+          "like_count": 2136,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false
+      }
+    ]
+  }
+}

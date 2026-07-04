@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2071495271952052363",
+    "created_at": "2026-06-29T22:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T23:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071717559205015989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041867910931750912",
+          "start": 0,
+          "username": "Sparrow27ER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071717559205015989",
+    "in_reply_to_user_id": "2041867910931750912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071680634813100502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sparrow27ER 也许现在是这样，不过以后怎么办，只有天知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2071495271952052363",
+        "created_at": "2026-06-29T22:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T23:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071717559205015989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041867910931750912",
+              "start": 0,
+              "username": "Sparrow27ER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071717559205015989",
+        "in_reply_to_user_id": "2041867910931750912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071680634813100502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sparrow27ER 也许现在是这样，不过以后怎么办，只有天知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041867910931750912",
+        "conversation_id": "2071495271952052363",
+        "created_at": "2026-06-29T19:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071680634813100502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043745937298792448",
+              "start": 0,
+              "username": "ivan20221126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071680634813100502",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071495271952052363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan20221126 我曾经天真的以为仅靠科学手段就能解决所有制度制定问题，直到我意识到人本身就是非理性的，科学在人身上有时不起作用\n于是我们不得不承认在制度的摸索中，你所谓的暴政收效显著，它在实践上胜利了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "第三世😅😅",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 84,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:19:51.000Z",
+        "description": "",
+        "id": "2041867910931750912",
+        "name": "Sparrow Twenty-Seven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041868871809036290/_desjobr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 1680,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "Sparrow27ER",
+        "verified": false
+      }
+    ]
+  }
+}

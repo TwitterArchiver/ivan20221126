@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072350228234289152",
+        "7_2072350261138657280",
+        "7_2072350361919311872"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072350418496290936",
+    "created_at": "2026-07-01T16:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072350418496290936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vXuR2wIbUb",
+          "end": 31,
+          "expanded_url": "https://x.com/ivan20221126/status/2072350418496290936/video/1",
+          "media_key": "3_2072350228234289152",
+          "start": 8,
+          "url": "https://t.co/vXuR2wIbUb"
+        },
+        {
+          "display_url": "pic.x.com/vXuR2wIbUb",
+          "end": 31,
+          "expanded_url": "https://x.com/ivan20221126/status/2072350418496290936/video/1",
+          "media_key": "7_2072350261138657280",
+          "start": 8,
+          "url": "https://t.co/vXuR2wIbUb"
+        },
+        {
+          "display_url": "pic.x.com/vXuR2wIbUb",
+          "end": 31,
+          "expanded_url": "https://x.com/ivan20221126/status/2072350418496290936/video/1",
+          "media_key": "7_2072350361919311872",
+          "start": 8,
+          "url": "https://t.co/vXuR2wIbUb"
+        },
+        {
+          "display_url": "x.com/idle128/status…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/idle128/status/2072021169427923426",
+          "start": 32,
+          "url": "https://t.co/350aCP7MbG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072350418496290936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072021169427923426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实践了，事臻右 https://t.co/vXuR2wIbUb https://t.co/350aCP7MbG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1481,
+        "media_key": "3_2072350228234289152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ3jYQawAAa74j.jpg",
+        "width": 1264
+      },
+      {
+        "duration_ms": 31066,
+        "height": 960,
+        "media_key": "7_2072350261138657280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072350261138657280/pu/img/bb-8XssvlqX-867x.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072350261138657280/pu/vid/avc1/320x426/J57BMWj58XG98tsD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072350261138657280/pu/vid/avc1/480x640/bOfdORuLYvhfTAiO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072350261138657280/pu/vid/avc1/720x960/yVQyS2j7vwxL5SXA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072350261138657280/pu/pl/M28PWRRR2_t2CGuP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 16207,
+        "height": 756,
+        "media_key": "7_2072350361919311872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072350361919311872/pu/img/medfaiTZc2VimskH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072350361919311872/pu/vid/avc1/320x420/NGrsJGdcL2826y6g.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072350361919311872/pu/vid/avc1/480x630/Z92KPMmbpgmwXOcF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072350361919311872/pu/vid/avc1/576x756/AobuCyCahmGfNw2q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072350361919311872/pu/pl/JTezn1r70Ykbo9dl.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072350228234289152",
+            "7_2072350261138657280",
+            "7_2072350361919311872"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072350418496290936",
+        "created_at": "2026-07-01T16:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072350418496290936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXuR2wIbUb",
+              "end": 31,
+              "expanded_url": "https://x.com/ivan20221126/status/2072350418496290936/video/1",
+              "media_key": "3_2072350228234289152",
+              "start": 8,
+              "url": "https://t.co/vXuR2wIbUb"
+            },
+            {
+              "display_url": "pic.x.com/vXuR2wIbUb",
+              "end": 31,
+              "expanded_url": "https://x.com/ivan20221126/status/2072350418496290936/video/1",
+              "media_key": "7_2072350261138657280",
+              "start": 8,
+              "url": "https://t.co/vXuR2wIbUb"
+            },
+            {
+              "display_url": "pic.x.com/vXuR2wIbUb",
+              "end": 31,
+              "expanded_url": "https://x.com/ivan20221126/status/2072350418496290936/video/1",
+              "media_key": "7_2072350361919311872",
+              "start": 8,
+              "url": "https://t.co/vXuR2wIbUb"
+            },
+            {
+              "display_url": "x.com/idle128/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/idle128/status/2072021169427923426",
+              "start": 32,
+              "url": "https://t.co/350aCP7MbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072350418496290936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072021169427923426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实践了，事臻右 https://t.co/vXuR2wIbUb https://t.co/350aCP7MbG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911684323360522240",
+        "conversation_id": "2072021169427923426",
+        "created_at": "2026-06-30T18:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072021169427923426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/despacitodesp1…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/despacitodesp12/status/2071583960883155120",
+              "start": 100,
+              "url": "https://t.co/oWGuvvsUc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072021169427923426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 552,
+          "impression_count": 216406,
+          "like_count": 17599,
+          "quote_count": 8,
+          "reply_count": 26,
+          "retweet_count": 1069
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071583960883155120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The type of pictures school shooters take a week before wounding 2 kids and then killing themselves https://t.co/oWGuvvsUc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 95,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T07:34:04.000Z",
+        "description": "Semi Bilingual and 25% Mexican. Started using Twitter in November 2022. Construction Management Undergrad. Patron Saint is John the Apostle",
+        "id": "1911684323360522240",
+        "location": "Knoxville, TN",
+        "name": "idle🇻🇦",
+        "pinned_tweet_id": "2043864571933298846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911686725019033600/3frzlufk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 214,
+          "like_count": 28069,
+          "listed_count": 9,
+          "media_count": 1644,
+          "tweet_count": 11490
+        },
+        "url": "",
+        "username": "idle128",
+        "verified": false
+      }
+    ]
+  }
+}

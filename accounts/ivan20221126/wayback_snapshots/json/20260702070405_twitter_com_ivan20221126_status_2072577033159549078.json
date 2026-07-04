@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072393815936446760",
+    "created_at": "2026-07-02T07:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072577033159549078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1696784280565788672",
+          "start": 0,
+          "username": "Kevin1138159"
+        },
+        {
+          "end": 26,
+          "id": "1736265610911428608",
+          "start": 14,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072577033159549078",
+    "in_reply_to_user_id": "1696784280565788672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072399845478772821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevin1138159 @noname2095_ 你为什么不亲自来这里看看呢？工人没有议价权，没有独立工会，没有双休，一周工作60小时，出了事故会被各种推诿，性少数群体残被迫害，跨性别hrt药物被禁止，学生也没有得到足够休息，很多地方的学生因不能忍受这样的内卷无奈结束生命。而你，你只是在大洋彼岸幻想一个完美的国家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072393815936446760",
+        "created_at": "2026-07-02T07:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072577033159549078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1696784280565788672",
+              "start": 0,
+              "username": "Kevin1138159"
+            },
+            {
+              "end": 26,
+              "id": "1736265610911428608",
+              "start": 14,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072577033159549078",
+        "in_reply_to_user_id": "1696784280565788672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072399845478772821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevin1138159 @noname2095_ 你为什么不亲自来这里看看呢？工人没有议价权，没有独立工会，没有双休，一周工作60小时，出了事故会被各种推诿，性少数群体残被迫害，跨性别hrt药物被禁止，学生也没有得到足够休息，很多地方的学生因不能忍受这样的内卷无奈结束生命。而你，你只是在大洋彼岸幻想一个完美的国家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696784280565788672",
+        "conversation_id": "2072393815936446760",
+        "created_at": "2026-07-01T19:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072399845478772821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072399845478772821",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072397081466323146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ Zero. I live in the USA.\n\nI work with the Communist Party USA and other left-wing organizations that share my pro-China stance.\n\nI don't get paid. I have to pay my out of my own pocket to defend the CPC in the USA."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 98,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-30T07:20:04.000Z",
+        "description": "Poor kid chasing childhood dreams, Marxist-Leninist, hater of anarchists, Blue and Red MAGA will be blocked. Child abuse survivor. Palestine supporter🇵🇸",
+        "id": "1696784280565788672",
+        "location": "San Antonio, TX",
+        "name": "Kevin is out of patience #FreePalestine ⚛☮",
+        "pinned_tweet_id": "1700591405905694921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696786806551740417/pkLVIYCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 407,
+          "like_count": 7374,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 4233
+        },
+        "url": "",
+        "username": "Kevin1138159",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "29元包年千G流量VPN👉🏻：https://t.co/MVeoKpvKXj\n\n🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\n个人账号：https://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=BkiKFzKe",
+                "start": 15,
+                "url": "https://t.co/MVeoKpvKXj"
+              },
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 114,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 91,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 363,
+          "like_count": 4911,
+          "listed_count": 5,
+          "media_count": 313,
+          "tweet_count": 12143
+        },
+        "url": "",
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

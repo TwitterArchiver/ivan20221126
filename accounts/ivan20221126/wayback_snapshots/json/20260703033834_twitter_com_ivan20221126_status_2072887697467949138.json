@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072703541421257155",
+    "created_at": "2026-07-03T03:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072887697467949138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072887697467949138",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072703541421257155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyobewild 这种现象由来已久，只不过中国的情况非常之特殊，大政府，党管一切，可即使已经是名义上的资本主义了却还需要社会主义包装来确立合法性，而且中共近十年经济政策更像是左翼法团，或是说国家资本主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072703541421257155",
+        "created_at": "2026-07-03T03:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072887697467949138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072887697467949138",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072703541421257155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobewild 这种现象由来已久，只不过中国的情况非常之特殊，大政府，党管一切，可即使已经是名义上的资本主义了却还需要社会主义包装来确立合法性，而且中共近十年经济政策更像是左翼法团，或是说国家资本主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2072703541421257155",
+        "created_at": "2026-07-02T15:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072703541421257155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072703541421257155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3397,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我觉得“爱国（爱政府）”完全就是一个谬论，因为我觉得人不应该对一个工具性的东西产生爱意，除非这个东西被人格化了。对，一个公共组织突然变成“咱妈”了，这扯不扯了。\n同样的，不爱这个政府就一定要爱那个政府吗，我从来不觉得台湾、瑞士、美国这些地方的政府是值得爱的。我们可以不爱政府吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 101,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，倡导社会契约论，保障公民权利。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5136,
+          "following_count": 186,
+          "like_count": 40173,
+          "listed_count": 16,
+          "media_count": 399,
+          "tweet_count": 8439
+        },
+        "url": "",
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

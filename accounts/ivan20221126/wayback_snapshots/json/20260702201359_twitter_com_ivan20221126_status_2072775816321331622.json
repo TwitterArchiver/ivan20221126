@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072423242191794310",
+    "created_at": "2026-07-02T20:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072775816321331622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1649949305674018817",
+          "start": 0,
+          "username": "alinluckydog"
+        },
+        {
+          "end": 28,
+          "id": "1455369368506822657",
+          "start": 14,
+          "username": "taimathetokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072775816321331622",
+    "in_reply_to_user_id": "1649949305674018817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072618898768400459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alinluckydog @taimathetokyo 但是欧盟以前打的不比东亚少啊，明明东亚才是更可以联合起来才对吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072423242191794310",
+        "created_at": "2026-07-02T20:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072775816321331622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1649949305674018817",
+              "start": 0,
+              "username": "alinluckydog"
+            },
+            {
+              "end": 28,
+              "id": "1455369368506822657",
+              "start": 14,
+              "username": "taimathetokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072775816321331622",
+        "in_reply_to_user_id": "1649949305674018817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072618898768400459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alinluckydog @taimathetokyo 但是欧盟以前打的不比东亚少啊，明明东亚才是更可以联合起来才对吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649949305674018817",
+        "conversation_id": "2072423242191794310",
+        "created_at": "2026-07-02T09:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072618898768400459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1455369368506822657",
+              "start": 0,
+              "username": "taimathetokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072618898768400459",
+        "in_reply_to_user_id": "1455369368506822657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13657,
+          "like_count": 122,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072423242191794310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taimathetokyo 东亚诸国若能和睦相处、携手合作，确为地区之福。\n然历史积怨尚存，外部因素复杂，各方立场差异不小，真正如欧盟般紧密联合，实非易事。\n美方对东亚和睦之忧虑，或亦源于此。未来之路，需各方以诚相待、逐步增进互信，方可徐徐图之。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 101,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T01:32:33.000Z",
+        "description": "夫唯不争笑浮生，浅尝辄止自怡情。",
+        "id": "1649949305674018817",
+        "name": "阿麒 LuckyCat",
+        "pinned_tweet_id": "2066118936031363134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064349838909767680/SeiRJ5RB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2408,
+          "following_count": 2739,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 866,
+          "tweet_count": 5827
+        },
+        "url": "",
+        "username": "alinluckydog",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-02T03:01:35.000Z",
+        "description": "",
+        "id": "1455369368506822657",
+        "name": "やぽ君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503078522897645569/AFjlFtZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 917,
+          "like_count": 22271,
+          "listed_count": 8,
+          "media_count": 2915,
+          "tweet_count": 10065
+        },
+        "url": "",
+        "username": "taimathetokyo",
+        "verified": false
+      }
+    ]
+  }
+}

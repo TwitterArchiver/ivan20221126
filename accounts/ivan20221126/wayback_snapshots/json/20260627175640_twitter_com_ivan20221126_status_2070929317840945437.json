@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070758020557180928"
+      ],
+      "media_source_tweet_id": [
+        "2070758044028510352"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2070929317840945437",
+    "created_at": "2026-06-27T17:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T18:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070929317840945437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2048179365687488512",
+          "start": 3,
+          "username": "kinokuni_east"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qGlj887Wv3",
+          "end": 48,
+          "expanded_url": "https://x.com/kinokuni_east/status/2070758044028510352/photo/1",
+          "media_key": "3_2070758020557180928",
+          "start": 25,
+          "url": "https://t.co/qGlj887Wv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070929317840945437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070758044028510352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kinokuni_east: 文字無し版 https://t.co/qGlj887Wv3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2271,
+        "media_key": "3_2070758020557180928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzPcscaEAAjhLf.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070758020557180928"
+          ],
+          "media_source_tweet_id": [
+            "2070758044028510352"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2070929317840945437",
+        "created_at": "2026-06-27T17:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070929317840945437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2048179365687488512",
+              "start": 3,
+              "username": "kinokuni_east"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGlj887Wv3",
+              "end": 48,
+              "expanded_url": "https://x.com/kinokuni_east/status/2070758044028510352/photo/1",
+              "media_key": "3_2070758020557180928",
+              "start": 25,
+              "url": "https://t.co/qGlj887Wv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070929317840945437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070758044028510352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kinokuni_east: 文字無し版 https://t.co/qGlj887Wv3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070758020557180928"
+          ]
+        },
+        "author_id": "2048179365687488512",
+        "conversation_id": "2070758044028510352",
+        "created_at": "2026-06-27T06:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070758044028510352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGlj887Wv3",
+              "end": 29,
+              "expanded_url": "https://x.com/kinokuni_east/status/2070758044028510352/photo/1",
+              "media_key": "3_2070758020557180928",
+              "start": 6,
+              "url": "https://t.co/qGlj887Wv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070758044028510352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2357,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "文字無し版 https://t.co/qGlj887Wv3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "第三世😅😅",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 70,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T23:16:34.000Z",
+        "description": "おでかけ初心者\n行った国→🇯🇵🇰🇷🇲🇳🇹🇼🇻🇳🇹🇭🇬🇺",
+        "id": "2048179365687488512",
+        "name": "紀つね財団紀州出張所",
+        "pinned_tweet_id": "2070724713928921563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048189937808527360/tM9sRPTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 111,
+          "like_count": 1265,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "kinokuni_east",
+        "verified": false
+      }
+    ]
+  }
+}

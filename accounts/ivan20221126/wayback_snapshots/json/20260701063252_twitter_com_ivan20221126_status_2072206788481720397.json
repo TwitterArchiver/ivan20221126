@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072202631628697803",
+    "created_at": "2026-07-01T06:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072206788481720397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072206788481720397",
+    "in_reply_to_user_id": "2043745937298792448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072202631628697803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另，讲机器的生产效率视为同等更是荒谬，正是因为b投入了900的机器，使得他可以以市场平均价格售出甚至低于平均价格售出的情况下还能拥有更多的利润，并且这些利润可用于进一步的生产扩大化。\n此事在第一次工业革命中亦有记载：珍妮纺织机vs手工老织工 会赢吗？会赢的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072202631628697803",
+        "created_at": "2026-07-01T06:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072206788481720397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072206788481720397",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072202631628697803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另，讲机器的生产效率视为同等更是荒谬，正是因为b投入了900的机器，使得他可以以市场平均价格售出甚至低于平均价格售出的情况下还能拥有更多的利润，并且这些利润可用于进一步的生产扩大化。\n此事在第一次工业革命中亦有记载：珍妮纺织机vs手工老织工 会赢吗？会赢的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072202631628697803",
+        "created_at": "2026-07-01T06:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072202631628697803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quarktalksss/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/quarktalksss/status/2072049399791022266",
+              "start": 140,
+              "url": "https://t.co/JX263rLMAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072202631628697803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072049399791022266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现代经济理论如果不在马克思剩余价值论上发育的话我是实在想不出了。全篇都是稻草人谬论。仅一个相对剩余价值：通过提高劳动生产率缩短必要劳动时间就可以解释为什么劳动密集型的利润比不上采用自动化的利润了，因为无产的人们生存所需的价值在自动化的利润的占比下要比劳动密集型的利润的占比少的多 https://t.co/JX263rLMAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "此为医院自动发放，不可能不吃",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 91,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      }
+    ]
+  }
+}

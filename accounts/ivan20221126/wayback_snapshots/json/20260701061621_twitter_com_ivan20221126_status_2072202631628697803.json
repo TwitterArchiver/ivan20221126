@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072202631628697803",
+    "created_at": "2026-07-01T06:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072202631628697803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quarktalksss/s…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/quarktalksss/status/2072049399791022266",
+          "start": 140,
+          "url": "https://t.co/JX263rLMAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072202631628697803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072049399791022266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现代经济理论如果不在马克思剩余价值论上发育的话我是实在想不出了。全篇都是稻草人谬论。仅一个相对剩余价值：通过提高劳动生产率缩短必要劳动时间就可以解释为什么劳动密集型的利润比不上采用自动化的利润了，因为无产的人们生存所需的价值在自动化的利润的占比下要比劳动密集型的利润的占比少的多 https://t.co/JX263rLMAC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072202631628697803",
+        "created_at": "2026-07-01T06:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072202631628697803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quarktalksss/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/quarktalksss/status/2072049399791022266",
+              "start": 140,
+              "url": "https://t.co/JX263rLMAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072202631628697803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072049399791022266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现代经济理论如果不在马克思剩余价值论上发育的话我是实在想不出了。全篇都是稻草人谬论。仅一个相对剩余价值：通过提高劳动生产率缩短必要劳动时间就可以解释为什么劳动密集型的利润比不上采用自动化的利润了，因为无产的人们生存所需的价值在自动化的利润的占比下要比劳动密集型的利润的占比少的多 https://t.co/JX263rLMAC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621709543750385664",
+        "conversation_id": "2072049399791022266",
+        "created_at": "2026-06-30T20:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072049399791022266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072049399791022266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果马克思的剩余价值理论是对的，那就会出现一个很奇怪的问题。\n按照他的说法，机器、厂房、原材料这些东西本身不创造新价值，只是把已有价值转移到商品里。真正创造新价值的，是工人的劳动，尤其是老板没有付工资的那部分“剩余劳动”。\n那按这个逻辑，最赚钱的公司应该是什么？\n应该是雇人最多的公司。\n比如两个人都拿 1000 块钱办厂。A 拿 900 块钱雇工人，100 块钱买机器；B 正好反过来，100 块钱雇工人，900 块钱买机器和设备。\n我们假定只有工人的剩余劳动能创造利润，且剩余价值率都是50%，也就是，平均下来，每个工人都是工作半天创造的价值就等于自己的工资。\n那A的利润就应该是900块钱，B的利润只有100，前者是后者的9倍。\n这样的话，谁还有兴趣升级机器设备，多雇工人不就好了吗？\n但现实恰好是反过来的。\n越是劳动密集型产业，利润率往往越薄。服装厂、代工厂、餐饮、低端制造，雇一堆人，最后利润率往往只有1-3%。\n而真正高利润的，往往是自动化程度高、资本密集、技术密集、人工成本占比低的企业。它们用更少的人，撬动更大的产出和利润。\n说明什么，说明企业利润，绝大部分情况下都不是工人的所谓无差别劳动创造的，而是来自科技进步和管理优化等其他因素。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 23906,
+          "like_count": 286,
+          "quote_count": 6,
+          "reply_count": 78,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "如果马克思的剩余价值理论是对的，那就会出现一个很奇怪的问题。\n按照他的说法，机器、厂房、原材料这些东西本身不创造新价值，只是把已有价值转移到商品里。真正创造新价值的，是工人的劳动，尤其是老板没有付工资的那部分“剩余劳动”。\n那按这个逻辑，最赚钱的公司应该是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "此为医院自动发放，不可能不吃",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 91,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T03:18:05.000Z",
+        "description": "youtube账号：夸克说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%A4%B8%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%A4%B8%E5%85%8B%E8%AF%B4",
+                "start": 0,
+                "url": "https://t.co/eZ6ILrdttM"
+              }
+            ]
+          }
+        },
+        "id": "1621709543750385664",
+        "location": "Canada",
+        "name": "夸克说",
+        "pinned_tweet_id": "2070492524360183979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969808918886105090/skT7BSEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36731,
+          "following_count": 42,
+          "like_count": 2648,
+          "listed_count": 207,
+          "media_count": 1460,
+          "tweet_count": 7734
+        },
+        "url": "https://t.co/eZ6ILrdttM",
+        "username": "quarktalksss",
+        "verified": true
+      }
+    ]
+  }
+}

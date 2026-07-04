@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2071719123135197633",
+    "created_at": "2026-06-30T17:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072012058724642825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884546510919979008",
+          "start": 0,
+          "username": "iamThuja"
+        },
+        {
+          "end": 25,
+          "id": "1982839066120048640",
+          "start": 10,
+          "username": "nvdlaamdmag114"
+        },
+        {
+          "end": 40,
+          "id": "1715418222701531136",
+          "start": 26,
+          "username": "shen_shi88371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072012058724642825",
+    "in_reply_to_user_id": "1884546510919979008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071966466598109591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamThuja @nvdlaamdmag114 @shen_shi88371 半桶水晃荡😅😅，国社是nazi，关束棒什么事，历史课上哪去了，辩经起码把经读透了啊，你们这些网左，真是打着建制左的旗号在网上瞎骂，除了宣泄情绪排挤异类什么也没做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2071719123135197633",
+        "created_at": "2026-06-30T17:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072012058724642825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThuja"
+            },
+            {
+              "end": 25,
+              "id": "1982839066120048640",
+              "start": 10,
+              "username": "nvdlaamdmag114"
+            },
+            {
+              "end": 40,
+              "id": "1715418222701531136",
+              "start": 26,
+              "username": "shen_shi88371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072012058724642825",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071966466598109591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThuja @nvdlaamdmag114 @shen_shi88371 半桶水晃荡😅😅，国社是nazi，关束棒什么事，历史课上哪去了，辩经起码把经读透了啊，你们这些网左，真是打着建制左的旗号在网上瞎骂，除了宣泄情绪排挤异类什么也没做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884546510919979008",
+        "conversation_id": "2071719123135197633",
+        "created_at": "2026-06-30T14:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071966466598109591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1982839066120048640",
+              "start": 0,
+              "username": "nvdlaamdmag114"
+            },
+            {
+              "end": 30,
+              "id": "1715418222701531136",
+              "start": 16,
+              "username": "shen_shi88371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071966466598109591",
+        "in_reply_to_user_id": "1982839066120048640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 810,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071965740203450758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvdlaamdmag114 @shen_shi88371 法西斯主义还叫国家社会主义呢。\n我信我查到的。你闭嘴吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "此为医院自动发放，不可能不吃",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 88,
+          "like_count": 817,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证追着叫的嗣爹嗣妈/我线下真不是大老粗，喝高了会泄露隐私⛔️先去问AI查我成分立场再开火好不，各位\\\\欢迎勇士把我搬回墙里，感激不尽（我是直男。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2071967705947898051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055663647347908608/v3bgVl7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 938,
+          "like_count": 7918,
+          "listed_count": 4,
+          "media_count": 301,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T15:57:38.000Z",
+        "description": "疯子/在哲学里寻找诗性的精神病患者/对内自治，对外专政/人道主义的西方马克思主义者？/ 自我认同极为混乱 /主人是@ouiwops喵/蓝v互关/小号 @daoyou8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "ouiwops"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "daoyou8964"
+              }
+            ]
+          }
+        },
+        "id": "1982839066120048640",
+        "location": "名为意志和表象的符号界",
+        "name": "贝托尔德·康拉德·赫尔曼·阿尔伯特·设计施",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000859063031357440/HgG29lUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 382,
+          "like_count": 3303,
+          "listed_count": 8,
+          "media_count": 428,
+          "tweet_count": 4643
+        },
+        "url": "",
+        "username": "nvdlaamdmag114",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-20T17:22:41.000Z",
+        "description": "无 只屏蔽发鬼图吓我的\n小号：https://t.co/jkuiisriva 三号机：https://t.co/HR7uasJsPv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/14172788sssz",
+                "end": 38,
+                "expanded_url": "https://x.com/14172788sssz",
+                "start": 15,
+                "url": "https://t.co/jkuiisriva"
+              },
+              {
+                "display_url": "x.com/mayilong_nmsl",
+                "end": 66,
+                "expanded_url": "https://x.com/mayilong_nmsl",
+                "start": 43,
+                "url": "https://t.co/HR7uasJsPv"
+              }
+            ]
+          }
+        },
+        "id": "1715418222701531136",
+        "name": "绅士手杖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051319556401176578/eFQkAbt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 776,
+          "like_count": 11627,
+          "listed_count": 6,
+          "media_count": 104,
+          "tweet_count": 3922
+        },
+        "url": "",
+        "username": "shen_shi88371",
+        "verified": false
+      }
+    ]
+  }
+}
