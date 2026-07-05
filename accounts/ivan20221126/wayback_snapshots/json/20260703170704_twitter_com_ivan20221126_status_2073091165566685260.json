@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2073086460560060530",
+    "created_at": "2026-07-03T17:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073091165566685260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432351612182229001",
+          "start": 0,
+          "username": "Merlyn_Void"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073091165566685260",
+    "in_reply_to_user_id": "1432351612182229001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073086460560060530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merlyn_Void 这样的人就是缝社必叫…本质粉红"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_2073085806693253122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUUjrjbAAI_3fj.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2073086460560060530",
+        "created_at": "2026-07-03T17:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073091165566685260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432351612182229001",
+              "start": 0,
+              "username": "Merlyn_Void"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073091165566685260",
+        "in_reply_to_user_id": "1432351612182229001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073086460560060530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merlyn_Void 这样的人就是缝社必叫…本质粉红"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073085806693253122"
+          ]
+        },
+        "author_id": "1432351612182229001",
+        "conversation_id": "2073086460560060530",
+        "created_at": "2026-07-03T16:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:45:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073085813920039425",
+          "2073086460560060530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQxlkQ7uTp",
+              "end": 164,
+              "expanded_url": "https://x.com/Merlyn_Void/status/2073086460560060530/photo/1",
+              "media_key": "3_2073085806693253122",
+              "start": 141,
+              "url": "https://t.co/LQxlkQ7uTp"
+            },
+            {
+              "display_url": "x.com/mubeitech/stat…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/mubeitech/status/2072719527834505720",
+              "start": 165,
+              "url": "https://t.co/KfHfQvUFtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073086460560060530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072719527834505720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1825年马克思才七岁...而且社会主义流派不止马恩两人的科学社会主义，还有空想社会主义、无政府社会主义、国家社会主义等等...欧文就是空想社会主义的代表人物，马恩两个人还专门批判过空想社会主义。\n详见：《共产党宣言》；《反杜林论》第三章，即后来的《社会主义从空想到科学的发展》。 https://t.co/LQxlkQ7uTp https://t.co/KfHfQvUFtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 108,
+          "like_count": 1317,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer，顺直勿扰。\n喜欢的动物是信天翁\n@Merlyn27781069",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "Merlyn27781069"
+              }
+            ]
+          }
+        },
+        "id": "1432351612182229001",
+        "location": "🚪288",
+        "name": "黄徵灏",
+        "pinned_tweet_id": "2049105797842665732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420892949983232/XXFwiCyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24954,
+          "following_count": 270,
+          "like_count": 13549,
+          "listed_count": 53,
+          "media_count": 80,
+          "tweet_count": 4248
+        },
+        "url": "",
+        "username": "Merlyn_Void",
+        "verified": true
+      }
+    ]
+  }
+}

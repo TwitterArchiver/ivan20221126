@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2072675932239011978",
+    "created_at": "2026-07-03T17:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073090935282655392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791720257616539648",
+          "start": 0,
+          "username": "xi_qi56862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073090935282655392",
+    "in_reply_to_user_id": "1791720257616539648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072675932239011978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_qi56862 记得22年有个叫窝窝头的，武汉的一位"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_2072675929974054912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOfxtybIAA_tGP.jpg",
+        "width": 420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2072675932239011978",
+        "created_at": "2026-07-03T17:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073090935282655392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791720257616539648",
+              "start": 0,
+              "username": "xi_qi56862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073090935282655392",
+        "in_reply_to_user_id": "1791720257616539648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072675932239011978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_qi56862 记得22年有个叫窝窝头的，武汉的一位"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072675929974054912"
+          ]
+        },
+        "author_id": "1791720257616539648",
+        "conversation_id": "2072675932239011978",
+        "created_at": "2026-07-02T13:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072675932239011978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/muoBMkAflE",
+              "end": 167,
+              "expanded_url": "https://x.com/xi_qi56862/status/2072675932239011978/photo/1",
+              "media_key": "3_2072675929974054912",
+              "start": 144,
+              "url": "https://t.co/muoBMkAflE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072675932239011978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的药圈历史\n几年前药娘有贴吧叫药娘三区也有针娘吧，那时候吃药大家都是摸索出来的，什么螺内酯什么色普龙，黄体酮，在这里真的感谢前辈的实验和付出\n那时候药商是可以几支几支买的\nQQ群也是明晃晃的药娘一个群几千人\n后来有个未成年被古惑吃药，QQ群药商都被端了\n对了，有个药商叫曼谷雨和秋名缘 https://t.co/muoBMkAflE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "GO . TO .  西格玛高原",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 108,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T06:40:01.000Z",
+        "description": "跨性别公众号\n跨性别生活指南",
+        "id": "1791720257616539648",
+        "name": "异世界穿越落户办事处主任泥头车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072682676394528769/vsaISkl3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 2,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "xi_qi56862",
+        "verified": false
+      }
+    ]
+  }
+}
