@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2073477058337083510",
+    "created_at": "2026-07-04T18:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073477058337083510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/onigirifan02/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/onigirifan02/status/2073109878634381448",
+          "start": 20,
+          "url": "https://t.co/insFNjB8Ql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073477058337083510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073109878634381448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已经成为一种“学校”里的政治正确了😅😅 https://t.co/insFNjB8Ql"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2073477058337083510",
+        "created_at": "2026-07-04T18:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073477058337083510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/onigirifan02/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/onigirifan02/status/2073109878634381448",
+              "start": 20,
+              "url": "https://t.co/insFNjB8Ql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073477058337083510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073109878634381448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经成为一种“学校”里的政治正确了😅😅 https://t.co/insFNjB8Ql"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803180770854588416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2073057927871803869",
+        "created_at": "2026-07-03T18:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073109878634381448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073109878634381448",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 751,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073057927871803869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 看了你挺久了，这个我是真的不理解。我在留学，这边所有人都理所应当往洗衣机里放内衣啊。鞋子是硬物容易损坏机器所以不能放，内衣到底有什么问题。总不能说国产洗衣机的构造不一样吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 115,
+          "like_count": 1520,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T21:40:00.000Z",
+        "description": "",
+        "id": "1803180770854588416",
+        "location": "日本 埼玉",
+        "name": "想吃泡菜肥牛堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033733499174457346/vsqDWTgY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 157,
+          "like_count": 3294,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "onigirifan02",
+        "verified": false
+      }
+    ]
+  }
+}

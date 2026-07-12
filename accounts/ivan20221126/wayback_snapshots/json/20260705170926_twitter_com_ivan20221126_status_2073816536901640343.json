@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073816534427037696"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2073506343277777030",
+    "created_at": "2026-07-05T17:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073816536901640343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1707355728116056064",
+          "start": 0,
+          "username": "Lavader_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Un8st3ftA8",
+          "end": 42,
+          "expanded_url": "https://x.com/ivan20221126/status/2073816536901640343/photo/1",
+          "media_key": "3_2073816534427037696",
+          "start": 19,
+          "url": "https://t.co/Un8st3ftA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073816536901640343",
+    "in_reply_to_user_id": "1707355728116056064",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073506343277777030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lavader_ bro…😭😭🙌🙌 https://t.co/Un8st3ftA8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_2073816534427037696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMetJofa8AAyB3u.jpg",
+        "width": 1263
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073506292421775360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaS_K9WUAAsgpR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073816534427037696"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2073506343277777030",
+        "created_at": "2026-07-05T17:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073816536901640343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1707355728116056064",
+              "start": 0,
+              "username": "Lavader_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Un8st3ftA8",
+              "end": 42,
+              "expanded_url": "https://x.com/ivan20221126/status/2073816536901640343/photo/1",
+              "media_key": "3_2073816534427037696",
+              "start": 19,
+              "url": "https://t.co/Un8st3ftA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073816536901640343",
+        "in_reply_to_user_id": "1707355728116056064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073506343277777030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lavader_ bro…😭😭🙌🙌 https://t.co/Un8st3ftA8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073506292421775360"
+          ]
+        },
+        "author_id": "1707355728116056064",
+        "conversation_id": "2073506343277777030",
+        "created_at": "2026-07-04T20:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073506343277777030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urTOUCdGLH",
+              "end": 35,
+              "expanded_url": "https://x.com/Lavader_/status/2073506343277777030/photo/1",
+              "media_key": "3_2073506292421775360",
+              "start": 12,
+              "url": "https://t.co/urTOUCdGLH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073506343277777030",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 66810,
+          "like_count": 3010,
+          "quote_count": 17,
+          "reply_count": 82,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "Face reveal https://t.co/urTOUCdGLH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 119,
+          "like_count": 1703,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T11:25:09.000Z",
+        "description": "o algo or something",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Lavader_",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Lavader_",
+                "start": 0,
+                "url": "https://t.co/OVEPP7aIcx"
+              }
+            ]
+          }
+        },
+        "id": "1707355728116056064",
+        "name": "Lavader",
+        "pinned_tweet_id": "2067297798718955957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024906369195823104/TnBAXNwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10987,
+          "following_count": 540,
+          "like_count": 3640,
+          "listed_count": 25,
+          "media_count": 2955,
+          "tweet_count": 8001
+        },
+        "url": "https://t.co/OVEPP7aIcx",
+        "username": "Lavader_",
+        "verified": true
+      }
+    ]
+  }
+}

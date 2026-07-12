@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2073804610893189132",
+    "created_at": "2026-07-05T17:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073816128217133555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "202930555",
+          "start": 0,
+          "username": "Sattakom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073816128217133555",
+    "in_reply_to_user_id": "202930555",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073804610893189132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sattakom 沼泽来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2073804610893189132",
+        "created_at": "2026-07-05T17:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073816128217133555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "202930555",
+              "start": 0,
+              "username": "Sattakom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073816128217133555",
+        "in_reply_to_user_id": "202930555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073804610893189132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sattakom 沼泽来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "202930555",
+        "conversation_id": "2073804610893189132",
+        "created_at": "2026-07-05T16:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073804610893189132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073804610893189132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说湖北是中原地区的直接当街打死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 119,
+          "like_count": 1703,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-15T03:53:21.000Z",
+        "description": "MtX，",
+        "id": "202930555",
+        "location": "广州",
+        "name": "Librium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043410568820973568/N_9Ii6h6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 211,
+          "like_count": 8031,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "Sattakom",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2073551654566174720"
+      ],
+      "media_source_tweet_id": [
+        "2073551684387602684"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073815973216534860",
+    "created_at": "2026-07-05T17:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073815973216534860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2036615635434872832",
+          "start": 3,
+          "username": "CARLOSEMS148672"
+        },
+        {
+          "end": 34,
+          "id": "1945775527547338752",
+          "start": 21,
+          "username": "C0ronelSakin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eiXRXtE2kh",
+          "end": 58,
+          "expanded_url": "https://x.com/Ebberino_/status/2073551684387602684/video/1",
+          "media_key": "7_2073551654566174720",
+          "start": 35,
+          "url": "https://t.co/eiXRXtE2kh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073815973216534860",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073733889281900961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CARLOSEMS148672: @C0ronelSakin https://t.co/eiXRXtE2kh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9300,
+        "height": 682,
+        "media_key": "7_2073551654566174720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073551654566174720/pu/img/kx0bKhR4ZjQsVaj6.jpg",
+        "public_metrics": {
+          "view_count": 208115
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073551654566174720/pu/vid/avc1/506x270/S_gdKjLswDNHoGGp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073551654566174720/pu/vid/avc1/674x360/qlqOT9bor117IBOX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073551654566174720/pu/vid/avc1/1280x682/N81uwZ_S0qEm-t88.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073551654566174720/pu/pl/Q7iaLTeWy-1CpPJp.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073551654566174720"
+          ],
+          "media_source_tweet_id": [
+            "2073551684387602684"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073815973216534860",
+        "created_at": "2026-07-05T17:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073815973216534860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2036615635434872832",
+              "start": 3,
+              "username": "CARLOSEMS148672"
+            },
+            {
+              "end": 34,
+              "id": "1945775527547338752",
+              "start": 21,
+              "username": "C0ronelSakin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eiXRXtE2kh",
+              "end": 58,
+              "expanded_url": "https://x.com/Ebberino_/status/2073551684387602684/video/1",
+              "media_key": "7_2073551654566174720",
+              "start": 35,
+              "url": "https://t.co/eiXRXtE2kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073815973216534860",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073733889281900961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CARLOSEMS148672: @C0ronelSakin https://t.co/eiXRXtE2kh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073551654566174720"
+          ],
+          "media_source_tweet_id": [
+            "2073551684387602684"
+          ]
+        },
+        "author_id": "2036615635434872832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073617992823300558",
+        "created_at": "2026-07-05T11:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073733889281900961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945775527547338752",
+              "start": 0,
+              "username": "C0ronelSakin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eiXRXtE2kh",
+              "end": 37,
+              "expanded_url": "https://x.com/Ebberino_/status/2073551684387602684/video/1",
+              "media_key": "7_2073551654566174720",
+              "start": 14,
+              "url": "https://t.co/eiXRXtE2kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073733889281900961",
+        "in_reply_to_user_id": "1945775527547338752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 735,
+          "impression_count": 276173,
+          "like_count": 679,
+          "quote_count": 40,
+          "reply_count": 57,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073617992823300558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C0ronelSakin https://t.co/eiXRXtE2kh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 119,
+          "like_count": 1703,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T01:26:39.000Z",
+        "description": "",
+        "id": "2036615635434872832",
+        "name": "kaleica2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036615713092485121/1igQNtKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 1308,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "CARLOSEMS148672",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T09:20:23.000Z",
+        "description": "Posso ser misantropo, mas eu ❤️ minha mulher @x0grxxx 💍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "x0grxxx"
+              }
+            ]
+          }
+        },
+        "id": "1945775527547338752",
+        "location": "Lá",
+        "name": "Sakin 🧪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069584996155740160/XsMjf5-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 358,
+          "like_count": 41632,
+          "listed_count": 1,
+          "media_count": 1714,
+          "tweet_count": 15267
+        },
+        "url": "",
+        "username": "C0ronelSakin",
+        "verified": false
+      }
+    ]
+  }
+}

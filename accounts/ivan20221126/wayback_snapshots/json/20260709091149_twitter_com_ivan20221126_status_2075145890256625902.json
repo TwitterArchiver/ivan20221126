@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2075104672256532697",
+    "created_at": "2026-07-09T09:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075145890256625902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1890029305205608448",
+          "start": 0,
+          "username": "wsl8297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075145890256625902",
+    "in_reply_to_user_id": "1890029305205608448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075104672256532697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsl8297 那叫佛山，而且广州目前向东向南发展"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2224,
+        "media_key": "3_2075104669182115840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxAs8ZawAAO2Im.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2075104672256532697",
+        "created_at": "2026-07-09T09:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075145890256625902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890029305205608448",
+              "start": 0,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075145890256625902",
+        "in_reply_to_user_id": "1890029305205608448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075104672256532697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsl8297 那叫佛山，而且广州目前向东向南发展"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075104669182115840"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2075104672256532697",
+        "created_at": "2026-07-09T06:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075104672256532697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3HyNIgXNw",
+              "end": 40,
+              "expanded_url": "https://x.com/wsl8297/status/2075104672256532697/photo/1",
+              "media_key": "3_2075104669182115840",
+              "start": 17,
+              "url": "https://t.co/H3HyNIgXNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075104672256532697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4708,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就问，广州西边怎么不开发呢？ https://t.co/H3HyNIgXNw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 133,
+          "like_count": 2411,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2073556468004163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19308,
+          "following_count": 671,
+          "like_count": 22377,
+          "listed_count": 106,
+          "media_count": 3381,
+          "tweet_count": 20478
+        },
+        "url": "",
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

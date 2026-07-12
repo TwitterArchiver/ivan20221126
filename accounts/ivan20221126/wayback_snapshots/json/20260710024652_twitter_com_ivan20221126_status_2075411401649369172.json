@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2075411401649369172",
+    "created_at": "2026-07-10T02:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075411401649369172"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075411401649369172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "藤语录之\n我本早就离开了这地方，但今天我被某几位神明气急逼疯了，倒好像越不管越让各个Kaisers得寸进尺蹬鼻子上脸。打扰到圈外我这啮齿科的生活了\n现在我は，只要保卫我平静的日子，不稀罕你们传的鬼王位，也不想管啥事，更懒得辟谣或减害\n只是为了保卫退圈生活，希望你们能明白，谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2075411401649369172",
+        "created_at": "2026-07-10T02:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075411401649369172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075411401649369172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "藤语录之\n我本早就离开了这地方，但今天我被某几位神明气急逼疯了，倒好像越不管越让各个Kaisers得寸进尺蹬鼻子上脸。打扰到圈外我这啮齿科的生活了\n现在我は，只要保卫我平静的日子，不稀罕你们传的鬼王位，也不想管啥事，更懒得辟谣或减害\n只是为了保卫退圈生活，希望你们能明白，谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 132,
+          "like_count": 2505,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      }
+    ]
+  }
+}

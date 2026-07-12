@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2073234688458817660",
+    "created_at": "2026-07-04T15:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073424227009802255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        },
+        {
+          "end": 21,
+          "id": "2064752526495457280",
+          "start": 11,
+          "username": "SachiMizz"
+        },
+        {
+          "end": 32,
+          "id": "2069406688478961664",
+          "start": 22,
+          "username": "7catface7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073424227009802255",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073347657507152269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo @SachiMizz @7catface7 台湾香港人就这样，如果你是粤语区的那你自然能明白为什么他们说话夹英语。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2073234688458817660",
+        "created_at": "2026-07-04T15:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073424227009802255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 21,
+              "id": "2064752526495457280",
+              "start": 11,
+              "username": "SachiMizz"
+            },
+            {
+              "end": 32,
+              "id": "2069406688478961664",
+              "start": 22,
+              "username": "7catface7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073424227009802255",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073347657507152269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo @SachiMizz @7catface7 台湾香港人就这样，如果你是粤语区的那你自然能明白为什么他们说话夹英语。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2073234688458817660",
+        "created_at": "2026-07-04T10:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073347657507152269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064752526495457280",
+              "start": 0,
+              "username": "SachiMizz"
+            },
+            {
+              "end": 21,
+              "id": "2069406688478961664",
+              "start": 11,
+              "username": "7catface7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073347657507152269",
+        "in_reply_to_user_id": "2064752526495457280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073340409414406345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SachiMizz @7catface7 Even worse翻译成江河日下好评\n其实我倒是能看懂，就是很讨厌这种说话方式，因为我觉得在装逼（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 115,
+          "like_count": 1476,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2072961052191686875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 50,
+          "like_count": 165,
+          "listed_count": 5,
+          "media_count": 538,
+          "tweet_count": 1383
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-10T16:53:28.000Z",
+        "description": "",
+        "id": "2064752526495457280",
+        "name": "SachiMi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064753140696797184/1hbEk6nV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 73,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "SachiMizz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T13:08:24.000Z",
+        "description": "@9facecat9\n@8yellowmika8\nNekoFace大家族。N9N8shadowbaning now",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "9facecat9"
+              },
+              {
+                "end": 24,
+                "start": 11,
+                "username": "8yellowmika8"
+              }
+            ]
+          }
+        },
+        "id": "2069406688478961664",
+        "name": "NekoFace7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069408359615549440/XmnL30vT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "7catface7",
+        "verified": false
+      }
+    ]
+  }
+}

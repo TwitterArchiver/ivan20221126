@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2074489477960028584",
+    "created_at": "2026-07-08T03:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074699922373488777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1482174642240770048",
+          "start": 0,
+          "username": "nali87929715"
+        },
+        {
+          "end": 28,
+          "id": "1634486559721558016",
+          "start": 14,
+          "username": "MuShuangsheng"
+        },
+        {
+          "end": 44,
+          "id": "1595110651621318656",
+          "start": 29,
+          "username": "ProcyonCoke731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074699922373488777",
+    "in_reply_to_user_id": "1482174642240770048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074571227591774487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nali87929715 @MuShuangsheng @ProcyonCoke731 蛇拔牙就死了，一般是毒腺结扎吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2074489477960028584",
+        "created_at": "2026-07-08T03:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074699922373488777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1482174642240770048",
+              "start": 0,
+              "username": "nali87929715"
+            },
+            {
+              "end": 28,
+              "id": "1634486559721558016",
+              "start": 14,
+              "username": "MuShuangsheng"
+            },
+            {
+              "end": 44,
+              "id": "1595110651621318656",
+              "start": 29,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074699922373488777",
+        "in_reply_to_user_id": "1482174642240770048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074571227591774487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nali87929715 @MuShuangsheng @ProcyonCoke731 蛇拔牙就死了，一般是毒腺结扎吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482174642240770048",
+        "conversation_id": "2074489477960028584",
+        "created_at": "2026-07-07T19:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074571227591774487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634486559721558016",
+              "start": 0,
+              "username": "MuShuangsheng"
+            },
+            {
+              "end": 30,
+              "id": "1595110651621318656",
+              "start": 15,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074571227591774487",
+        "in_reply_to_user_id": "1634486559721558016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074563376894939201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuShuangsheng @ProcyonCoke731 蛇场的一般都拔牙\n但广西那地方本来蛇就多……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 128,
+          "like_count": 2187,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T02:16:09.000Z",
+        "description": "加入五月天 永远不会太迟",
+        "id": "1482174642240770048",
+        "location": "中国",
+        "name": "辣辣🥕",
+        "pinned_tweet_id": "2063981154794192991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061020073993834496/7CJzxFim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 42,
+          "like_count": 8241,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1987
+        },
+        "url": "",
+        "username": "nali87929715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T09:29:15.000Z",
+        "description": "找各种方法爬来看推特， 好麻烦好容易卡喔……\n点个赞都容易莫名失效😇，而且我还没完全明白推特的用法！迄今为止做到的所有的操作几乎都是猜的😭",
+        "id": "1634486559721558016",
+        "name": "木双笙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074563829208637440/GGePIU7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 52,
+          "like_count": 4317,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "MuShuangsheng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "1981997572719014169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023258759754080256/8WJDUScr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5592,
+          "following_count": 1186,
+          "like_count": 34308,
+          "listed_count": 62,
+          "media_count": 4121,
+          "tweet_count": 17953
+        },
+        "url": "",
+        "username": "ProcyonCoke731",
+        "verified": true
+      }
+    ]
+  }
+}

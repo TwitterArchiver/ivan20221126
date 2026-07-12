@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074779715181924352"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2074717619664617850",
+    "created_at": "2026-07-08T08:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074779717484662888"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "中式tcc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XnLD0rVD37",
+          "end": 53,
+          "expanded_url": "https://x.com/ivan20221126/status/2074779717484662888/photo/1",
+          "media_key": "3_2074779715181924352",
+          "start": 30,
+          "url": "https://t.co/XnLD0rVD37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074779717484662888",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074717619664617850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fuugetsu_808 #中式tcc 大泥头车猛创啊嗯 https://t.co/XnLD0rVD37"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 967,
+        "media_key": "3_2074779715181924352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsZKIaa0AADcS-.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1629,
+        "media_key": "3_2074717616535687168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrgrg7a0AAvemk.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074779715181924352"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2074717619664617850",
+        "created_at": "2026-07-08T08:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074779717484662888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "中式tcc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnLD0rVD37",
+              "end": 53,
+              "expanded_url": "https://x.com/ivan20221126/status/2074779717484662888/photo/1",
+              "media_key": "3_2074779715181924352",
+              "start": 30,
+              "url": "https://t.co/XnLD0rVD37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074779717484662888",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074717619664617850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 #中式tcc 大泥头车猛创啊嗯 https://t.co/XnLD0rVD37"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074717616535687168"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2074717619664617850",
+        "created_at": "2026-07-08T04:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074717619664617850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PknypMH8DX",
+              "end": 43,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2074717619664617850/photo/1",
+              "media_key": "3_2074717616535687168",
+              "start": 20,
+              "url": "https://t.co/PknypMH8DX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074717619664617850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 943,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来老一代也有嘉豪 不过这豪的有点哈人 https://t.co/PknypMH8DX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 131,
+          "like_count": 2235,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5720,
+          "following_count": 1913,
+          "like_count": 72796,
+          "listed_count": 13,
+          "media_count": 1634,
+          "tweet_count": 12455
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

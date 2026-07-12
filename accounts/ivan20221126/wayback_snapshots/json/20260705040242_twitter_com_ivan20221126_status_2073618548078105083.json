@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072415386096517120"
+      ],
+      "media_source_tweet_id": [
+        "2072415451334762670"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2073618548078105083",
+    "created_at": "2026-07-05T04:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073618548078105083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1457930438647762945",
+          "start": 3,
+          "username": "OregonMapGuy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fZaQoH8UsK",
+          "end": 58,
+          "expanded_url": "https://x.com/weird_andrei/status/2072415451334762670/video/1",
+          "media_key": "13_2072415386096517120",
+          "start": 35,
+          "url": "https://t.co/fZaQoH8UsK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073618548078105083",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072828371080187983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OregonMapGuy: Oh my god bruh 💀 https://t.co/fZaQoH8UsK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19786,
+        "height": 720,
+        "media_key": "13_2072415386096517120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072415386096517120/img/zzIgNXIBnmEM8BQn.jpg",
+        "public_metrics": {
+          "view_count": 310739
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072415386096517120/vid/avc1/320x320/zsZmMz7Jg4TlzFK7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072415386096517120/vid/avc1/540x540/X9HHPiRQdxlOTiVl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072415386096517120/vid/avc1/720x720/91w-fWXH4MTkjMM_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072415386096517120/pl/IrN0UlrYo_qIOtBK.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072415386096517120"
+          ],
+          "media_source_tweet_id": [
+            "2072415451334762670"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2073618548078105083",
+        "created_at": "2026-07-05T04:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073618548078105083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1457930438647762945",
+              "start": 3,
+              "username": "OregonMapGuy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZaQoH8UsK",
+              "end": 58,
+              "expanded_url": "https://x.com/weird_andrei/status/2072415451334762670/video/1",
+              "media_key": "13_2072415386096517120",
+              "start": 35,
+              "url": "https://t.co/fZaQoH8UsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073618548078105083",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072828371080187983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OregonMapGuy: Oh my god bruh 💀 https://t.co/fZaQoH8UsK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072415386096517120"
+          ],
+          "media_source_tweet_id": [
+            "2072415451334762670"
+          ]
+        },
+        "author_id": "1457930438647762945",
+        "conversation_id": "2072828371080187983",
+        "created_at": "2026-07-02T23:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072828371080187983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZaQoH8UsK",
+              "end": 40,
+              "expanded_url": "https://x.com/weird_andrei/status/2072415451334762670/video/1",
+              "media_key": "13_2072415386096517120",
+              "start": 17,
+              "url": "https://t.co/fZaQoH8UsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072828371080187983",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 550,
+          "impression_count": 632530,
+          "like_count": 2120,
+          "quote_count": 64,
+          "reply_count": 45,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "Oh my god bruh 💀 https://t.co/fZaQoH8UsK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 117,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-09T04:38:07.000Z",
+        "description": "revolutionary institutionalist ¡YO SOY GRINGO!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "curiouscat.me/OregonMapGuy",
+                "end": 23,
+                "expanded_url": "https://curiouscat.me/OregonMapGuy",
+                "start": 0,
+                "url": "https://t.co/kXf0x7WLa5"
+              }
+            ]
+          }
+        },
+        "id": "1457930438647762945",
+        "location": "Kerry-McCain Country",
+        "name": "OregonMapGuy, IQ 277",
+        "pinned_tweet_id": "1871684835179458921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054398252250787840/MjH4uv14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14116,
+          "following_count": 735,
+          "like_count": 116266,
+          "listed_count": 119,
+          "media_count": 19575,
+          "tweet_count": 68854
+        },
+        "url": "https://t.co/kXf0x7WLa5",
+        "username": "OregonMapGuy",
+        "verified": false
+      }
+    ]
+  }
+}

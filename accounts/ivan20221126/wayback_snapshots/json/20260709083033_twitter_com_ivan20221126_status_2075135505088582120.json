@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2074910229930631439",
+    "created_at": "2026-07-09T08:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075135505088582120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2048537365275422720",
+          "start": 0,
+          "username": "cmqxccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075135505088582120",
+    "in_reply_to_user_id": "2048537365275422720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074910229930631439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cmqxccc 藤父何时离开原生家庭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 684,
+        "media_key": "3_2074910214046748672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuP2KkWEAAs8T8.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2074910229930631439",
+        "created_at": "2026-07-09T08:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075135505088582120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2048537365275422720",
+              "start": 0,
+              "username": "cmqxccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075135505088582120",
+        "in_reply_to_user_id": "2048537365275422720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074910229930631439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cmqxccc 藤父何时离开原生家庭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074910214046748672"
+          ]
+        },
+        "author_id": "2048537365275422720",
+        "conversation_id": "2074910229930631439",
+        "created_at": "2026-07-08T17:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074910229930631439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEAH7CT5wN",
+              "end": 56,
+              "expanded_url": "https://x.com/cmqxccc/status/2074910229930631439/photo/1",
+              "media_key": "3_2074910214046748672",
+              "start": 33,
+              "url": "https://t.co/vEAH7CT5wN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074910229930631439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后藤的父亲可以抱怨他的原生家庭了怎么生了崽还哈气把自己整医院去了 https://t.co/vEAH7CT5wN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 132,
+          "like_count": 2396,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T23:00:42.000Z",
+        "description": "/mtf hrt：22.12.8/欢迎大家和我互关互赞/前身@know_hhh51945/前前身@linghuajingming/@Masterlatos/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "know_hhh51945"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "linghuajingming"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Masterlatos"
+              }
+            ]
+          }
+        },
+        "id": "2048537365275422720",
+        "name": "彼岸境",
+        "pinned_tweet_id": "2053137254504443959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071874760183533568/XNicnYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 204,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "cmqxccc",
+        "verified": false
+      }
+    ]
+  }
+}

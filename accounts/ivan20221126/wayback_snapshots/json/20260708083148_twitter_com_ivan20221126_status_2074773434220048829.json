@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2074773434220048829",
+    "created_at": "2026-07-08T08:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074773434220048829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/worldpeople201…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/worldpeople2019/status/2074103321795936627",
+          "start": 138,
+          "url": "https://t.co/D4T82GWYd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074773434220048829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074103321795936627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美国驻中国大使馆近日罕见呼吁美国网民停止渲染反中情绪，强调网络上有人以“爱国”的名义“宣扬对立排外”” —— 拉倒吧，要不是好多中国劳工在美国的一些不文明行为大量存在，大家会有这么大意见吗？大量中国人在报纸上抹黑美国，大使馆眼瞎了吗？——一名相信黄祸论的朴素美国爱国者如是说 https://t.co/D4T82GWYd2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2074773434220048829",
+        "created_at": "2026-07-08T08:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074773434220048829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/worldpeople201…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/worldpeople2019/status/2074103321795936627",
+              "start": 138,
+              "url": "https://t.co/D4T82GWYd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074773434220048829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074103321795936627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国驻中国大使馆近日罕见呼吁美国网民停止渲染反中情绪，强调网络上有人以“爱国”的名义“宣扬对立排外”” —— 拉倒吧，要不是好多中国劳工在美国的一些不文明行为大量存在，大家会有这么大意见吗？大量中国人在报纸上抹黑美国，大使馆眼瞎了吗？——一名相信黄祸论的朴素美国爱国者如是说 https://t.co/D4T82GWYd2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1166967403407802368",
+        "conversation_id": "2074100827141320852",
+        "created_at": "2026-07-06T12:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074103321795936627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074103321795936627",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7254,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074100827141320852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese “中国驻印度大使馆近日罕见呼吁中国网民停止渲染反印度情绪，强调网络上有人以“爱国”的名义“宣扬对立排外”” —— 拉倒吧，要不是好多印度人在中国的一些不文明行为大量存在，大家会有这么大意见吗？大量印度人在推上抹黑中国，大使馆眼瞎了吗？大使馆不如公布一下这几年对印度发放的签证数量，这样比较好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 131,
+          "like_count": 2228,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-29T06:55:22.000Z",
+        "description": "户外爱好者，电子工程师，户外地图软件开发者  hiking & camping, Map navigation technology 真相主义+人道主义+华夏主义",
+        "id": "1166967403407802368",
+        "location": "outdoor",
+        "name": "山夫 hiker",
+        "pinned_tweet_id": "1975408590585536536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000843126190301187/5S5mVLQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5580,
+          "following_count": 375,
+          "like_count": 10657,
+          "listed_count": 62,
+          "media_count": 2703,
+          "tweet_count": 21150
+        },
+        "url": "",
+        "username": "worldpeople2019",
+        "verified": false
+      }
+    ]
+  }
+}

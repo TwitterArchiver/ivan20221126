@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073382223831515136"
+      ],
+      "media_source_tweet_id": [
+        "2073382288260309437"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      }
+    ],
+    "conversation_id": "2073727079246668060",
+    "created_at": "2026-07-05T11:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073727079246668060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1717933401368399872",
+          "start": 3,
+          "username": "HORMIGA_RETURNS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0zJvoyGr7m",
+          "end": 59,
+          "expanded_url": "https://x.com/HORMIGA_RETURNS/status/2073382288260309437/video/1",
+          "media_key": "13_2073382223831515136",
+          "start": 36,
+          "url": "https://t.co/0zJvoyGr7m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073727079246668060",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5594
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073382288260309437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HORMIGA_RETURNS: ya lo encontre https://t.co/0zJvoyGr7m"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6942,
+        "height": 360,
+        "media_key": "13_2073382223831515136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073382223831515136/img/ErFYhQ2uiZVe2LBc.jpg",
+        "public_metrics": {
+          "view_count": 267675
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073382223831515136/vid/avc1/316x270/051ytLyfsT2D6jPL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073382223831515136/vid/avc1/422x360/VuN-axjXcLmExdD2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073382223831515136/pl/BTfWYwN6aTYSaJoc.m3u8?tag=14"
+          }
+        ],
+        "width": 422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073382223831515136"
+          ],
+          "media_source_tweet_id": [
+            "2073382288260309437"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          }
+        ],
+        "conversation_id": "2073727079246668060",
+        "created_at": "2026-07-05T11:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073727079246668060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1717933401368399872",
+              "start": 3,
+              "username": "HORMIGA_RETURNS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zJvoyGr7m",
+              "end": 59,
+              "expanded_url": "https://x.com/HORMIGA_RETURNS/status/2073382288260309437/video/1",
+              "media_key": "13_2073382223831515136",
+              "start": 36,
+              "url": "https://t.co/0zJvoyGr7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073727079246668060",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5594
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073382288260309437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HORMIGA_RETURNS: ya lo encontre https://t.co/0zJvoyGr7m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073382223831515136"
+          ]
+        },
+        "author_id": "1717933401368399872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          }
+        ],
+        "conversation_id": "2073382288260309437",
+        "created_at": "2026-07-04T12:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073382288260309437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zJvoyGr7m",
+              "end": 38,
+              "expanded_url": "https://x.com/HORMIGA_RETURNS/status/2073382288260309437/video/1",
+              "media_key": "13_2073382223831515136",
+              "start": 15,
+              "url": "https://t.co/0zJvoyGr7m"
+            },
+            {
+              "display_url": "x.com/HORMIGA_RETURN…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/HORMIGA_RETURNS/status/2073381324388233321",
+              "start": 39,
+              "url": "https://t.co/jYUB9VmxIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073382288260309437",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10026,
+          "impression_count": 603260,
+          "like_count": 39679,
+          "quote_count": 100,
+          "reply_count": 125,
+          "retweet_count": 5594
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073381324388233321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ya lo encontre https://t.co/0zJvoyGr7m https://t.co/jYUB9VmxIH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 117,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T15:57:04.000Z",
+        "description": "Hola bienvenido a mi cuenta aqui veras...NADA  XDDD\n\n🇪🇸\n\nbi y chica🏳️‍⚧️",
+        "id": "1717933401368399872",
+        "location": "in your walls",
+        "name": "Una hormiga que mira tu post 🐜",
+        "pinned_tweet_id": "1718217048919007667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072209931130834944/LWBwtDn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84565,
+          "following_count": 11883,
+          "like_count": 184569,
+          "listed_count": 79,
+          "media_count": 29733,
+          "tweet_count": 373866
+        },
+        "url": "",
+        "username": "HORMIGA_RETURNS",
+        "verified": false
+      }
+    ]
+  }
+}

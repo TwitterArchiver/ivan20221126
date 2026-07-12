@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2074827093851226327",
+    "created_at": "2026-07-09T06:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075108538121330803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842224575947616256",
+          "start": 0,
+          "username": "swindpringLt1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075108538121330803",
+    "in_reply_to_user_id": "1842224575947616256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075105923568460112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swindpringLt1 时代发展的镇痛与代价🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2074827093851226327",
+        "created_at": "2026-07-09T06:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075108538121330803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842224575947616256",
+              "start": 0,
+              "username": "swindpringLt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075108538121330803",
+        "in_reply_to_user_id": "1842224575947616256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075105923568460112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swindpringLt1 时代发展的镇痛与代价🤣🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842224575947616256",
+        "conversation_id": "2074827093851226327",
+        "created_at": "2026-07-09T06:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075105923568460112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043745937298792448",
+              "start": 0,
+              "username": "ivan20221126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075105923568460112",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074827093851226327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan20221126 这个研究方向有说法\n其实lsd裸盖菇素就很好了\n不致幻说白了就是法律过不了关以及双盲实验做不了\n现在这个方向还他妈的只是研究机制的阶段呢\n等到药物临床应用出来我可能都似了💀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 132,
+          "like_count": 2383,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T15:26:00.000Z",
+        "description": "长期睡眠障碍|重度抑郁|OD|药理学研究\n歇斯底里不是力量的表现，而是暴露出力量的空虚",
+        "id": "1842224575947616256",
+        "name": "澪一",
+        "pinned_tweet_id": "2073750726061535237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842225102991269888/XR6enADE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 222,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "swindpringLt1",
+        "verified": false
+      }
+    ]
+  }
+}

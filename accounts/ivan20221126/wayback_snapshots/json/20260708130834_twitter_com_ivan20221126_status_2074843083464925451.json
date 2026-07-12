@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2074843083464925451",
+    "created_at": "2026-07-08T13:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074843083464925451"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "红丸"
+        },
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "男性力量"
+        },
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "维护我们的汉族纯净性"
+        },
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "让汉再次伟大"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Meguminsama200…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Meguminsama2009/status/2074828559236157889",
+          "start": 38,
+          "url": "https://t.co/m5zjTPipGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074843083464925451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074828559236157889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有懂的   #红丸 #男性力量 #维护我们的汉族纯净性 #让汉再次伟大 https://t.co/m5zjTPipGy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2074828503166660608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtFh90asAA6jue.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2074843083464925451",
+        "created_at": "2026-07-08T13:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074843083464925451"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "红丸"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "男性力量"
+            },
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "维护我们的汉族纯净性"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "让汉再次伟大"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Meguminsama200…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Meguminsama2009/status/2074828559236157889",
+              "start": 38,
+              "url": "https://t.co/m5zjTPipGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074843083464925451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074828559236157889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有懂的   #红丸 #男性力量 #维护我们的汉族纯净性 #让汉再次伟大 https://t.co/m5zjTPipGy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074828503166660608"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2074828559236157889",
+        "created_at": "2026-07-08T12:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074828559236157889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2rcC4vBcm",
+              "end": 73,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2074828559236157889/photo/1",
+              "media_key": "3_2074828503166660608",
+              "start": 50,
+              "url": "https://t.co/R2rcC4vBcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074828559236157889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 570,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我完全无法想象皇汉和男娘是怎么组合到一起的，这不是左右脑互搏吗？吓哭了\n\n（说实话长得还挺好看的） https://t.co/R2rcC4vBcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 132,
+          "like_count": 2303,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1962,
+          "like_count": 3369,
+          "listed_count": 2,
+          "media_count": 706,
+          "tweet_count": 7680
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

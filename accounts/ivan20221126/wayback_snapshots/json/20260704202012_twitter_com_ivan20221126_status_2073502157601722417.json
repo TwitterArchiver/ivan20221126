@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2073318377217786057",
+    "created_at": "2026-07-04T20:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T21:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073502157601722417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012843367982628864",
+          "start": 0,
+          "username": "XiaoJi0403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073502157601722417",
+    "in_reply_to_user_id": "2012843367982628864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073318377217786057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoJi0403 此肉只因天上有，人间难得几会见"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073318365570191360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXoEY4a0AAX1kT.jpg",
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2073318377217786057",
+        "created_at": "2026-07-04T20:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073502157601722417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012843367982628864",
+              "start": 0,
+              "username": "XiaoJi0403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073502157601722417",
+        "in_reply_to_user_id": "2012843367982628864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073318377217786057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoJi0403 此肉只因天上有，人间难得几会见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073318365570191360"
+          ]
+        },
+        "author_id": "2012843367982628864",
+        "conversation_id": "2073318377217786057",
+        "created_at": "2026-07-04T08:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073318377217786057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYQSKTf8W7",
+              "end": 60,
+              "expanded_url": "https://x.com/XiaoJi0403/status/2073318377217786057/photo/1",
+              "media_key": "3_2073318365570191360",
+              "start": 37,
+              "url": "https://t.co/GYQSKTf8W7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073318377217786057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 294703,
+          "like_count": 930,
+          "quote_count": 15,
+          "reply_count": 252,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "再一次对清华祛魅了，不得不佩服中国应试教育的牛逼，能把大佬丘成桐气发飙🤣 https://t.co/GYQSKTf8W7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 116,
+          "like_count": 1535,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T11:04:05.000Z",
+        "description": "娱乐丨艺术丨科技丨情感丨社会丨杂谈",
+        "id": "2012843367982628864",
+        "name": "老季",
+        "pinned_tweet_id": "2057366163508650237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044687987460485120/NTtGh8Vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14905,
+          "following_count": 961,
+          "like_count": 12530,
+          "listed_count": 30,
+          "media_count": 985,
+          "tweet_count": 6446
+        },
+        "url": "",
+        "username": "XiaoJi0403",
+        "verified": true
+      }
+    ]
+  }
+}

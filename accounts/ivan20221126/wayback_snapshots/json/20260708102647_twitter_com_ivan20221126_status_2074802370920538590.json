@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2074802370920538590",
+    "created_at": "2026-07-08T10:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074802370920538590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haruharuAniaka…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/haruharuAniaka2/status/2074491881288073559",
+          "start": 7,
+          "url": "https://t.co/lDVagAAwb4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074802370920538590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074491881288073559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗨呀，是我吗 https://t.co/lDVagAAwb4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2074491876145872896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoTXscbwAAluV-.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2074802370920538590",
+        "created_at": "2026-07-08T10:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074802370920538590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haruharuAniaka…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/haruharuAniaka2/status/2074491881288073559",
+              "start": 7,
+              "url": "https://t.co/lDVagAAwb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074802370920538590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074491881288073559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗨呀，是我吗 https://t.co/lDVagAAwb4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074491876145872896"
+          ]
+        },
+        "author_id": "1801829725104672768",
+        "conversation_id": "2074491881288073559",
+        "created_at": "2026-07-07T13:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074491881288073559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LjbYnwlzpi",
+              "end": 46,
+              "expanded_url": "https://x.com/haruharuAniaka2/status/2074491881288073559/photo/1",
+              "media_key": "3_2074491876145872896",
+              "start": 23,
+              "url": "https://t.co/LjbYnwlzpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074491881288073559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1229,
+          "impression_count": 2375732,
+          "like_count": 24332,
+          "quote_count": 238,
+          "reply_count": 122,
+          "retweet_count": 1882
+        },
+        "reply_settings": "everyone",
+        "text": "ヤニねこよりヤバいネコがまだ控えているという https://t.co/LjbYnwlzpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 131,
+          "like_count": 2272,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T04:11:12.000Z",
+        "description": "転生したアニメLoveな姫女子👸アニメは基本的に何でも見るし、アニメ垢ならフォロバ99%✨️ エロ垢はNG❌ 𝓕→@Lycoris3423",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Lycoris3423"
+              }
+            ]
+          }
+        },
+        "id": "1801829725104672768",
+        "name": "ハルハル@アニラブ女子",
+        "pinned_tweet_id": "1803351920045887880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027589244928331776/H6cxpEI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33701,
+          "following_count": 5763,
+          "like_count": 52034,
+          "listed_count": 81,
+          "media_count": 11185,
+          "tweet_count": 18571
+        },
+        "url": "",
+        "username": "haruharuAniaka2",
+        "verified": false
+      }
+    ]
+  }
+}

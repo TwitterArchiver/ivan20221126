@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2073959086195110301",
+    "created_at": "2026-07-06T05:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073998101774561600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073998101774561600",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073959086195110301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia 羡慕。😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2073959081698856960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMguy-dbEAAgS3V.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2073959080990035968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMguy70bUAAhtc5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2073959081610809344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMguy-IbkAACC1V.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2073959083519127553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMguzFPaMAEwZ88.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2073959086195110301",
+        "created_at": "2026-07-06T05:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073998101774561600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073998101774561600",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073959086195110301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 羡慕。😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073959081698856960",
+            "3_2073959080990035968",
+            "3_2073959081610809344",
+            "3_2073959083519127553"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "conversation_id": "2073959086195110301",
+        "created_at": "2026-07-06T02:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073959086195110301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/furFOhdYnM",
+              "end": 31,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2073959086195110301/photo/1",
+              "media_key": "3_2073959081698856960",
+              "start": 8,
+              "url": "https://t.co/furFOhdYnM"
+            },
+            {
+              "display_url": "pic.x.com/furFOhdYnM",
+              "end": 31,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2073959086195110301/photo/1",
+              "media_key": "3_2073959080990035968",
+              "start": 8,
+              "url": "https://t.co/furFOhdYnM"
+            },
+            {
+              "display_url": "pic.x.com/furFOhdYnM",
+              "end": 31,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2073959086195110301/photo/1",
+              "media_key": "3_2073959081610809344",
+              "start": 8,
+              "url": "https://t.co/furFOhdYnM"
+            },
+            {
+              "display_url": "pic.x.com/furFOhdYnM",
+              "end": 31,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2073959086195110301/photo/1",
+              "media_key": "3_2073959083519127553",
+              "start": 8,
+              "url": "https://t.co/furFOhdYnM"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "004ec16c62325149"
+        },
+        "id": "2073959086195110301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昆士兰博物馆！ https://t.co/furFOhdYnM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 120,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049492315513950209/Cp9UnZ_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7009,
+          "following_count": 4003,
+          "like_count": 165309,
+          "listed_count": 19,
+          "media_count": 2785,
+          "tweet_count": 26863
+        },
+        "url": "",
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

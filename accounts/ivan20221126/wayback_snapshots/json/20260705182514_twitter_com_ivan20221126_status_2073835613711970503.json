@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2073599539798593598",
+    "created_at": "2026-07-05T18:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073835613711970503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2051997437665902594",
+          "start": 0,
+          "username": "chuan_ge15238"
+        },
+        {
+          "end": 25,
+          "id": "1512456859776851972",
+          "start": 15,
+          "username": "wanliyan3"
+        },
+        {
+          "end": 36,
+          "id": "2063957681984225280",
+          "start": 26,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073835613711970503",
+    "in_reply_to_user_id": "2051997437665902594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073826226868007090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_ge15238 @wanliyan3 @YuwenMewo 台湾与中国不共戴天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2073599539798593598",
+        "created_at": "2026-07-05T18:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073835613711970503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051997437665902594",
+              "start": 0,
+              "username": "chuan_ge15238"
+            },
+            {
+              "end": 25,
+              "id": "1512456859776851972",
+              "start": 15,
+              "username": "wanliyan3"
+            },
+            {
+              "end": 36,
+              "id": "2063957681984225280",
+              "start": 26,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073835613711970503",
+        "in_reply_to_user_id": "2051997437665902594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073826226868007090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_ge15238 @wanliyan3 @YuwenMewo 台湾与中国不共戴天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051997437665902594",
+        "conversation_id": "2073599539798593598",
+        "created_at": "2026-07-05T17:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073826226868007090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512456859776851972",
+              "start": 0,
+              "username": "wanliyan3"
+            },
+            {
+              "end": 21,
+              "id": "2063957681984225280",
+              "start": 11,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073826226868007090",
+        "in_reply_to_user_id": "1512456859776851972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073809069710979310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanliyan3 @YuwenMewo 台湾什么时候改名，先给中华两个字去了再狗叫\n为什么台湾不改名台湾民国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 120,
+          "like_count": 1732,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T12:08:19.000Z",
+        "description": "誓死捍卫宪法，保卫民主运动；把我们的血肉，铸成我们新的长城；中华民族到了最危险的时候......",
+        "id": "2051997437665902594",
+        "location": "天安門広場",
+        "name": "世界のいちか🌸",
+        "pinned_tweet_id": "2072718339261210724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073067587806846976/yw0hoyVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 36,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 681
+        },
+        "url": "",
+        "username": "chuan_ge15238",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "高雄",
+        "id": "1512456859776851972",
+        "location": "台灣",
+        "name": "拿鐵🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044837652076322816/nH0Qk2dn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 238,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2073438230272422152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 53,
+          "like_count": 168,
+          "listed_count": 5,
+          "media_count": 547,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

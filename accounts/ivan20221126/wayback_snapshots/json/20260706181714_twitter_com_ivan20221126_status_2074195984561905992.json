@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2074194282953707643",
+    "created_at": "2026-07-06T18:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074195984561905992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058988352054218752",
+          "start": 0,
+          "username": "Ta1z19"
+        },
+        {
+          "end": 23,
+          "id": "1993150970705199108",
+          "start": 8,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074195984561905992",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074194282953707643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta1z19 @Nana_naiiiiiii 骇死我力😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2074194273281712128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkEs7YbIAAOk4z.jpg",
+        "width": 1085
+      },
+      {
+        "height": 1932,
+        "media_key": "3_2074194273273311232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkEs7Wa8AAoQdD.jpg",
+        "width": 1835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2074194282953707643",
+        "created_at": "2026-07-06T18:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074195984561905992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            },
+            {
+              "end": 23,
+              "id": "1993150970705199108",
+              "start": 8,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074195984561905992",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074194282953707643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 @Nana_naiiiiiii 骇死我力😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074194273281712128",
+            "3_2074194273273311232"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2074194282953707643",
+        "created_at": "2026-07-06T18:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074194282953707643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1993150970705199108",
+              "start": 10,
+              "username": "Nana_naiiiiiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACPlCjsnYk",
+              "end": 49,
+              "expanded_url": "https://x.com/Ta1z19/status/2074194282953707643/photo/1",
+              "media_key": "3_2074194273281712128",
+              "start": 26,
+              "url": "https://t.co/ACPlCjsnYk"
+            },
+            {
+              "display_url": "pic.x.com/ACPlCjsnYk",
+              "end": 49,
+              "expanded_url": "https://x.com/Ta1z19/status/2074194282953707643/photo/1",
+              "media_key": "3_2074194273273311232",
+              "start": 26,
+              "url": "https://t.co/ACPlCjsnYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074194282953707643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ap高潮抑制怎么办？@Nana_naiiiiiii https://t.co/ACPlCjsnYk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 124,
+          "like_count": 1909,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我 睡在清醒梦",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 69,
+          "like_count": 1765,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 848
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 294,
+          "like_count": 20576,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1584
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

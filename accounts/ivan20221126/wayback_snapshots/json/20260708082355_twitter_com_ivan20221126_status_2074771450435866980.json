@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074771447831228416"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2074771450435866980",
+    "created_at": "2026-07-08T08:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074771450435866980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MYZh9MNr88",
+          "end": 59,
+          "expanded_url": "https://x.com/ivan20221126/status/2074771450435866980/photo/1",
+          "media_key": "3_2074771447831228416",
+          "start": 36,
+          "url": "https://t.co/MYZh9MNr88"
+        },
+        {
+          "display_url": "x.com/qijieya/status…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/qijieya/status/2074748806118453312",
+          "start": 60,
+          "url": "https://t.co/mP55MZm2th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074771450435866980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074748806118453312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第二天洗胃真的有必要吗🤨🥺，已经代谢了进中枢了，洗胃反而导致了严重肺炎 https://t.co/MYZh9MNr88 https://t.co/mP55MZm2th"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_2074771447831228416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsRo6IacAAN-a1.jpg",
+        "width": 1262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074771447831228416"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2074771450435866980",
+        "created_at": "2026-07-08T08:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074771450435866980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYZh9MNr88",
+              "end": 59,
+              "expanded_url": "https://x.com/ivan20221126/status/2074771450435866980/photo/1",
+              "media_key": "3_2074771447831228416",
+              "start": 36,
+              "url": "https://t.co/MYZh9MNr88"
+            },
+            {
+              "display_url": "x.com/qijieya/status…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/qijieya/status/2074748806118453312",
+              "start": 60,
+              "url": "https://t.co/mP55MZm2th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074771450435866980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074748806118453312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二天洗胃真的有必要吗🤨🥺，已经代谢了进中枢了，洗胃反而导致了严重肺炎 https://t.co/MYZh9MNr88 https://t.co/mP55MZm2th"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605724119156260866",
+        "conversation_id": "2074748806118453312",
+        "created_at": "2026-07-08T06:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074748806118453312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074748806118453312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 144,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7.3 日夜我本人服用了三板 24×75mg 普瑞巴林几乎导致剧烈变形，幻觉下服用 2 瓶 40 片 0.4mg 阿普唑仑，8mg 劳拉西泮，80 片 0.5mg 氯硝西泮，第二天早上没死真是奇迹\n随后去往人名医院急诊洗胃，结果导致胃液误吸进肺部，导致严重肺炎，紧急转院南京脑科医院 ICU 待了四天才出来不固定时间能使用手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 131,
+          "like_count": 2227,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍 /  中度偏重度抑郁 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / ACGN 爱好者✨ / DE BG4VW 🛰 / 我真的很想有人和我说话😣 / 🏳️‍⚧️MTF / 联系方式https://t.co/F230Ex3GxN / ❤️@BD3RER / OM91 / 戳链接了解更多↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 128,
+                "username": "BD3RER"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 123,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 100,
+                "url": "https://t.co/F230Ex3GxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn/about",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn/about",
+                "start": 0,
+                "url": "https://t.co/FpIiClNZI4"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "location": "你家里",
+        "name": "锦木祈杰",
+        "pinned_tweet_id": "2069318895748739435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041346924171952128/9liNcTpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 324,
+          "like_count": 10582,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 827
+        },
+        "url": "https://t.co/FpIiClNZI4",
+        "username": "qijieya",
+        "verified": false
+      }
+    ]
+  }
+}

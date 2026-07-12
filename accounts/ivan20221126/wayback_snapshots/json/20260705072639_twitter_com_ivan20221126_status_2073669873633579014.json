@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2073669873633579014",
+    "created_at": "2026-07-05T07:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073669873633579014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NL8526/status/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/NL8526/status/2073309040063770851",
+          "start": 32,
+          "url": "https://t.co/FOtT4YtqLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073669873633579014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073309040063770851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欧弟圈小伙为了利益点人能量微小\n跨性别小伙为了撕逼核爆能量巨大 https://t.co/FOtT4YtqLS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073309037278760960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXflaSbkAA3I5R.jpg",
+        "width": 818
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2073309037052252160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXflZcbUAAuAIm.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2073669873633579014",
+        "created_at": "2026-07-05T07:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073669873633579014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/NL8526/status/2073309040063770851",
+              "start": 32,
+              "url": "https://t.co/FOtT4YtqLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073669873633579014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073309040063770851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欧弟圈小伙为了利益点人能量微小\n跨性别小伙为了撕逼核爆能量巨大 https://t.co/FOtT4YtqLS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073309037278760960",
+            "3_2073309037052252160"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2073309040063770851",
+        "created_at": "2026-07-04T07:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073309040063770851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxKFJP67vj",
+              "end": 44,
+              "expanded_url": "https://x.com/NL8526/status/2073309040063770851/photo/1",
+              "media_key": "3_2073309037278760960",
+              "start": 21,
+              "url": "https://t.co/bxKFJP67vj"
+            },
+            {
+              "display_url": "pic.x.com/bxKFJP67vj",
+              "end": 44,
+              "expanded_url": "https://x.com/NL8526/status/2073309040063770851/photo/1",
+              "media_key": "3_2073309037052252160",
+              "start": 21,
+              "url": "https://t.co/bxKFJP67vj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073309040063770851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15944,
+          "like_count": 91,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贵圈真乱 一堆贩子互相撕逼互相报警爆爆爆 https://t.co/bxKFJP67vj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 117,
+          "like_count": 1600,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3412,
+          "following_count": 895,
+          "like_count": 19827,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

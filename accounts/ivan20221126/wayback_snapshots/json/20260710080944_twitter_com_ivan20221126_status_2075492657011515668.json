@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2075104775876833718",
+    "created_at": "2026-07-10T08:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075492657011515668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075492657011515668",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075104775876833718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny 斧标驱风油用一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1083,
+        "media_key": "3_2075104754427174912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxAx59bIAA8fZT.jpg",
+        "width": 1076
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075104754435522560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxAx5_agAAyk4O.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2075104775876833718",
+        "created_at": "2026-07-10T08:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075492657011515668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075492657011515668",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075104775876833718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 斧标驱风油用一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075104754427174912",
+            "3_2075104754435522560"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2075104775876833718",
+        "created_at": "2026-07-09T06:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075104775876833718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RiHOjoEf4J",
+              "end": 149,
+              "expanded_url": "https://x.com/Easter_buny/status/2075104775876833718/photo/1",
+              "media_key": "3_2075104754427174912",
+              "start": 126,
+              "url": "https://t.co/RiHOjoEf4J"
+            },
+            {
+              "display_url": "pic.x.com/RiHOjoEf4J",
+              "end": 149,
+              "expanded_url": "https://x.com/Easter_buny/status/2075104775876833718/photo/1",
+              "media_key": "3_2075104754435522560",
+              "start": 126,
+              "url": "https://t.co/RiHOjoEf4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075104775876833718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 998,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草了，想杀人，在网上买了懒人沙发，结果里面有寄生虫，种类应该是臭虫，这段时间身上一直出现这样的咬痕，我之前一直以为是药物戒断反应，直到前天傍晚躺在沙发上玩手机，身上开始痒起来然后抓到小虫子😇，直接退货了，好了，然后今天又被咬了，好了，这个家不能待了 https://t.co/RiHOjoEf4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 132,
+          "like_count": 2541,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8402,
+          "following_count": 1252,
+          "like_count": 66776,
+          "listed_count": 8,
+          "media_count": 3083,
+          "tweet_count": 19035
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}
