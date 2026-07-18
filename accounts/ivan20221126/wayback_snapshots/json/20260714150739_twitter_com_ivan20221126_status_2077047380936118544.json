@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2077023701728665727",
+    "created_at": "2026-07-14T15:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077047380936118544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1124790071314587648",
+          "start": 0,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077047380936118544",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077023701728665727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanwujiDrink 太帅了🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077023645067771904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMSACpaAAANjAf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077023645298479104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMSADgaUAAB8Iq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077023645353070593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMSADtbUAEPeOB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077023645273305088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMSADaaMAAgEXQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2077023701728665727",
+        "created_at": "2026-07-14T15:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077047380936118544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077047380936118544",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077023701728665727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 太帅了🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077023645067771904",
+            "3_2077023645298479104",
+            "3_2077023645353070593",
+            "3_2077023645273305088"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077023701728665727",
+        "created_at": "2026-07-14T13:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077023701728665727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "救援横州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qlMH1gpxXh",
+              "end": 55,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2077023701728665727/photo/1",
+              "media_key": "3_2077023645067771904",
+              "start": 32,
+              "url": "https://t.co/qlMH1gpxXh"
+            },
+            {
+              "display_url": "pic.x.com/qlMH1gpxXh",
+              "end": 55,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2077023701728665727/photo/1",
+              "media_key": "3_2077023645298479104",
+              "start": 32,
+              "url": "https://t.co/qlMH1gpxXh"
+            },
+            {
+              "display_url": "pic.x.com/qlMH1gpxXh",
+              "end": 55,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2077023701728665727/photo/1",
+              "media_key": "3_2077023645353070593",
+              "start": 32,
+              "url": "https://t.co/qlMH1gpxXh"
+            },
+            {
+              "display_url": "pic.x.com/qlMH1gpxXh",
+              "end": 55,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2077023701728665727/photo/1",
+              "media_key": "3_2077023645273305088",
+              "start": 32,
+              "url": "https://t.co/qlMH1gpxXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077023701728665727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "横州水灾好恐怖，救援汽车根本就不去 只能开摩托车\n\n#救援横州 https://t.co/qlMH1gpxXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 139,
+          "like_count": 2974,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "未悟之前，我以為我在度眾生；既悟之後，方知眾生在度我 X运营ADHD相关产品3年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞/ADHD 葉經理",
+        "pinned_tweet_id": "2076707603439329432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072041088123305984/yjM6KYDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 109,
+          "like_count": 2896,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

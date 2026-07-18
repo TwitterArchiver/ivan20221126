@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2077993753118413255",
+    "created_at": "2026-07-17T05:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077993753118413255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BAKA__0902/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/BAKA__0902/status/2077759432902266966",
+          "start": 21,
+          "url": "https://t.co/GrEzaok68k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077993753118413255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077759432902266966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣🤣一块一克的原粉你卖多少？盈利了多少？ https://t.co/GrEzaok68k"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2077993753118413255",
+        "created_at": "2026-07-17T05:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077993753118413255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BAKA__0902/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/BAKA__0902/status/2077759432902266966",
+              "start": 21,
+              "url": "https://t.co/GrEzaok68k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077993753118413255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077759432902266966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣🤣一块一克的原粉你卖多少？盈利了多少？ https://t.co/GrEzaok68k"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736764672999878656",
+        "conversation_id": "2077759432902266966",
+        "created_at": "2026-07-16T14:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077759432902266966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077759432902266966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1758,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某个有渠道买原粉然后搞拼团想当药圈大明星真脑残吧，团没拼上渠道还被厂家和晶哥警惕了，别光明正大扩大渠道自己买不好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 138,
+          "like_count": 3079,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T15:05:45.000Z",
+        "description": "好想吃麦当劳",
+        "id": "1736764672999878656",
+        "name": "不爱我我就去死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032564534226116608/2YCnGNJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 1085,
+          "like_count": 8107,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1616
+        },
+        "url": "",
+        "username": "BAKA__0902",
+        "verified": true
+      }
+    ]
+  }
+}

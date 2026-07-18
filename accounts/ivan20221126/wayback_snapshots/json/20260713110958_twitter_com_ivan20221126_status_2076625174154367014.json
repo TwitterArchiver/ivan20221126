@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2076625174154367014",
+    "created_at": "2026-07-13T11:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076625174154367014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bui_tu46916/st…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/bui_tu46916/status/2076289762919670253",
+          "start": 41,
+          "url": "https://t.co/kAPjhcP1AD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076625174154367014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076289762919670253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大概是碳酸加速吸收罢，可以试着用苏打水试一下，不过pr的话配成溶液是最快达峰的喔 https://t.co/kAPjhcP1AD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2076289758918238208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNB2iPsaYAAuI_I.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2076625174154367014",
+        "created_at": "2026-07-13T11:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076625174154367014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bui_tu46916/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/bui_tu46916/status/2076289762919670253",
+              "start": 41,
+              "url": "https://t.co/kAPjhcP1AD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076625174154367014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076289762919670253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大概是碳酸加速吸收罢，可以试着用苏打水试一下，不过pr的话配成溶液是最快达峰的喔 https://t.co/kAPjhcP1AD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076289758918238208"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2076289762919670253",
+        "created_at": "2026-07-12T12:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076289762919670253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKYgk83NeT",
+              "end": 148,
+              "expanded_url": "https://x.com/bui_tu46916/status/2076289762919670253/photo/1",
+              "media_key": "3_2076289758918238208",
+              "start": 125,
+              "url": "https://t.co/qKYgk83NeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076289762919670253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 569,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现pr加酸性饮料会更快更强上劲，有多位推油能够证明，目前来说是酸橙汁，可乐等酸性饮料都可以起作用，推测是饮料中的酸性物质与pr胶囊发生反应，导致吸收速率加快，今天5t瑞鹤pr加橙汁让我体验到了极其不一般的效果，还能看见人边缘在扭曲，顺带换个头像 https://t.co/qKYgk83NeT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 134,
+          "like_count": 2786,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+UQcUn2FxkPszZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+                "start": 0,
+                "url": "https://t.co/i4pDJdGmt8"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076314885777129472/CJiIlAcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 278,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/i4pDJdGmt8",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

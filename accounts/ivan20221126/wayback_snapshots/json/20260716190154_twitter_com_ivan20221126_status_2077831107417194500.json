@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2077667559550357789",
+    "created_at": "2026-07-16T19:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T20:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077831107417194500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1715380059278831619",
+          "start": 0,
+          "username": "Killer_Haruhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077831107417194500",
+    "in_reply_to_user_id": "1715380059278831619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077667559550357789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Killer_Haruhi 有点小差异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2077667559550357789",
+        "created_at": "2026-07-16T19:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077831107417194500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1715380059278831619",
+              "start": 0,
+              "username": "Killer_Haruhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077831107417194500",
+        "in_reply_to_user_id": "1715380059278831619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077667559550357789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Killer_Haruhi 有点小差异"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715380059278831619",
+        "conversation_id": "2077667559550357789",
+        "created_at": "2026-07-16T08:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077667559550357789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rebeccahoshino…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/rebeccahoshino/status/2077573224418926684",
+              "start": 5,
+              "url": "https://t.co/cNGc9aO4tF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077667559550357789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 746,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077573224418926684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各有各的 https://t.co/cNGc9aO4tF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 137,
+          "like_count": 3074,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T14:51:03.000Z",
+        "description": "哭泣并不会使你得到自由。",
+        "id": "1715380059278831619",
+        "location": "Nakano City, Tokyo",
+        "name": "はるひ",
+        "pinned_tweet_id": "1796937239974625518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762474898814062592/wXU5QQn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 560,
+          "like_count": 49728,
+          "listed_count": 23,
+          "media_count": 990,
+          "tweet_count": 15132
+        },
+        "url": "",
+        "username": "Killer_Haruhi",
+        "verified": false
+      }
+    ]
+  }
+}

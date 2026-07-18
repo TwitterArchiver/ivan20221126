@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2078029910409728009",
+    "created_at": "2026-07-17T09:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078047185862811737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        },
+        {
+          "end": 28,
+          "id": "1868562193484251136",
+          "start": 13,
+          "username": "LengChamSayBye"
+        },
+        {
+          "end": 36,
+          "id": "1149206523320516608",
+          "start": 29,
+          "username": "ykq315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078047185862811737",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078043433068105733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny @LengChamSayBye @ykq315 可以玩别样的扫地机器人大战了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2078029910409728009",
+        "created_at": "2026-07-17T09:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078047185862811737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            },
+            {
+              "end": 28,
+              "id": "1868562193484251136",
+              "start": 13,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 36,
+              "id": "1149206523320516608",
+              "start": 29,
+              "username": "ykq315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078047185862811737",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078043433068105733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny @LengChamSayBye @ykq315 可以玩别样的扫地机器人大战了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2078029910409728009",
+        "created_at": "2026-07-17T09:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078043433068105733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 23,
+              "id": "1149206523320516608",
+              "start": 16,
+              "username": "ykq315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078043433068105733",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078039938411745340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @ykq315 这个是扫地机器人带的摄像头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 138,
+          "like_count": 3093,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 318
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8405,
+          "following_count": 1262,
+          "like_count": 67060,
+          "listed_count": 8,
+          "media_count": 3099,
+          "tweet_count": 19139
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 222,
+          "like_count": 6192,
+          "listed_count": 0,
+          "media_count": 940,
+          "tweet_count": 5155
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-11T06:39:21.000Z",
+        "description": "我不是人类了",
+        "id": "1149206523320516608",
+        "name": "普通猫",
+        "pinned_tweet_id": "1667564947839291393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841992474572820480/0KZ4lXk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 547,
+          "like_count": 140045,
+          "listed_count": 3,
+          "media_count": 1094,
+          "tweet_count": 10253
+        },
+        "url": "",
+        "username": "ykq315",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2076669558522523650",
+    "created_at": "2026-07-13T14:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076679129458762095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2075769596565757953",
+          "start": 0,
+          "username": "babenhua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076679129458762095",
+    "in_reply_to_user_id": "2075769596565757953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076669558522523650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babenhua 吃东西有变好吃吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2076669558522523650",
+        "created_at": "2026-07-13T14:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076679129458762095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2075769596565757953",
+              "start": 0,
+              "username": "babenhua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076679129458762095",
+        "in_reply_to_user_id": "2075769596565757953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076669558522523650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babenhua 吃东西有变好吃吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075769596565757953",
+        "conversation_id": "2076669558522523650",
+        "created_at": "2026-07-13T14:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076669558522523650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "反解离的百科全书",
+              "display_url": "fanjieli.org/1-%E8%8D%AF%E7…",
+              "end": 170,
+              "expanded_url": "https://fanjieli.org/1-%E8%8D%AF%E7%89%A9%E4%BB%AC/URB597/",
+              "start": 147,
+              "status": 200,
+              "title": "URB597 - 反解离百科",
+              "unwound_url": "https://fanjieli.org/1-%E8%8D%AF%E7%89%A9%E4%BB%AC/URB597/",
+              "url": "https://t.co/JvhztIoUCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076669558522523650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "546141-08-6（urb597）\n如果你厌倦了笨二蛋桌和加巴喷丁类要还的债 厌倦了抗焦虑效果最后要连本带息的偿还 不妨试试本物质 作为不可逆共价内源性大妈素水解酶抑制剂 口服3到5mg 15min内快速起效 强烈的抗焦虑和平静把人按在床上 药效大概10h 不成瘾不戒断 值得一试 详见：\nhttps://t.co/JvhztIoUCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 136,
+          "like_count": 2848,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-11T02:32:47.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/f88gJzZEuM 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 72,
+                "url": "https://t.co/f88gJzZEuM"
+              }
+            ]
+          }
+        },
+        "id": "2075769596565757953",
+        "name": "八本 华",
+        "pinned_tweet_id": "2075937881122848905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075774419558146048/4VuEr9kP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 17,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "babenhua",
+        "verified": false
+      }
+    ]
+  }
+}

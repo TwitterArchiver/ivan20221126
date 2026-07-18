@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2076033125302616121",
+    "created_at": "2026-07-11T19:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T20:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076033125302616121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UWATCHLIFE/sta…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/UWATCHLIFE/status/2075817313706938436",
+          "start": 75,
+          "url": "https://t.co/rtMI4AR2N6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076033125302616121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075817313706938436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我走以后，他们会给你们低价普瑞原粉，会提供各种廉价rc，会普及药理及负责任使用的知识，不是因为他们良心发现，而是因为我们来过。——暴利不开名rc贩子 https://t.co/rtMI4AR2N6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2076033125302616121",
+        "created_at": "2026-07-11T19:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076033125302616121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UWATCHLIFE/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/UWATCHLIFE/status/2075817313706938436",
+              "start": 75,
+              "url": "https://t.co/rtMI4AR2N6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076033125302616121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075817313706938436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我走以后，他们会给你们低价普瑞原粉，会提供各种廉价rc，会普及药理及负责任使用的知识，不是因为他们良心发现，而是因为我们来过。——暴利不开名rc贩子 https://t.co/rtMI4AR2N6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2075817313706938436",
+        "created_at": "2026-07-11T05:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075817313706938436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 95,
+              "expanded_url": "https://x.com/i/chat/group_join/g2075805766951555124/oyhI20x3oH",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2074848101349888000/G0d61OwP?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074848101349888000/G0d61OwP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/hpfuQjzcJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075817313706938436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4195,
+          "like_count": 47,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "圈内有先辈找到了一个低价普瑞渠道，价格大概在几毛钱一克，但需要凑够足够的数量商家才会发货，壬多力量大，各位oder们有意的话来这群看看罢，，，\nhttps://t.co/hpfuQjzcJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 133,
+          "like_count": 2638,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 130,
+          "like_count": 1583,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1076
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

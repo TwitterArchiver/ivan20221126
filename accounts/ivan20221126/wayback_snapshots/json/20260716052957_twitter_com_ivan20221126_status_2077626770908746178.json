@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2077618521274806704",
+    "created_at": "2026-07-16T05:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077626770908746178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076292469667532800",
+          "start": 0,
+          "username": "SankakuFuu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077626770908746178",
+    "in_reply_to_user_id": "2076292469667532800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077618521274806704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SankakuFuu3 骗你的，正常人也不适应现代社会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2077618521274806704",
+        "created_at": "2026-07-16T05:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077626770908746178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076292469667532800",
+              "start": 0,
+              "username": "SankakuFuu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077626770908746178",
+        "in_reply_to_user_id": "2076292469667532800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077618521274806704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SankakuFuu3 骗你的，正常人也不适应现代社会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076292469667532800",
+        "conversation_id": "2077618521274806704",
+        "created_at": "2026-07-16T04:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077618521274806704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/norax2026/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/norax2026/status/2077412472991211650",
+              "start": 23,
+              "url": "https://t.co/hSs7Oe3fod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077618521274806704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077412472991211650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "adhd还容易成瘾，不适应现代社会的动物啊😁 https://t.co/hSs7Oe3fod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 137,
+          "like_count": 3047,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T13:13:09.000Z",
+        "description": "（百八十无常 冰川枫）三角枫的第二人格 audhd enby oder / atmosPheRe is now available/ 我爱大家 想成为不极端的人",
+        "id": "2076292469667532800",
+        "location": "守恒与虚无之地",
+        "name": "三角　楓🍥#参宿七",
+        "pinned_tweet_id": "2076303353152438330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076294275546148864/FANgAHlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 134,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "SankakuFuu3",
+        "verified": false
+      }
+    ]
+  }
+}
