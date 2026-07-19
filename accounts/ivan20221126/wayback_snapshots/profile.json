@@ -1,21 +1,12 @@
 {
   "name": "超级伊伊伊万#忒伊亚",
   "username": "@ivan20221126",
-  "bio": "戒药戒毒戒推❌💊💉 三戒保平安🙏🏻🙏🏻🙏🏻 减害大法好🗿🗿🌞",
+  "bio": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
   "location": "乌鲁木齐中路",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2070001259625779694",
-  "bio_entities": {
-    "urls": [
-      {
-        "display_url": "GO.TO",
-        "end": 23,
-        "expanded_url": "http://GO.TO",
-        "start": 0,
-        "url": "https://t.co/KOybWvEtg9"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg"
 }
