@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088120796640346113"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2088120805863703006",
+    "created_at": "2026-08-14T04:29:30.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088120805863703006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pBwlSQXrtE",
+          "end": 55,
+          "expanded_url": "https://x.com/ivan20221126/status/2088120805863703006/photo/1",
+          "media_key": "3_2088120796640346113",
+          "start": 32,
+          "url": "https://t.co/pBwlSQXrtE"
+        },
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2055513049197613538",
+          "start": 56,
+          "url": "https://t.co/l1ttypdSKE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088120805863703006",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088120796640346113"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055513049197613538",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男性lgbt精神病人吸食毒品普瑞巴林后事实犯罪！他们迅速行动↓ https://t.co/pBwlSQXrtE https://t.co/l1ttypdSKE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_2088120796640346113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp-zRvagAEXEwr.jpg",
+        "width": 1320
+      },
+      {
+        "height": 809,
+        "media_key": "3_2055513036757286912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIamN2MaQAAkr-H.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088120796640346113"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088120805863703006",
+        "created_at": "2026-08-14T04:29:30.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088120805863703006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBwlSQXrtE",
+              "end": 55,
+              "expanded_url": "https://x.com/ivan20221126/status/2088120805863703006/photo/1",
+              "media_key": "3_2088120796640346113",
+              "start": 32,
+              "url": "https://t.co/pBwlSQXrtE"
+            },
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2055513049197613538",
+              "start": 56,
+              "url": "https://t.co/l1ttypdSKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088120805863703006",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088120796640346113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055513049197613538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男性lgbt精神病人吸食毒品普瑞巴林后事实犯罪！他们迅速行动↓ https://t.co/pBwlSQXrtE https://t.co/l1ttypdSKE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055513036757286912"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2055513049197613538",
+        "created_at": "2026-05-16T04:57:55.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055513049197613538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHSs8PFGfE",
+              "end": 161,
+              "expanded_url": "https://x.com/winterfruit_1/status/2055513049197613538/photo/1",
+              "media_key": "3_2055513036757286912",
+              "start": 138,
+              "url": "https://t.co/iHSs8PFGfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055513049197613538",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2055513036757286912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12717,
+          "like_count": 205,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "首先，是实施犯罪的人吃了普瑞，不是吃了普瑞的人要犯罪。\n把半夜喝酒后打架斗殴的人抓起来丢中南海里能给中南海填平，那这酒精怎么还不管管。原来是酒鬼太多了不愿搞啊。\n经典懒政，你们给普瑞巴林管制了我还能稍微支持理解你们，但你们禁完还要大肆声张以及经典新闻学，那这就是你们啥吡了。 https://t.co/iHSs8PFGfE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088120805863703006",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 167,
+          "like_count": 5915,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "is_identity_verified": false,
+        "location": "夏",
+        "most_recent_tweet_id": "2088041837688943061",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837114188046684161/1769238937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 1473,
+          "like_count": 44040,
+          "listed_count": 6,
+          "media_count": 1931,
+          "tweet_count": 13459
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

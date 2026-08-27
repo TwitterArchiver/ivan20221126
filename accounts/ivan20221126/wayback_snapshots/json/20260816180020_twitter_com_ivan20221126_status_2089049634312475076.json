@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2089049634312475076",
+    "created_at": "2026-08-16T18:00:20.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T19:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089049634312475076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JiGuang_Lab/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/JiGuang_Lab/status/2088962146214522910",
+          "start": 18,
+          "url": "https://t.co/fauWoqlEsH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089049634312475076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088962146214522910",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经常在阜姆吸吸可乐粉的小伙伴都知道 https://t.co/fauWoqlEsH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 715,
+        "media_key": "3_2088962127621242881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP17_L4bwAEebil.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2089049634312475076",
+        "created_at": "2026-08-16T18:00:20.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T19:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089049634312475076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiGuang_Lab/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/JiGuang_Lab/status/2088962146214522910",
+              "start": 18,
+              "url": "https://t.co/fauWoqlEsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089049634312475076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088962146214522910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经常在阜姆吸吸可乐粉的小伙伴都知道 https://t.co/fauWoqlEsH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088962127621242881"
+          ]
+        },
+        "author_id": "2081009888818278400",
+        "community_id": "2023239841174188182",
+        "conversation_id": "2088962146214522910",
+        "created_at": "2026-08-16T12:12:41.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088962146214522910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HT1Xn4e6sZ",
+              "end": 23,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2088962146214522910/photo/1",
+              "media_key": "3_2088962127621242881",
+              "start": 0,
+              "url": "https://t.co/HT1Xn4e6sZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088962146214522910",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088962127621242881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1181,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HT1Xn4e6sZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2089049634312475076",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 172,
+          "like_count": 6286,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2089041780197269957",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088994363607330816/g7oDgdVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 473,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

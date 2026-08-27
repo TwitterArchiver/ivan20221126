@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2088447973978206507",
+    "created_at": "2026-08-15T03:26:52.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T04:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088467431899697595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088467431899697595",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088447973978206507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia 有点像战雷抱枕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2088447910489059328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuoTzybcAADYev.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2088447931699638272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuoVCzbMAAbwUE.jpg",
+        "width": 887
+      },
+      {
+        "height": 929,
+        "media_key": "3_2088447947252051968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuoV8vaMAAYDF4.jpg",
+        "width": 1316
+      },
+      {
+        "height": 601,
+        "media_key": "3_2088447961600823296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuoWyMbEAAHwuT.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088447973978206507",
+        "created_at": "2026-08-15T03:26:52.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088467431899697595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088467431899697595",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088447973978206507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 有点像战雷抱枕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088447910489059328",
+            "3_2088447931699638272",
+            "3_2088447947252051968",
+            "3_2088447961600823296"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088447973978206507",
+        "created_at": "2026-08-15T02:09:33.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088447973978206507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GveG2mJhp6",
+              "end": 40,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2088447973978206507/photo/1",
+              "media_key": "3_2088447910489059328",
+              "start": 17,
+              "url": "https://t.co/GveG2mJhp6"
+            },
+            {
+              "display_url": "pic.x.com/GveG2mJhp6",
+              "end": 40,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2088447973978206507/photo/1",
+              "media_key": "3_2088447931699638272",
+              "start": 17,
+              "url": "https://t.co/GveG2mJhp6"
+            },
+            {
+              "display_url": "pic.x.com/GveG2mJhp6",
+              "end": 40,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2088447973978206507/photo/1",
+              "media_key": "3_2088447947252051968",
+              "start": 17,
+              "url": "https://t.co/GveG2mJhp6"
+            },
+            {
+              "display_url": "pic.x.com/GveG2mJhp6",
+              "end": 40,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2088447973978206507/photo/1",
+              "media_key": "3_2088447961600823296",
+              "start": 17,
+              "url": "https://t.co/GveG2mJhp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088447973978206507",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088447910489059328"
+          },
+          {
+            "media_key": "3_2088447931699638272"
+          },
+          {
+            "media_key": "3_2088447947252051968"
+          },
+          {
+            "media_key": "3_2088447961600823296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 107,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "英国陆军完寄吧蛋了喵\n咕咕嘎嘎！ https://t.co/GveG2mJhp6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088467431899697595",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 175,
+          "like_count": 6147,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "is_identity_verified": false,
+        "location": "Queensland, Australia",
+        "most_recent_tweet_id": "2088461476688486669",
+        "name": "🏴‍☠️Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313383273079345152/1776957256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082274819450732544/2k3gw41X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7037,
+          "following_count": 4144,
+          "like_count": 171078,
+          "listed_count": 20,
+          "media_count": 2862,
+          "tweet_count": 27803
+        },
+        "url": "",
+        "username": "ValeriaEulabeia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

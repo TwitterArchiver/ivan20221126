@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2080490942352835004",
+    "created_at": "2026-07-24T08:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080576315376476660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2068065912067104768",
+          "start": 0,
+          "username": "Zukawbit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080576315376476660",
+    "in_reply_to_user_id": "2068065912067104768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080490942352835004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zukawbit 可喜可贺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2080490942352835004",
+        "created_at": "2026-07-24T08:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080576315376476660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2068065912067104768",
+              "start": 0,
+              "username": "Zukawbit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080576315376476660",
+        "in_reply_to_user_id": "2068065912067104768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080490942352835004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zukawbit 可喜可贺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068065912067104768",
+        "conversation_id": "2080490942352835004",
+        "created_at": "2026-07-24T03:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080490942352835004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080490942352835004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于复活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 152,
+          "like_count": 3804,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T20:19:35.000Z",
+        "description": "@Lomyral896444的附庸。\nenby，he/they|提前开始寻回互关，，，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Lomyral896444"
+              }
+            ]
+          }
+        },
+        "id": "2068065912067104768",
+        "name": "Larymol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070795717145141248/z-fwyk8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 144,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Zukawbit",
+        "verified": false
+      }
+    ]
+  }
+}

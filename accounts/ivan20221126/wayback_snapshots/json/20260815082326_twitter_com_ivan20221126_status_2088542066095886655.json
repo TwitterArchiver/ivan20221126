@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2088542066095886655",
+    "created_at": "2026-08-15T08:23:26.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088542066095886655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wzru74p/status…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/Wzru74p/status/2088531789719744551",
+          "start": 50,
+          "url": "https://t.co/rs9JbV9UhY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088542066095886655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088531789719744551",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "众所周知，马斯克的父系是o2😁😁，某种程度上说确实起源于中国，中国的主要父系就是o2 o1 n c https://t.co/rs9JbV9UhY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088542066095886655",
+        "created_at": "2026-08-15T08:23:26.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088542066095886655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wzru74p/status…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Wzru74p/status/2088531789719744551",
+              "start": 50,
+              "url": "https://t.co/rs9JbV9UhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088542066095886655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088531789719744551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "众所周知，马斯克的父系是o2😁😁，某种程度上说确实起源于中国，中国的主要父系就是o2 o1 n c https://t.co/rs9JbV9UhY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048975593405083648",
+        "conversation_id": "2088522042597363979",
+        "created_at": "2026-08-15T07:42:36.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088531789719744551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595110651621318656",
+              "start": 0,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088531789719744551",
+        "in_reply_to_user_id": "1595110651621318656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088522042597363979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProcyonCoke731 马支克跟支那人坐一桌都没问题"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088542066095886655",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 173,
+          "like_count": 6195,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T04:01:01.000Z",
+        "description": "革命的掌剁人｜图支的实干家\n凡是枫指导作出的决策，我们都坚决维护。凡是枫指导的指示，我们都始终不渝地遵循",
+        "id": "2048975593405083648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088531789719744551",
+        "name": "弹角枫",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088326066532487168/G-KMY9le_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 23,
+          "like_count": 828,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "Wzru74p",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088528662068974062",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "2077767277391253734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595110651621318656/1750550960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023258759754080256/8WJDUScr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6063,
+          "following_count": 1228,
+          "like_count": 35645,
+          "listed_count": 61,
+          "media_count": 4258,
+          "tweet_count": 18798
+        },
+        "url": "",
+        "username": "ProcyonCoke731",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

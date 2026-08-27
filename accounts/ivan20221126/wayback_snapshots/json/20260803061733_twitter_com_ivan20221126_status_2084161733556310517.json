@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084161718658478080",
+        "3_2084161726652805120"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2084161733556310517",
+    "created_at": "2026-08-03T06:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084161733556310517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MV436zrPSu",
+          "end": 53,
+          "expanded_url": "https://x.com/ivan20221126/status/2084161733556310517/photo/1",
+          "media_key": "3_2084161718658478080",
+          "start": 30,
+          "url": "https://t.co/MV436zrPSu"
+        },
+        {
+          "display_url": "pic.x.com/MV436zrPSu",
+          "end": 53,
+          "expanded_url": "https://x.com/ivan20221126/status/2084161733556310517/photo/1",
+          "media_key": "3_2084161726652805120",
+          "start": 30,
+          "url": "https://t.co/MV436zrPSu"
+        },
+        {
+          "display_url": "x.com/drug_artist2/s…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/drug_artist2/status/2084093442381271344",
+          "start": 54,
+          "url": "https://t.co/HYuWwsepxV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084161733556310517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084093442381271344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😹😹，这个。绯妮佈忒！很，好玩？搭配苏打粉！  高钠血症， https://t.co/MV436zrPSu https://t.co/HYuWwsepxV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1367,
+        "media_key": "3_2084161718658478080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxuCm8bMAAFvr2.jpg",
+        "width": 1263
+      },
+      {
+        "height": 1187,
+        "media_key": "3_2084161726652805120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxuDEua8AARVcE.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084161718658478080",
+            "3_2084161726652805120"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2084161733556310517",
+        "created_at": "2026-08-03T06:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084161733556310517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MV436zrPSu",
+              "end": 53,
+              "expanded_url": "https://x.com/ivan20221126/status/2084161733556310517/photo/1",
+              "media_key": "3_2084161718658478080",
+              "start": 30,
+              "url": "https://t.co/MV436zrPSu"
+            },
+            {
+              "display_url": "pic.x.com/MV436zrPSu",
+              "end": 53,
+              "expanded_url": "https://x.com/ivan20221126/status/2084161733556310517/photo/1",
+              "media_key": "3_2084161726652805120",
+              "start": 30,
+              "url": "https://t.co/MV436zrPSu"
+            },
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/drug_artist2/status/2084093442381271344",
+              "start": 54,
+              "url": "https://t.co/HYuWwsepxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084161733556310517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084093442381271344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😹😹，这个。绯妮佈忒！很，好玩？搭配苏打粉！  高钠血症， https://t.co/MV436zrPSu https://t.co/HYuWwsepxV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084072573814645206",
+        "created_at": "2026-08-03T01:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084093442381271344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1654167908107554818",
+              "start": 0,
+              "username": "S1nw0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084093442381271344",
+        "in_reply_to_user_id": "1654167908107554818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084075714916282504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S1nw0w 别拿试管里的反应硬套活人胃部\n胃是开放体系 反应产生的二氧化碳可以嗳气排出\n盐酸盐溶解释放氢离子是缓慢过程，不会瞬时集中剧烈反应😅\n小苏打造成胃穿孔都是一次性干服大量粉末、本身有胃溃疡的极端案例，不能无限扩大风险\n适量温水溶解后使用，可以中和药物解离的氢离子 从而减轻胃部刺激"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 156,
+          "like_count": 4523,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘| INFP | 提问箱:https://t.co/DYIJetTS16|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄二年 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 65,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 42,
+                "url": "https://t.co/DYIJetTS16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 56,
+          "like_count": 367,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": true
+      }
+    ]
+  }
+}

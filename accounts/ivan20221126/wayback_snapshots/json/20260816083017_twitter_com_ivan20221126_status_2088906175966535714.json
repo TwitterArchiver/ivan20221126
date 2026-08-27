@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2088906159076057088"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2088903764761792929",
+    "created_at": "2026-08-16T08:30:17.000Z",
+    "display_text_range": [
+      12,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088906175966535714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4DEXv0v9Z3",
+          "end": 36,
+          "expanded_url": "https://x.com/ivan20221126/status/2088906175966535714/photo/1",
+          "media_key": "16_2088906159076057088",
+          "start": 13,
+          "url": "https://t.co/4DEXv0v9Z3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088906175966535714",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "16_2088906159076057088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088903764761792929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny https://t.co/4DEXv0v9Z3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 222,
+        "media_key": "16_2088906159076057088",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HP1JFYzaoAATMT6.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HP1JFYzaoAATMT6.mp4"
+          }
+        ],
+        "width": 400
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088903754062139392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1G5ZbakAA_YMk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2088906159076057088"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088903764761792929",
+        "created_at": "2026-08-16T08:30:17.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088906175966535714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4DEXv0v9Z3",
+              "end": 36,
+              "expanded_url": "https://x.com/ivan20221126/status/2088906175966535714/photo/1",
+              "media_key": "16_2088906159076057088",
+              "start": 13,
+              "url": "https://t.co/4DEXv0v9Z3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088906175966535714",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2088906159076057088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088903764761792929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny https://t.co/4DEXv0v9Z3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088903754062139392"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2088903764761792929",
+        "created_at": "2026-08-16T08:20:42.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088903764761792929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GINV1yUV84",
+              "end": 50,
+              "expanded_url": "https://x.com/Easter_buny/status/2088903764761792929/photo/1",
+              "media_key": "3_2088903754062139392",
+              "start": 27,
+              "url": "https://t.co/GINV1yUV84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088903764761792929",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088903754062139392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我买过最实用且最喜欢的电视剧周边（绝命毒师同款） https://t.co/GINV1yUV84"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088906175966535714",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 172,
+          "like_count": 6269,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2088905298501304642",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8443,
+          "following_count": 1280,
+          "like_count": 69042,
+          "listed_count": 8,
+          "media_count": 3155,
+          "tweet_count": 19572
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

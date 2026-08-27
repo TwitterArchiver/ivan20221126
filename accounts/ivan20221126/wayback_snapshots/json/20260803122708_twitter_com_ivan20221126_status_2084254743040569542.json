@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2084254743040569542",
+    "created_at": "2026-08-03T12:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084254743040569542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044496192734666752",
+          "start": 3,
+          "username": "UWATCHLIFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084254743040569542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084248218637136230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UWATCHLIFE: 本壬自7.11发起的普瑞团购，因缺少经验，延误下历经23日，终于在8.3告一段落。此次购入12kg普瑞，59位团员已全体到货。普瑞进价8毛克，为酬劳分发员涨至1元。目前因本壬的无能，亏损约五百元。感谢所有的团员，感谢分发员，并感谢提供渠道的先辈！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_2084248204057698305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOy8suKa4AEiA3h.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2084248203667574784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOy8sstaEAAM9yP.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2084254743040569542",
+        "created_at": "2026-08-03T12:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084254743040569542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044496192734666752",
+              "start": 3,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084254743040569542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084248218637136230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UWATCHLIFE: 本壬自7.11发起的普瑞团购，因缺少经验，延误下历经23日，终于在8.3告一段落。此次购入12kg普瑞，59位团员已全体到货。普瑞进价8毛克，为酬劳分发员涨至1元。目前因本壬的无能，亏损约五百元。感谢所有的团员，感谢分发员，并感谢提供渠道的先辈！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084248204057698305",
+            "3_2084248203667574784"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "conversation_id": "2084248218637136230",
+        "created_at": "2026-08-03T12:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084248218637136230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 151,
+              "id": "2077732421488054272",
+              "start": 140,
+              "username": "FreePGBPlz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7cPZrTgHf",
+              "end": 184,
+              "expanded_url": "https://x.com/UWATCHLIFE/status/2084248218637136230/photo/1",
+              "media_key": "3_2084248204057698305",
+              "start": 161,
+              "url": "https://t.co/X7cPZrTgHf"
+            },
+            {
+              "display_url": "pic.x.com/X7cPZrTgHf",
+              "end": 184,
+              "expanded_url": "https://x.com/UWATCHLIFE/status/2084248218637136230/photo/1",
+              "media_key": "3_2084248203667574784",
+              "start": 161,
+              "url": "https://t.co/X7cPZrTgHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084248218637136230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "本壬自7.11发起的普瑞团购，因缺少经验，延误下历经23日，终于在8.3告一段落。此次购入12kg普瑞，59位团员已全体到货。普瑞进价8毛克，为酬劳分发员涨至1元。目前因本壬的无能，亏损约五百元。感谢所有的团员，感谢分发员，并感谢提供渠道的先辈！\n至于本团多余的1.1kg，可私信@freepgbplz 以1.5/g购买 https://t.co/X7cPZrTgHf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 158,
+          "like_count": 4575,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 169,
+          "like_count": 1904,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

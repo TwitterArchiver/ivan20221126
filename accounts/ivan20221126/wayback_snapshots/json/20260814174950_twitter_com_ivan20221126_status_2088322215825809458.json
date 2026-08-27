@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2088322215825809458",
+    "created_at": "2026-08-14T17:49:50.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088322215825809458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tousa40700129/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/tousa40700129/status/2088213801468641597",
+          "start": 9,
+          "url": "https://t.co/AWQMsoMtYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088322215825809458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088213801468641597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我刀不钝不信你看 https://t.co/AWQMsoMtYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088213790563381248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrTYPGaMAALC4B.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088322215825809458",
+        "created_at": "2026-08-14T17:49:50.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088322215825809458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tousa40700129/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/tousa40700129/status/2088213801468641597",
+              "start": 9,
+              "url": "https://t.co/AWQMsoMtYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088322215825809458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088213801468641597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刀不钝不信你看 https://t.co/AWQMsoMtYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088213790563381248"
+          ]
+        },
+        "author_id": "1628790080910536705",
+        "conversation_id": "2088213801468641597",
+        "created_at": "2026-08-14T10:39:02.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088213801468641597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMMDlkiRxy",
+              "end": 28,
+              "expanded_url": "https://x.com/tousa40700129/status/2088213801468641597/photo/1",
+              "media_key": "3_2088213790563381248",
+              "start": 5,
+              "url": "https://t.co/JMMDlkiRxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088213801468641597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088213790563381248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 49148,
+          "like_count": 192,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "地狱笑话 https://t.co/JMMDlkiRxy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088322215825809458",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 170,
+          "like_count": 6084,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-23T16:13:32.000Z",
+        "description": "年上姐姐重度依赖",
+        "id": "1628790080910536705",
+        "is_identity_verified": false,
+        "location": "苏州",
+        "most_recent_tweet_id": "2088234255923208411",
+        "name": "🎄Sil0🇪🇺🧸🎄",
+        "pinned_tweet_id": "1954060583256699291",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628790080910536705/1696419555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998307036417945601/iNPcDudB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 534,
+          "like_count": 27934,
+          "listed_count": 0,
+          "media_count": 815,
+          "tweet_count": 7095
+        },
+        "url": "",
+        "username": "tousa40700129",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

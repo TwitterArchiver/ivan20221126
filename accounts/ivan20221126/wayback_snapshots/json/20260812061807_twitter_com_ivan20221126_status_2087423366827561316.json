@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2087065542079435234",
+    "created_at": "2026-08-12T06:18:07.000Z",
+    "display_text_range": [
+      17,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087423366827561316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794059582878232576",
+          "start": 0,
+          "username": "ygriln924874202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087423366827561316",
+    "in_reply_to_user_id": "1794059582878232576",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087065542079435234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ygriln924874202 i choose not to choose life"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2087065542079435234",
+        "created_at": "2026-08-12T06:18:07.000Z",
+        "display_text_range": [
+          17,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087423366827561316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794059582878232576",
+              "start": 0,
+              "username": "ygriln924874202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087423366827561316",
+        "in_reply_to_user_id": "1794059582878232576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087065542079435234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ygriln924874202 i choose not to choose life"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794059582878232576",
+        "conversation_id": "2087065542079435234",
+        "created_at": "2026-08-11T06:36:15.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087065542079435234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/applejuicex33/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/applejuicex33/status/2086462324672528544",
+              "start": 17,
+              "url": "https://t.co/kAEQV2qg4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087065542079435234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086462324672528544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你想choose出怎样的life https://t.co/kAEQV2qg4T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087423366827561316",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 166,
+          "like_count": 5699,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 522
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-24T17:35:23.000Z",
+        "description": "2005.3.13 双鱼座 infp 坐标长春 友跨\n普通男生 ♂ 无任何政治立场 假小子是对的\nhiphop乐迷 老二刺猿 泛性恋 交友欢迎\n在经历一段痛苦的时光，如果传播负能量打扰到大家的话可以和我说\n活着挺好 死了也行",
+        "id": "1794059582878232576",
+        "is_identity_verified": false,
+        "location": "🇨🇳",
+        "most_recent_tweet_id": "2087220144598822920",
+        "name": "猫猫友人",
+        "pinned_tweet_id": "2082797016099275180",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794059582878232576/1785330621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082453620427997185/KqOqm1dM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 77,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "ygriln924874202",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

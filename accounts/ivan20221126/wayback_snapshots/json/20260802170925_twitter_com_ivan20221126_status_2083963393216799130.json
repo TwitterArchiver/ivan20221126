@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2083743187605332034",
+    "created_at": "2026-08-02T17:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T18:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083963393216799130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771182467128635392",
+          "start": 0,
+          "username": "PP_Konig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083963393216799130",
+    "in_reply_to_user_id": "1771182467128635392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083743187605332034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PP_Konig 你的医生咋这样😦😦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2083743179359350784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrxYajbcAAHxnU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2083743179350900736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrxYahagAAHo00.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2083743187605332034",
+        "created_at": "2026-08-02T17:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083963393216799130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771182467128635392",
+              "start": 0,
+              "username": "PP_Konig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083963393216799130",
+        "in_reply_to_user_id": "1771182467128635392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083743187605332034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PP_Konig 你的医生咋这样😦😦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083743179359350784",
+            "3_2083743179350900736"
+          ]
+        },
+        "author_id": "1771182467128635392",
+        "conversation_id": "2083743187605332034",
+        "created_at": "2026-08-02T02:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083743187605332034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/60ERRFz1rl",
+              "end": 79,
+              "expanded_url": "https://x.com/PP_Konig/status/2083743187605332034/photo/1",
+              "media_key": "3_2083743179359350784",
+              "start": 56,
+              "url": "https://t.co/60ERRFz1rl"
+            },
+            {
+              "display_url": "pic.x.com/60ERRFz1rl",
+              "end": 79,
+              "expanded_url": "https://x.com/PP_Konig/status/2083743187605332034/photo/1",
+              "media_key": "3_2083743179350900736",
+              "start": 56,
+              "url": "https://t.co/60ERRFz1rl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083743187605332034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被医生训斥了不遵医嘱 我一直没吃喹硫平我真的不想吃\n医生说她不想管我了我想吃什么药就吃什么药\n我心里有些难受 https://t.co/60ERRFz1rl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 155,
+          "like_count": 4497,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T14:29:56.000Z",
+        "description": "they 立场温和 有些绝望 喜欢游戏 动画片 饲养照顾宠物 烹饪拍摄 药物知识 自我治疗精神病中 随你喜好 叫我盐 肉鸦 都可以",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cLa7Bq6d2Hw0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+cLa7Bq6d2Hw0ZGZl",
+                "start": 0,
+                "url": "https://t.co/wDoKzriQ9u"
+              }
+            ]
+          }
+        },
+        "id": "1771182467128635392",
+        "name": "鹽momiji🐦‍⬛",
+        "pinned_tweet_id": "2082970433289408754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 201,
+          "like_count": 1164,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/wDoKzriQ9u",
+        "username": "PP_Konig",
+        "verified": false
+      }
+    ]
+  }
+}

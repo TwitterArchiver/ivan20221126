@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088152477309022208",
+        "3_2088152497131327488",
+        "3_2088152509982658560"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088151648573202467",
+    "created_at": "2026-08-14T06:35:32.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T07:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088152524067119369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OwL45p7PWL",
+          "end": 113,
+          "expanded_url": "https://x.com/ivan20221126/status/2088152524067119369/photo/1",
+          "media_key": "3_2088152477309022208",
+          "start": 90,
+          "url": "https://t.co/OwL45p7PWL"
+        },
+        {
+          "display_url": "pic.x.com/OwL45p7PWL",
+          "end": 113,
+          "expanded_url": "https://x.com/ivan20221126/status/2088152524067119369/photo/1",
+          "media_key": "3_2088152497131327488",
+          "start": 90,
+          "url": "https://t.co/OwL45p7PWL"
+        },
+        {
+          "display_url": "pic.x.com/OwL45p7PWL",
+          "end": 113,
+          "expanded_url": "https://x.com/ivan20221126/status/2088152524067119369/photo/1",
+          "media_key": "3_2088152509982658560",
+          "start": 90,
+          "url": "https://t.co/OwL45p7PWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088152524067119369",
+    "in_reply_to_user_id": "2043745937298792448",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088152477309022208"
+      },
+      {
+        "media_key": "3_2088152497131327488"
+      },
+      {
+        "media_key": "3_2088152509982658560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088151648573202467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "通过购物平台拍照识图得知，三角枫所用刀具为刃长8.5厘米，尽管商家标注不带自锁（因为带自锁的审核非常严格，所以刀商都会把锁定机构p掉），但是从买家评论里可以看出是带有衬锁的衬片的 https://t.co/OwL45p7PWL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2424,
+        "media_key": "3_2088152477309022208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqbnVbbMAAOBhj.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2088152497131327488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqbofRbkAAqJs_.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1215,
+        "media_key": "3_2088152509982658560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqbpPJbUAAAO-1.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088151629010997249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqa19RakAErOiQ.jpg",
+        "width": 1324
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088152477309022208",
+            "3_2088152497131327488",
+            "3_2088152509982658560"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088151648573202467",
+        "created_at": "2026-08-14T06:35:32.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088152524067119369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwL45p7PWL",
+              "end": 113,
+              "expanded_url": "https://x.com/ivan20221126/status/2088152524067119369/photo/1",
+              "media_key": "3_2088152477309022208",
+              "start": 90,
+              "url": "https://t.co/OwL45p7PWL"
+            },
+            {
+              "display_url": "pic.x.com/OwL45p7PWL",
+              "end": 113,
+              "expanded_url": "https://x.com/ivan20221126/status/2088152524067119369/photo/1",
+              "media_key": "3_2088152497131327488",
+              "start": 90,
+              "url": "https://t.co/OwL45p7PWL"
+            },
+            {
+              "display_url": "pic.x.com/OwL45p7PWL",
+              "end": 113,
+              "expanded_url": "https://x.com/ivan20221126/status/2088152524067119369/photo/1",
+              "media_key": "3_2088152509982658560",
+              "start": 90,
+              "url": "https://t.co/OwL45p7PWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088152524067119369",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088152477309022208"
+          },
+          {
+            "media_key": "3_2088152497131327488"
+          },
+          {
+            "media_key": "3_2088152509982658560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088151648573202467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "通过购物平台拍照识图得知，三角枫所用刀具为刃长8.5厘米，尽管商家标注不带自锁（因为带自锁的审核非常严格，所以刀商都会把锁定机构p掉），但是从买家评论里可以看出是带有衬锁的衬片的 https://t.co/OwL45p7PWL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088151629010997249"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088151648573202467",
+        "created_at": "2026-08-14T06:32:03.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088151648573202467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVzFpSNR0n",
+              "end": 100,
+              "expanded_url": "https://x.com/ivan20221126/status/2088151648573202467/photo/1",
+              "media_key": "3_2088151629010997249",
+              "start": 77,
+              "url": "https://t.co/AVzFpSNR0n"
+            },
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/hagishigure/status/2088149786612355397",
+              "start": 101,
+              "url": "https://t.co/Yr6tdSitTe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088151648573202467",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088151629010997249"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088149786612355397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃，我看过三角枫那把刀（如图所示）确确实实是管制刀具，管制刀具里的折刀基本只看你有没有自锁功能，而三角枫的这把刀很明显是带自锁功能的，而且锁定方式是衬锁 https://t.co/AVzFpSNR0n https://t.co/Yr6tdSitTe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088152524067119369",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 0,
+          "like_count": 5966,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

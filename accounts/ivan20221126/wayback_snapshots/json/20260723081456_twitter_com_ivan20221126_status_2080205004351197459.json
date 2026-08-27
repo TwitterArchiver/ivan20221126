@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2080205004351197459",
+    "created_at": "2026-07-23T08:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080205004351197459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huaxiangdiea/s…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/huaxiangdiea/status/2080125991394115846",
+          "start": 50,
+          "url": "https://t.co/laWxDYG3RP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080205004351197459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080125991394115846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老子“亲眼”见到my“间接”杀害了春风\n春风知道他认识马鹏宇吗😂😂\n你皮下又是哪位我们的老朋友🤣🤣 https://t.co/laWxDYG3RP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2080205004351197459",
+        "created_at": "2026-07-23T08:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080205004351197459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxiangdiea/s…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/huaxiangdiea/status/2080125991394115846",
+              "start": 50,
+              "url": "https://t.co/laWxDYG3RP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080205004351197459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080125991394115846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老子“亲眼”见到my“间接”杀害了春风\n春风知道他认识马鹏宇吗😂😂\n你皮下又是哪位我们的老朋友🤣🤣 https://t.co/laWxDYG3RP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079623281263706112",
+        "conversation_id": "2079814865825464575",
+        "created_at": "2026-07-23T03:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080125991394115846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044176423460515840",
+              "start": 0,
+              "username": "dupinkepu"
+            },
+            {
+              "end": 25,
+              "id": "1937073350750466048",
+              "start": 11,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080125991394115846",
+        "in_reply_to_user_id": "2044176423460515840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079905328720912414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dupinkepu @karo269640607 谁是媒体 ？ 还有我不知道my说了什么，你是不是搞错了 你的逻辑都不通的，不知道你在说什么😅老子亲眼见到my间接杀害了春风 他是个弱智 你也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 153,
+          "like_count": 3739,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T17:44:21.000Z",
+        "description": "我和死亡处成了朋友 从地狱归来之人\n想知道我是谁吗？来了解我吧\n只是一只代表死亡的蝴蝶…\n药圈和平 减害主义 请爱我 永远",
+        "id": "2079623281263706112",
+        "location": "hell",
+        "name": "花乡蝶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079623941732331520/W9QuYVqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "huaxiangdiea",
+        "verified": false
+      }
+    ]
+  }
+}

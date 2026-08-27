@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087734412938993664"
+      ],
+      "media_source_tweet_id": [
+        "2087734468266078478"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087980968275808276",
+    "created_at": "2026-08-13T19:13:50.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087980968275808276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2082628151260127232",
+          "start": 3,
+          "username": "edelweissVT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G5VQmlFC3l",
+          "end": 40,
+          "expanded_url": "https://x.com/edelweissVT/status/2087734468266078478/video/1",
+          "media_key": "13_2087734412938993664",
+          "start": 17,
+          "url": "https://t.co/G5VQmlFC3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087980968275808276",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2087734412938993664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087734468266078478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @edelweissVT: https://t.co/G5VQmlFC3l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33459,
+        "height": 720,
+        "media_key": "13_2087734412938993664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087734412938993664/img/jVFRVA5gEdgd__vf.jpg",
+        "public_metrics": {
+          "view_count": 9864
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087734412938993664/vid/avc1/320x320/4cB79BzLDYBAsbVU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087734412938993664/vid/avc1/540x540/W7gWVkVPEIFVKER0.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087734412938993664/vid/avc1/720x720/pkDiWabRqJAazk5G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087734412938993664/pl/MYA75jqBIo0nx8Qs.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087734412938993664"
+          ]
+        },
+        "author_id": "2082628151260127232",
+        "conversation_id": "2087734468266078478",
+        "created_at": "2026-08-13T02:54:20.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087734468266078478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5VQmlFC3l",
+              "end": 23,
+              "expanded_url": "https://x.com/edelweissVT/status/2087734468266078478/video/1",
+              "media_key": "13_2087734412938993664",
+              "start": 0,
+              "url": "https://t.co/G5VQmlFC3l"
+            },
+            {
+              "display_url": "x.com/edelweissVT/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/edelweissVT/status/2086215344293593570",
+              "start": 24,
+              "url": "https://t.co/rmYuHi2mqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087734468266078478",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087734412938993664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 517,
+          "impression_count": 24812,
+          "like_count": 1682,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086215344293593570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/G5VQmlFC3l https://t.co/rmYuHi2mqi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087734412938993664"
+          ],
+          "media_source_tweet_id": [
+            "2087734468266078478"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087980968275808276",
+        "created_at": "2026-08-13T19:13:50.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087980968275808276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082628151260127232",
+              "start": 3,
+              "username": "edelweissVT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5VQmlFC3l",
+              "end": 40,
+              "expanded_url": "https://x.com/edelweissVT/status/2087734468266078478/video/1",
+              "media_key": "13_2087734412938993664",
+              "start": 17,
+              "url": "https://t.co/G5VQmlFC3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087980968275808276",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087734412938993664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087734468266078478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @edelweissVT: https://t.co/G5VQmlFC3l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087980968275808276",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 168,
+          "like_count": 5893,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T00:44:19.000Z",
+        "description": "VT as in Virtual Tweeter ❆ Christ is King and my Race is my Nation. ❆ ⚡️🇩🇪⚡️❆",
+        "id": "2082628151260127232",
+        "is_identity_verified": false,
+        "location": "INB4 I GET SUSPENDED.",
+        "most_recent_tweet_id": "2087923383937773758",
+        "name": "EDELWEISS • ❄️✝",
+        "pinned_tweet_id": "2082632586367500574",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082628151260127232/1785372613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083221266639564800/frbRhXbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 66,
+          "like_count": 2103,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "edelweissVT",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

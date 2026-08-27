@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081452249109430272"
+      ],
+      "media_source_tweet_id": [
+        "2081452259377033601"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2081453006810419574",
+    "created_at": "2026-07-26T18:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081453006810419574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1243590342911410176",
+          "start": 3,
+          "username": "bing2000100830"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uzYPI4usew",
+          "end": 43,
+          "expanded_url": "https://x.com/bing2000100830/status/2081452259377033601/photo/1",
+          "media_key": "3_2081452249109430272",
+          "start": 20,
+          "url": "https://t.co/uzYPI4usew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081453006810419574",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081452259377033601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bing2000100830: https://t.co/uzYPI4usew"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_2081452249109430272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLNyuUbAAAMzdp.jpg",
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081452249109430272"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2081452259377033601",
+        "created_at": "2026-07-26T18:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081452259377033601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzYPI4usew",
+              "end": 23,
+              "expanded_url": "https://x.com/bing2000100830/status/2081452259377033601/photo/1",
+              "media_key": "3_2081452249109430272",
+              "start": 0,
+              "url": "https://t.co/uzYPI4usew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081452259377033601",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uzYPI4usew"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081452249109430272"
+          ],
+          "media_source_tweet_id": [
+            "2081452259377033601"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2081453006810419574",
+        "created_at": "2026-07-26T18:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081453006810419574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1243590342911410176",
+              "start": 3,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzYPI4usew",
+              "end": 43,
+              "expanded_url": "https://x.com/bing2000100830/status/2081452259377033601/photo/1",
+              "media_key": "3_2081452249109430272",
+              "start": 20,
+              "url": "https://t.co/uzYPI4usew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081453006810419574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081452259377033601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bing2000100830: https://t.co/uzYPI4usew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 149,
+          "like_count": 4038,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱: @LeeYooSun_\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "LeeYooSun_"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "海",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 1384,
+          "like_count": 53916,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 3337
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

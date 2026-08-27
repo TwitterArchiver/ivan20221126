@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080280378452189184"
+      ],
+      "media_source_tweet_id": [
+        "2080280453194617158"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080873904386838803",
+    "created_at": "2026-07-25T04:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080873904386838803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550272058025820160",
+          "start": 3,
+          "username": "zay007yyr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eo3UpYM3f9",
+          "end": 46,
+          "expanded_url": "https://x.com/sneedfeedcope/status/2080280453194617158/video/1",
+          "media_key": "13_2080280378452189184",
+          "start": 23,
+          "url": "https://t.co/eo3UpYM3f9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080873904386838803",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080624914357227535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zay007yyr: Bom dia https://t.co/eo3UpYM3f9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22662,
+        "height": 480,
+        "media_key": "13_2080280378452189184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080280378452189184/img/wnbEo7oNxoi1TSmd.jpg",
+        "public_metrics": {
+          "view_count": 52245
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080280378452189184/vid/avc1/480x270/Bf8oXyCfPf3vhQPw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080280378452189184/vid/avc1/640x360/CgQ1LiY9qtV4aW4p.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080280378452189184/vid/avc1/854x480/hVQuiWg9jj4dY72F.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080280378452189184/pl/RloBwWLX5ylE3Bu3.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080280378452189184"
+          ]
+        },
+        "author_id": "1965414144829796352",
+        "conversation_id": "2080280453194617158",
+        "created_at": "2026-07-23T13:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080280453194617158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snailcoke351/s…",
+              "end": 68,
+              "expanded_url": "https://x.com/snailcoke351/status/2079607643190988946",
+              "start": 45,
+              "url": "https://t.co/x0f0KyKmfM"
+            },
+            {
+              "display_url": "pic.x.com/M8L3NXDbkq",
+              "end": 92,
+              "expanded_url": "https://x.com/sneedfeedcope/status/2080280453194617158/video/1",
+              "media_key": "13_2080280378452189184",
+              "start": 69,
+              "url": "https://t.co/M8L3NXDbkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080280453194617158",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1464,
+          "impression_count": 119209,
+          "like_count": 6228,
+          "quote_count": 7,
+          "reply_count": 23,
+          "retweet_count": 434
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079607643190988946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "&gt;41 child suicide troon troon sahur soyak\nhttps://t.co/x0f0KyKmfM https://t.co/M8L3NXDbkq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080280378452189184"
+          ],
+          "media_source_tweet_id": [
+            "2080280453194617158"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080873904386838803",
+        "created_at": "2026-07-25T04:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080873904386838803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550272058025820160",
+              "start": 3,
+              "username": "zay007yyr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eo3UpYM3f9",
+              "end": 46,
+              "expanded_url": "https://x.com/sneedfeedcope/status/2080280453194617158/video/1",
+              "media_key": "13_2080280378452189184",
+              "start": 23,
+              "url": "https://t.co/eo3UpYM3f9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080873904386838803",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080624914357227535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zay007yyr: Bom dia https://t.co/eo3UpYM3f9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080280378452189184"
+          ],
+          "media_source_tweet_id": [
+            "2080280453194617158"
+          ]
+        },
+        "author_id": "1550272058025820160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080624914357227535",
+        "created_at": "2026-07-24T12:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080624914357227535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eo3UpYM3f9",
+              "end": 31,
+              "expanded_url": "https://x.com/sneedfeedcope/status/2080280453194617158/video/1",
+              "media_key": "13_2080280378452189184",
+              "start": 8,
+              "url": "https://t.co/eo3UpYM3f9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080624914357227535",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 13948,
+          "like_count": 790,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "Bom dia https://t.co/eo3UpYM3f9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 151,
+          "like_count": 3860,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T00:43:06.000Z",
+        "description": "18 | agnóstico | truecel | resenheiro nas horas vagas | Me deu block = I win",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zay23491",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zay23491",
+                "start": 0,
+                "url": "https://t.co/RhOGG6B6oX"
+              }
+            ]
+          }
+        },
+        "id": "1550272058025820160",
+        "location": "Newtown📍",
+        "name": "Zay🪖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075705251697401857/PCRtQLbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 448,
+          "like_count": 23292,
+          "listed_count": 2,
+          "media_count": 2120,
+          "tweet_count": 9932
+        },
+        "url": "https://t.co/RhOGG6B6oX",
+        "username": "zay007yyr",
+        "verified": false
+      }
+    ]
+  }
+}

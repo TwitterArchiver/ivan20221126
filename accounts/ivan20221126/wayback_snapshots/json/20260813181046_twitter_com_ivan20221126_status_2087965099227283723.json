@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2087948276868006086",
+    "created_at": "2026-08-13T18:10:46.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087965099227283723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490712352764968960",
+          "start": 0,
+          "username": "Oxalis66017377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087965099227283723",
+    "in_reply_to_user_id": "1490712352764968960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087948276868006086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oxalis66017377 是什么🤨🤨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2087948276868006086",
+        "created_at": "2026-08-13T18:10:46.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087965099227283723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490712352764968960",
+              "start": 0,
+              "username": "Oxalis66017377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087965099227283723",
+        "in_reply_to_user_id": "1490712352764968960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087948276868006086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oxalis66017377 是什么🤨🤨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490712352764968960",
+        "conversation_id": "2087948276868006086",
+        "created_at": "2026-08-13T17:03:56.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087948276868006086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oxalis66017377…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/oxalis66017377/status/2087936628711153805",
+              "start": 30,
+              "url": "https://t.co/IT3X8BGvtO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087948276868006086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087936628711153805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不禁反思，显然有比sh和物质使用更容易被关键词检举的…😬 https://t.co/IT3X8BGvtO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087965099227283723",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 168,
+          "like_count": 5875,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-07T15:41:41.000Z",
+        "description": "不需要知晓我的姓名，因为我们心意相通…",
+        "id": "1490712352764968960",
+        "is_identity_verified": false,
+        "location": "they/them",
+        "most_recent_tweet_id": "2087963812041543934",
+        "name": "Oxalis",
+        "pinned_tweet_id": "2021933190789644667",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490712352764968960/1696259825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804525961293266944/J8LA1ioi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 236,
+          "like_count": 4672,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "Oxalis66017377",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2087878096263553278",
+    "created_at": "2026-08-13T18:17:16.000Z",
+    "display_text_range": [
+      22,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087966733877526938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1563475327829286914",
+          "start": 0,
+          "username": "syamei_ayaya"
+        },
+        {
+          "end": 21,
+          "id": "1527652153392701442",
+          "start": 14,
+          "username": "ctf7zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087966733877526938",
+    "in_reply_to_user_id": "1563475327829286914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087952467690705056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syamei_ayaya @ctf7zi 零个人提到三角阀捅人，零个人想为他辩护，你要是连武汉天街那事都不知道建议你直接注销地球online"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2087878096263553278",
+        "created_at": "2026-08-13T18:17:16.000Z",
+        "display_text_range": [
+          22,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087966733877526938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1563475327829286914",
+              "start": 0,
+              "username": "syamei_ayaya"
+            },
+            {
+              "end": 21,
+              "id": "1527652153392701442",
+              "start": 14,
+              "username": "ctf7zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087966733877526938",
+        "in_reply_to_user_id": "1563475327829286914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087952467690705056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syamei_ayaya @ctf7zi 零个人提到三角阀捅人，零个人想为他辩护，你要是连武汉天街那事都不知道建议你直接注销地球online"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563475327829286914",
+        "conversation_id": "2087878096263553278",
+        "created_at": "2026-08-13T17:20:35.000Z",
+        "display_text_range": [
+          8,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087952467690705056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1527652153392701442",
+              "start": 0,
+              "username": "ctf7zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087952467690705056",
+        "in_reply_to_user_id": "1527652153392701442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087878096263553278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctf7zi 随身携带凶器并伤人可是按照故意伤人罪或谋杀未遂量刑的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087966733877526938",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 168,
+          "like_count": 5878,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-27T10:35:54.000Z",
+        "description": "哪里都有好人和湖南人湖北人河南人山东人浙江人上海人福建人辽宁人吉林人江苏人黑龙江人和内蒙古人",
+        "id": "1563475327829286914",
+        "is_identity_verified": false,
+        "location": "中南海",
+        "most_recent_tweet_id": "2087965525402087660",
+        "name": "囧季映姬",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563475327829286914/1712308878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022237197521633280/ZnqtIYQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 588,
+          "like_count": 16921,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 3245
+        },
+        "url": "",
+        "username": "syamei_ayaya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-20T14:07:21.000Z",
+        "description": "自伤/od/跨女/一些碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ctf7zi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ctf7zi",
+                "start": 0,
+                "url": "https://t.co/N1lw2XkF1m"
+              }
+            ]
+          }
+        },
+        "id": "1527652153392701442",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087923203796787540",
+        "name": "玔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527652153392701442/1730667069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785403185932455936/UTl4_iZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 547,
+          "like_count": 27928,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 8997
+        },
+        "url": "https://t.co/N1lw2XkF1m",
+        "username": "ctf7zi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

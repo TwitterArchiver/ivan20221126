@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2088114647790715097",
+    "created_at": "2026-08-14T04:05:01.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088114647790715097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ivan20221126/s…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/ivan20221126/status/2088107355787706449",
+          "start": 146,
+          "url": "https://t.co/qEEfJErnKV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088114647790715097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088107355787706449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么合法合规，想必你一定不是什么跨性别，什么enby这样的西方lgpt，81种性别的边缘群体罢🤣，小跨如此雅兴，我们武汉天街来见一面如何？\n如果法律不能保障我们这些沟渠里的老鼠，那么这法律是否需要修改？不是每一条法律都是出台后就完美无缺的，这么执着于合法，是不是您从事着什么不可告人的事情？ https://t.co/qEEfJErnKV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1966,
+        "media_key": "3_2088107335600549889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpyjvdbsAEYJqz.jpg",
+        "width": 1264
+      },
+      {
+        "height": 607,
+        "media_key": "3_2088107348493828097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpykffbgAEqO2h.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088114647790715097",
+        "created_at": "2026-08-14T04:05:01.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088114647790715097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ivan20221126/s…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/ivan20221126/status/2088107355787706449",
+              "start": 146,
+              "url": "https://t.co/qEEfJErnKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088114647790715097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088107355787706449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么合法合规，想必你一定不是什么跨性别，什么enby这样的西方lgpt，81种性别的边缘群体罢🤣，小跨如此雅兴，我们武汉天街来见一面如何？\n如果法律不能保障我们这些沟渠里的老鼠，那么这法律是否需要修改？不是每一条法律都是出台后就完美无缺的，这么执着于合法，是不是您从事着什么不可告人的事情？ https://t.co/qEEfJErnKV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088107335600549889",
+            "3_2088107348493828097"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088107355787706449",
+        "created_at": "2026-08-14T03:36:03.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088107355787706449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdNSsVfwBC",
+              "end": 43,
+              "expanded_url": "https://x.com/ivan20221126/status/2088107355787706449/photo/1",
+              "media_key": "3_2088107335600549889",
+              "start": 20,
+              "url": "https://t.co/vdNSsVfwBC"
+            },
+            {
+              "display_url": "pic.x.com/vdNSsVfwBC",
+              "end": 43,
+              "expanded_url": "https://x.com/ivan20221126/status/2088107355787706449/photo/1",
+              "media_key": "3_2088107348493828097",
+              "start": 20,
+              "url": "https://t.co/vdNSsVfwBC"
+            },
+            {
+              "display_url": "x.com/ivan20221126/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/ivan20221126/status/2087919036105625656",
+              "start": 44,
+              "url": "https://t.co/bumI8suTvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088107355787706449",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088107335600549889"
+          },
+          {
+            "media_key": "3_2088107348493828097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087919036105625656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懒得评价，这样的护fo马上滚出我的视线 https://t.co/vdNSsVfwBC https://t.co/bumI8suTvy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088114647790715097",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 167,
+          "like_count": 5896,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 563
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

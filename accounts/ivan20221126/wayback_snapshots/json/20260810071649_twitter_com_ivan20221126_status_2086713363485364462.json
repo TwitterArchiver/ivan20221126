@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086713344573198337"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2086713363485364462",
+    "created_at": "2026-08-10T07:16:49.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T08:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086713363485364462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QyggEke8kr",
+          "end": 31,
+          "expanded_url": "https://x.com/ivan20221126/status/2086713363485364462/photo/1",
+          "media_key": "3_2086713344573198337",
+          "start": 8,
+          "url": "https://t.co/QyggEke8kr"
+        },
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2086705975860572381",
+          "start": 32,
+          "url": "https://t.co/oT54ZoNPA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086713363485364462",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086713344573198337"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086705975860572381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "救济的技法😁😁 https://t.co/QyggEke8kr https://t.co/oT54ZoNPA8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2086713344573198337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPV-uyNaUAEjANI.jpg",
+        "width": 1251
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086713344573198337"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2086713363485364462",
+        "created_at": "2026-08-10T07:16:49.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086713363485364462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyggEke8kr",
+              "end": 31,
+              "expanded_url": "https://x.com/ivan20221126/status/2086713363485364462/photo/1",
+              "media_key": "3_2086713344573198337",
+              "start": 8,
+              "url": "https://t.co/QyggEke8kr"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2086705975860572381",
+              "start": 32,
+              "url": "https://t.co/oT54ZoNPA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086713363485364462",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086713344573198337"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086705975860572381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救济的技法😁😁 https://t.co/QyggEke8kr https://t.co/oT54ZoNPA8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2086705975860572381",
+        "created_at": "2026-08-10T06:47:28.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086705975860572381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086705975860572381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纵观古今…\n我似乎只悟出来了一个字……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2086713363485364462",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 162,
+          "like_count": 5354,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086705975860572381",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6988,
+          "following_count": 3389,
+          "like_count": 4356,
+          "listed_count": 21,
+          "media_count": 555,
+          "tweet_count": 3792
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

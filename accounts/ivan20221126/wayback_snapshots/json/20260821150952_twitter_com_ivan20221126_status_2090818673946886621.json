@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2090818673946886621",
+    "created_at": "2026-08-21T15:09:52.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090818673946886621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ymumy_/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ymumy_/status/2090705753443364937",
+          "start": 12,
+          "url": "https://t.co/jueH2Rhadq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090818673946886621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090705753443364937",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "顺直男（3.5分弯版） https://t.co/jueH2Rhadq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2090818673946886621",
+        "created_at": "2026-08-21T15:09:52.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090818673946886621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ymumy_/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ymumy_/status/2090705753443364937",
+              "start": 12,
+              "url": "https://t.co/jueH2Rhadq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090818673946886621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090705753443364937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺直男（3.5分弯版） https://t.co/jueH2Rhadq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002063411077918725",
+        "conversation_id": "2090660074972946553",
+        "created_at": "2026-08-21T07:41:09.000Z",
+        "display_text_range": [
+          10,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090705753443364937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1956021138347450371",
+              "start": 0,
+              "username": "unofunky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090705753443364937",
+        "in_reply_to_user_id": "1956021138347450371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1155,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090704766402015458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unofunky 能不能不要歧视他人，顺蝻也可以被凿啊，不要把这些东西全送给性少数群体不可以吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2090818673946886621",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 171,
+          "like_count": 6741,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-19T17:08:23.000Z",
+        "description": "",
+        "id": "2002063411077918725",
+        "is_identity_verified": false,
+        "location": "south korea",
+        "most_recent_tweet_id": "2090724852084953262",
+        "name": "焦力峰（公畜跟我对话一个字就少活十年🫰🏻）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002063411077918725/1779117975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081214650449084417/oDopmX_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 61,
+          "like_count": 1933,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "ymumy_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T15:52:44.000Z",
+        "description": "保卫我们的后现代生活",
+        "id": "1956021138347450371",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090818227362512931",
+        "name": "网友菲顺比",
+        "pinned_tweet_id": "2071106503919206783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956021138347450371/1776612309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086123822248521728/W62V27SM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 364,
+          "like_count": 2544,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1474
+        },
+        "url": "",
+        "username": "unofunky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

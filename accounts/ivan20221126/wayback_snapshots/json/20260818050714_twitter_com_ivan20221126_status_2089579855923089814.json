@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2089417426878513463",
+    "created_at": "2026-08-18T05:07:14.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089579855923089814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965572243335053312",
+          "start": 0,
+          "username": "ashasw1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089579855923089814",
+    "in_reply_to_user_id": "1965572243335053312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089417426878513463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw1919810 怎么做到的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2089417420373143552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8aEtjasAANfGh.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2089417426878513463",
+        "created_at": "2026-08-18T05:07:14.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089579855923089814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965572243335053312",
+              "start": 0,
+              "username": "ashasw1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089579855923089814",
+        "in_reply_to_user_id": "1965572243335053312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089417426878513463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw1919810 怎么做到的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089417420373143552"
+          ]
+        },
+        "author_id": "1965572243335053312",
+        "conversation_id": "2089417426878513463",
+        "created_at": "2026-08-17T18:21:48.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089417426878513463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kktUTqoJil",
+              "end": 35,
+              "expanded_url": "https://x.com/ashasw1919810/status/2089417426878513463/photo/1",
+              "media_key": "3_2089417420373143552",
+              "start": 12,
+              "url": "https://t.co/kktUTqoJil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089417426878513463",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089417420373143552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 551,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来老广半个月串了6次稀 https://t.co/kktUTqoJil"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2089579855923089814",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 171,
+          "like_count": 6366,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-10T00:25:35.000Z",
+        "description": "人生自古谁无死，遗憾地，此人无法再与您进行互动，，，    似掉的大号@ashasw114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "ashasw114514"
+              }
+            ]
+          }
+        },
+        "id": "1965572243335053312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089528296006705554",
+        "name": "搞耍潮爹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965572243335053312/1786371212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086817939937017856/bxU2mrBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 890,
+          "like_count": 803,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "ashasw1919810",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2089965514919715244",
+    "created_at": "2026-08-19T06:39:43.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089965514919715244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1580634879213318144",
+          "start": 3,
+          "username": "DevilsTrumpetVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089965514919715244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089684086227157098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DevilsTrumpetVI: 不要跟我说中国不存在种族歧视，我每次看到中国人普遍无耻的将自己定义成新疆与西藏的解放者，重复着人骨法器等谎言时，嘲笑别人的自焚抗议时，就能看见老中根深蒂固的种族主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2089965514919715244",
+        "created_at": "2026-08-19T06:39:43.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089965514919715244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1580634879213318144",
+              "start": 3,
+              "username": "DevilsTrumpetVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089965514919715244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089684086227157098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DevilsTrumpetVI: 不要跟我说中国不存在种族歧视，我每次看到中国人普遍无耻的将自己定义成新疆与西藏的解放者，重复着人骨法器等谎言时，嘲笑别人的自焚抗议时，就能看见老中根深蒂固的种族主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580634879213318144",
+        "conversation_id": "2089683106668462137",
+        "created_at": "2026-08-18T12:01:25.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089684086227157098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089684086227157098",
+        "in_reply_to_user_id": "1580634879213318144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1742,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089683106668462137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要跟我说中国不存在种族歧视，我每次看到中国人普遍无耻的将自己定义成新疆与西藏的解放者，重复着人骨法器等谎言时，嘲笑别人的自焚抗议时，就能看见老中根深蒂固的种族主义"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2089965514919715244",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 174,
+          "like_count": 6437,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-13T19:02:28.000Z",
+        "description": "And all lost beauty is borne upon the wind; in its wake, white blossoms drift like snow, mourning a world unborn｜日常碎碎念 @AngelsTrumpetIX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 119,
+                "username": "AngelsTrumpetIX"
+              }
+            ]
+          }
+        },
+        "id": "1580634879213318144",
+        "is_identity_verified": false,
+        "location": "Erewhon",
+        "most_recent_tweet_id": "2089950330616434784",
+        "name": "Phlonika🏴🚩🌹🍉🌻",
+        "pinned_tweet_id": "2089320235899974097",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580634879213318144/1783040539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077515587325227008/AaUEe0BX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 485,
+          "like_count": 27409,
+          "listed_count": 15,
+          "media_count": 433,
+          "tweet_count": 8516
+        },
+        "url": "",
+        "username": "DevilsTrumpetVI",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

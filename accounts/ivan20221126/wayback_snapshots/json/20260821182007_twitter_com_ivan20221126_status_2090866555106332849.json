@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090866547489398784"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2090866555106332849",
+    "created_at": "2026-08-21T18:20:07.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090866555106332849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/saPLJvzAxs",
+          "end": 66,
+          "expanded_url": "https://x.com/ivan20221126/status/2090866555106332849/photo/1",
+          "media_key": "3_2090866547489398784",
+          "start": 43,
+          "url": "https://t.co/saPLJvzAxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090866555106332849",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090866547489398784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这春风好啊，这春风真好啊\n学土木的都知道，包工头到底怎么挣钱的😹😹，唉我路灯怎么痒了 https://t.co/saPLJvzAxs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 496,
+        "media_key": "3_2090866547489398784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRADAvaYAAfrOR.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090866547489398784"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2090866555106332849",
+        "created_at": "2026-08-21T18:20:07.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090866555106332849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/saPLJvzAxs",
+              "end": 66,
+              "expanded_url": "https://x.com/ivan20221126/status/2090866555106332849/photo/1",
+              "media_key": "3_2090866547489398784",
+              "start": 43,
+              "url": "https://t.co/saPLJvzAxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090866555106332849",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090866547489398784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这春风好啊，这春风真好啊\n学土木的都知道，包工头到底怎么挣钱的😹😹，唉我路灯怎么痒了 https://t.co/saPLJvzAxs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2090866555106332849",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 172,
+          "like_count": 6802,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

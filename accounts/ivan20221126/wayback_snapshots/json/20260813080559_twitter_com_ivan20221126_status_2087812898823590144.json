@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2087774908239814724",
+    "created_at": "2026-08-13T08:05:59.000Z",
+    "display_text_range": [
+      31,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T09:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087812898823590144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913084413942145024",
+          "start": 0,
+          "username": "Sui_aini"
+        },
+        {
+          "end": 21,
+          "id": "1604031907528077312",
+          "start": 10,
+          "username": "ONGEKI0721"
+        },
+        {
+          "end": 30,
+          "id": "1461728708935385088",
+          "start": 22,
+          "username": "Qbb7680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087812898823590144",
+    "in_reply_to_user_id": "1913084413942145024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087811265775460726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui_aini @ONGEKI0721 @Qbb7680 脑残二次元有无辜的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2087774908239814724",
+        "created_at": "2026-08-13T08:05:59.000Z",
+        "display_text_range": [
+          31,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087812898823590144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            },
+            {
+              "end": 21,
+              "id": "1604031907528077312",
+              "start": 10,
+              "username": "ONGEKI0721"
+            },
+            {
+              "end": 30,
+              "id": "1461728708935385088",
+              "start": 22,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087812898823590144",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087811265775460726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini @ONGEKI0721 @Qbb7680 脑残二次元有无辜的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2087774908239814724",
+        "created_at": "2026-08-13T07:59:30.000Z",
+        "display_text_range": [
+          21,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087811265775460726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1604031907528077312",
+              "start": 0,
+              "username": "ONGEKI0721"
+            },
+            {
+              "end": 20,
+              "id": "1461728708935385088",
+              "start": 12,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087811265775460726",
+        "in_reply_to_user_id": "1604031907528077312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087810759434850556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ONGEKI0721 @Qbb7680 是吗，为什么我在各大脑残二次元群里，只看到了对跨性别的仇恨输出言论"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087812898823590144",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 167,
+          "like_count": 5828,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 532
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2087811265775460726",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2470,
+          "following_count": 847,
+          "like_count": 6461,
+          "listed_count": 4,
+          "media_count": 857,
+          "tweet_count": 6873
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-17T08:33:08.000Z",
+        "description": "音游痴 maimaidx arcaea chunithm soundvoltex 暴龙天（即将）",
+        "id": "1604031907528077312",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087811460990980514",
+        "name": "？",
+        "pinned_tweet_id": "1879942521935245399",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991516682192580611/38cSpAaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 1499,
+          "like_count": 22003,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1979
+        },
+        "url": "",
+        "username": "ONGEKI0721",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-19T16:11:06.000Z",
+        "description": "poly, pan, the Red, the Wandering, the Northwind/这不是你的错，也不是我们的问题，但是我们需要一些关于小猫的问题/给荒诞留一个位置，然后去吃一顿有黑胡椒、芝士和蜂蜜的水果火腿/🥰喵粒子柚子代糖水水tedharuhi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maj-wind.qbb.moe",
+                "end": 23,
+                "expanded_url": "http://maj-wind.qbb.moe",
+                "start": 0,
+                "url": "https://t.co/ooAlNHfsel"
+              }
+            ]
+          }
+        },
+        "id": "1461728708935385088",
+        "is_identity_verified": false,
+        "location": "休息日欢迎请我打日麻",
+        "most_recent_tweet_id": "2087802674381226142",
+        "name": "是气波波nya～",
+        "pinned_tweet_id": "2075846918308254166",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1461728708935385088/1707993182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997841678657597440/MtDkFV17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15073,
+          "following_count": 1206,
+          "like_count": 116371,
+          "listed_count": 36,
+          "media_count": 1249,
+          "tweet_count": 8155
+        },
+        "url": "https://t.co/ooAlNHfsel",
+        "username": "Qbb7680",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

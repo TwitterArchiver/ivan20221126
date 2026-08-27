@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2087042307631853823",
+    "created_at": "2026-08-11T16:22:44.000Z",
+    "display_text_range": [
+      11,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087213134864056747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2082275840851845120",
+          "start": 0,
+          "username": "Mercyxvx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087213134864056747",
+    "in_reply_to_user_id": "2082275840851845120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087042307631853823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyxvx1 别过量含氨基比林的东西啊😰😰，臭名昭著的安乃近也是因此，氨基比林与安乃近同属吡唑仓类，都会造成急性粒细胞缺乏症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2087042307631853823",
+        "created_at": "2026-08-11T16:22:44.000Z",
+        "display_text_range": [
+          11,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087213134864056747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2082275840851845120",
+              "start": 0,
+              "username": "Mercyxvx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087213134864056747",
+        "in_reply_to_user_id": "2082275840851845120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087042307631853823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyxvx1 别过量含氨基比林的东西啊😰😰，臭名昭著的安乃近也是因此，氨基比林与安乃近同属吡唑仓类，都会造成急性粒细胞缺乏症"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082275840851845120",
+        "conversation_id": "2087042307631853823",
+        "created_at": "2026-08-11T05:03:56.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087042307631853823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087042307631853823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "氨基比林咖啡因片，40t｜共1600mg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087213134864056747",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 166,
+          "like_count": 5614,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 511
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T01:24:46.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR｜💖:@liyfn130024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "liyfn130024"
+              }
+            ]
+          }
+        },
+        "id": "2082275840851845120",
+        "is_identity_verified": false,
+        "location": "💊🔪🩸",
+        "most_recent_tweet_id": "2087160211983466965",
+        "name": "Mercy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082275840851845120/1786200645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086102773620498433/HZK3v4ox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 337,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "Mercyxvx1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2078806065458929679",
+    "created_at": "2026-07-19T15:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078857628185469352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "RETURN8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078857628185469352",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078806065458929679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RETURN8964 父子团聚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078806052645310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlnF0TbEAA_sUo.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2078806065458929679",
+        "created_at": "2026-07-19T15:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078857628185469352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "RETURN8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078857628185469352",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078806065458929679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RETURN8964 父子团聚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078806052645310464"
+          ]
+        },
+        "author_id": "2044319134326964224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078806065458929679",
+        "created_at": "2026-07-19T11:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078806065458929679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvJRP7mX21",
+              "end": 32,
+              "expanded_url": "https://x.com/RETURN8964/status/2078806065458929679/photo/1",
+              "media_key": "3_2078806052645310464",
+              "start": 9,
+              "url": "https://t.co/FvJRP7mX21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078806065458929679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腊肉蛋炒饭。。。 https://t.co/FvJRP7mX21"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 146,
+          "like_count": 3367,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "18y.o.  翎本人\nApex CS kovaak一般路过爱好者\n非现充 \n头像 @washiya0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "washiya0"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "name": "EternalSubconsciencƎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076052589754425344/MgnGKGEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 425,
+          "like_count": 19219,
+          "listed_count": 5,
+          "media_count": 410,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "RETURN8964",
+        "verified": true
+      }
+    ]
+  }
+}

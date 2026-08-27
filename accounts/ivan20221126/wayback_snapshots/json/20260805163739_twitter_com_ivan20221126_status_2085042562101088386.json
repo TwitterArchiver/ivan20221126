@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2084996242707493230",
+    "created_at": "2026-08-05T16:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085042562101088386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906595429162299392",
+          "start": 0,
+          "username": "Dream_Shards"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085042562101088386",
+    "in_reply_to_user_id": "1906595429162299392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084996242707493230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream_Shards 如果你面部立体度尚可，并且与五官协调的话这完全不是劣势啊🤨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2084996242707493230",
+        "created_at": "2026-08-05T16:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085042562101088386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906595429162299392",
+              "start": 0,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085042562101088386",
+        "in_reply_to_user_id": "1906595429162299392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084996242707493230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_Shards 如果你面部立体度尚可，并且与五官协调的话这完全不是劣势啊🤨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906595429162299392",
+        "conversation_id": "2084996242707493230",
+        "created_at": "2026-08-05T13:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084996242707493230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084996242707493230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "hrt五个多月了，花了很多钱，学习了hrt方案，有好好吃药，在极其恐针和疼痛敏感的情况下也有尝试自己给自己扎针，也有向rle穿搭改善，尝试rle出门，但是还是一点也不pass，还不如某个我认识的顺直男朋友pass，五个月来胸还完全是平的，有的姐妹两个月就B了，超大的额头和发际线，下巴凸起，脸上鼻子上全是被睾酮摧残的痕迹，全是痘坑痘印和黑头留下的痕迹，还被别的mtf说“你男相太重了”“为什么xyn不想怎么打扮自己呢”“我第一眼想叫哥们”，比起那些已经不在的姐姐们，也许我才是该消失的那个"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1861,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hrt五个多月了，花了很多钱，学习了hrt方案，有好好吃药，在极其恐针和疼痛敏感的情况下也有尝试自己给自己扎针，也有向rle穿搭改善，尝试rle出门，但是还是一点也不pass，还不如某个我认识的顺直男朋友pass，五个月来胸还完全是平的，有的姐妹两个月就B了，超大的额头和发际线，下巴凸起，脸上鼻子上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 160,
+          "like_count": 4746,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "hrt：26.2.18/家暴党·天残党·非资深oder\n舞萌重度依赖♡｜同类友跨互fo\n想聊天倾诉想被抱抱都可以来找我喵♡/地雷系重力系警告\n爱人：@zhangxiaofu673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "zhangxiaofu673"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "location": "距离你3.2km",
+        "name": "碎梦🍥（色商版）",
+        "pinned_tweet_id": "2082938278714703944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 589,
+          "like_count": 1309,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": true
+      }
+    ]
+  }
+}

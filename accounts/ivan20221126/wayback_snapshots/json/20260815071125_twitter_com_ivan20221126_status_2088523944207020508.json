@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2088520104128782462",
+    "created_at": "2026-08-15T07:11:25.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088523944207020508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965572243335053312",
+          "start": 0,
+          "username": "ashasw1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088523944207020508",
+    "in_reply_to_user_id": "1965572243335053312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088520104128782462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw1919810 跨性别，我们终于又见面了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088520104128782462",
+        "created_at": "2026-08-15T07:11:25.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088523944207020508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965572243335053312",
+              "start": 0,
+              "username": "ashasw1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088523944207020508",
+        "in_reply_to_user_id": "1965572243335053312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088520104128782462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw1919810 跨性别，我们终于又见面了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965572243335053312",
+        "conversation_id": "2088520104128782462",
+        "created_at": "2026-08-15T06:56:10.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088520104128782462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088520104128782462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啥时候武汉天街捅人案能有上海超天酱快闪捅人的一半热度"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088523944207020508",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 174,
+          "like_count": 6182,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-10T00:25:35.000Z",
+        "description": "人生自古谁无死，遗憾地，此人无法再与您进行互动，，，    似掉的大号@ashasw114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "ashasw114514"
+              }
+            ]
+          }
+        },
+        "id": "1965572243335053312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088521644826644520",
+        "name": "搞耍潮爹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965572243335053312/1786371212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086817939937017856/bxU2mrBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 776,
+          "like_count": 753,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "ashasw1919810",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

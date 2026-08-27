@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2079244245140230277",
+    "created_at": "2026-07-20T17:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079254344718061964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769077710637375488",
+          "start": 0,
+          "username": "Overdose_BBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079254344718061964",
+    "in_reply_to_user_id": "1769077710637375488",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079244245140230277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_BBC ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2079244245140230277",
+        "created_at": "2026-07-20T17:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079254344718061964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769077710637375488",
+              "start": 0,
+              "username": "Overdose_BBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079254344718061964",
+        "in_reply_to_user_id": "1769077710637375488",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079244245140230277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_BBC ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769077710637375488",
+        "conversation_id": "2079244245140230277",
+        "created_at": "2026-07-20T16:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079244245140230277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079244245140230277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 147,
+          "like_count": 3542,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:06:21.000Z",
+        "description": "",
+        "id": "1769077710637375488",
+        "name": "kanaiilq",
+        "pinned_tweet_id": "2052088814404051447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009685139513573377/zG1-j_tN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 437,
+          "like_count": 1955,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1003
+        },
+        "url": "",
+        "username": "Overdose_BBC",
+        "verified": false
+      }
+    ]
+  }
+}

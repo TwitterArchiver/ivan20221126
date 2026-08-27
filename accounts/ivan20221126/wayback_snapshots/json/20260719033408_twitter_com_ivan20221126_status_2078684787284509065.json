@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2078684787284509065",
+    "created_at": "2026-07-19T03:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078684787284509065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1873267579869118465",
+          "start": 3,
+          "username": "welfare_samurai"
+        },
+        {
+          "end": 36,
+          "id": "1814839209976606720",
+          "start": 21,
+          "username": "QSeSlEN6j1YAKO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078684787284509065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078655027703652421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @welfare_samurai: @QSeSlEN6j1YAKO 同じ診断名でも十人十色だということは、どの障害でも同じこと。価値観で決めつけるな。「本物」と呼ぶこと自体に差別がある。この事例と少しでも異なるASD当事者は、本物ではないと言われていることと同義である。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2078684787284509065",
+        "created_at": "2026-07-19T03:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078684787284509065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1873267579869118465",
+              "start": 3,
+              "username": "welfare_samurai"
+            },
+            {
+              "end": 36,
+              "id": "1814839209976606720",
+              "start": 21,
+              "username": "QSeSlEN6j1YAKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078684787284509065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078655027703652421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @welfare_samurai: @QSeSlEN6j1YAKO 同じ診断名でも十人十色だということは、どの障害でも同じこと。価値観で決めつけるな。「本物」と呼ぶこと自体に差別がある。この事例と少しでも異なるASD当事者は、本物ではないと言われていることと同義である。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873267579869118465",
+        "conversation_id": "2078436798775365758",
+        "created_at": "2026-07-19T01:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078655027703652421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814839209976606720",
+              "start": 0,
+              "username": "QSeSlEN6j1YAKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078655027703652421",
+        "in_reply_to_user_id": "1814839209976606720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3336,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078436798775365758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QSeSlEN6j1YAKO 同じ診断名でも十人十色だということは、どの障害でも同じこと。価値観で決めつけるな。「本物」と呼ぶこと自体に差別がある。この事例と少しでも異なるASD当事者は、本物ではないと言われていることと同義である。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 143,
+          "like_count": 3289,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T07:19:39.000Z",
+        "description": "愛称：おさむらい｜林業・漁業・農業の家系で動植物と共に成長🌿 ｜強迫性障害｜社交不安障害｜闘病中｜障害当事者発信｜🪯宗教 × スピリチュアリズムの視点で社会を考える🗣️ ｜障害当事者団体ベクトルズ（会員）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "challenged-vectors.jimdofree.com",
+                "end": 23,
+                "expanded_url": "https://challenged-vectors.jimdofree.com",
+                "start": 0,
+                "url": "https://t.co/VqgHx8cXMj"
+              }
+            ]
+          }
+        },
+        "id": "1873267579869118465",
+        "location": "オホーツク",
+        "name": "尾侍酔助",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873268411771568130/hOygk4j5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 134,
+          "like_count": 646,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/VqgHx8cXMj",
+        "username": "welfare_samurai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T01:46:50.000Z",
+        "description": "ASD持ち。スペースラジオ「いまだラジオ」を不定期開催。それ以外にも、スペースを開き、雑談や趣味（ゲーム等）の話をしてます。厳しめのポストもありますが、明るめの内容も発信するようにしてます。障害や持病がある方向けのオタ活に関する情報も不定期で発信。障害年金等は受給してません。",
+        "id": "1814839209976606720",
+        "name": "いまだ だいすけ",
+        "pinned_tweet_id": "2028780389079392760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814839671790444546/gn8pI6pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17021,
+          "following_count": 4602,
+          "like_count": 27485,
+          "listed_count": 170,
+          "media_count": 241,
+          "tweet_count": 10865
+        },
+        "url": "",
+        "username": "QSeSlEN6j1YAKO",
+        "verified": true
+      }
+    ]
+  }
+}

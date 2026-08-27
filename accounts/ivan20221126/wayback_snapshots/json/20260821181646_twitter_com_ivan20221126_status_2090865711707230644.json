@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2090865711707230644",
+    "created_at": "2026-08-21T18:16:46.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090865711707230644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Suzushirochika…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Suzushirochika/status/2090464486276907166",
+          "start": 12,
+          "url": "https://t.co/ulg6ZIhCe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090865711707230644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090464486276907166",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我该怎么办，只有天知道 https://t.co/ulg6ZIhCe1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2090865711707230644",
+        "created_at": "2026-08-21T18:16:46.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090865711707230644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Suzushirochika…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Suzushirochika/status/2090464486276907166",
+              "start": 12,
+              "url": "https://t.co/ulg6ZIhCe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090865711707230644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090464486276907166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我该怎么办，只有天知道 https://t.co/ulg6ZIhCe1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253292430792839174",
+        "conversation_id": "2090464486276907166",
+        "created_at": "2026-08-20T15:42:27.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090464486276907166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090464486276907166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 25611,
+          "like_count": 533,
+          "quote_count": 6,
+          "reply_count": 152,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不信初中/高中曾经休学过一年的人还能再很自在地融入校园环境……（不管你休学这一年在做什么）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2090865711707230644",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 172,
+          "like_count": 6795,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-23T12:00:18.000Z",
+        "description": "魚魚蒸好了",
+        "id": "1253292430792839174",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090851602978734483",
+        "name": "鈴白千夏",
+        "pinned_tweet_id": "2089643945890562103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253292430792839174/1783686049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15068,
+          "following_count": 755,
+          "like_count": 88318,
+          "listed_count": 14,
+          "media_count": 959,
+          "tweet_count": 18157
+        },
+        "url": "",
+        "username": "Suzushirochika",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

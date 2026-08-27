@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2087843406907396405",
+    "created_at": "2026-08-13T10:07:13.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T11:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087843406907396405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wangchai_owo/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Wangchai_owo/status/2087825997580402729",
+          "start": 3,
+          "url": "https://t.co/XrS0UJ0QVr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087843406907396405",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087825997580402729",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😅😅 https://t.co/XrS0UJ0QVr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2087843406907396405",
+        "created_at": "2026-08-13T10:07:13.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087843406907396405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wangchai_owo/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Wangchai_owo/status/2087825997580402729",
+              "start": 3,
+              "url": "https://t.co/XrS0UJ0QVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087843406907396405",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087825997580402729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😅😅 https://t.co/XrS0UJ0QVr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228641661401436160",
+        "conversation_id": "2087800183170207839",
+        "created_at": "2026-08-13T08:58:02.000Z",
+        "display_text_range": [
+          12,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087825997580402729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087825997580402729",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087800183170207839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 在QQ看见全因了，捅人的是个跨性别，刚od吸完，产生了幻觉被迫害妄想，然后说别人偷拍后直接亮刀了，应该算是非常恶性的事件了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087843406907396405",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 167,
+          "like_count": 5843,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-15T11:26:24.000Z",
+        "description": "Hi! Im Wangchai! Now live in perth.\n福建人，不过不是很经常待在福建\n如果您喜欢咱的设定，谢谢您！\n\n本人性别男，取向也正常\n\n设定没有性别规定，画的似男似女全看画师",
+        "id": "1228641661401436160",
+        "is_identity_verified": false,
+        "location": "Au",
+        "most_recent_tweet_id": "2087841369947861058",
+        "name": "Wangchai",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228641661401436160/1785687949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085952386909241344/lA0of-G-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 57,
+          "like_count": 511,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "Wangchai_owo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

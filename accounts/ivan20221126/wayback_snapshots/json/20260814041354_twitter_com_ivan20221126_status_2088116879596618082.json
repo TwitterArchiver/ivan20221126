@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088116872701243392"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2088116879596618082",
+    "created_at": "2026-08-14T04:13:54.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088116879596618082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3gzakcK49s",
+          "end": 125,
+          "expanded_url": "https://x.com/ivan20221126/status/2088116879596618082/photo/1",
+          "media_key": "3_2088116872701243392",
+          "start": 102,
+          "url": "https://t.co/3gzakcK49s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088116879596618082",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088116872701243392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "翻墙上外网什么时候是合法的了，自己本身就在非法平台上发言还在这里狗叫，全中推也就只有你完全理性跨跨做得到了吧。难道因为不报备的游行是非法的所以就不去游行了？我没有认为道义大于法律的意思，但法律就是滞后的 https://t.co/3gzakcK49s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2088116872701243392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp7O37bcAAH4va.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088116872701243392"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088116879596618082",
+        "created_at": "2026-08-14T04:13:54.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088116879596618082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gzakcK49s",
+              "end": 125,
+              "expanded_url": "https://x.com/ivan20221126/status/2088116879596618082/photo/1",
+              "media_key": "3_2088116872701243392",
+              "start": 102,
+              "url": "https://t.co/3gzakcK49s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088116879596618082",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088116872701243392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻墙上外网什么时候是合法的了，自己本身就在非法平台上发言还在这里狗叫，全中推也就只有你完全理性跨跨做得到了吧。难道因为不报备的游行是非法的所以就不去游行了？我没有认为道义大于法律的意思，但法律就是滞后的 https://t.co/3gzakcK49s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088116879596618082",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 167,
+          "like_count": 5896,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

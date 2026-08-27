@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087580485472112640"
+      ],
+      "media_source_tweet_id": [
+        "2087580498113745176"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2087580646042653137",
+    "created_at": "2026-08-12T16:43:06.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087580646042653137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2072676485396381696",
+          "start": 3,
+          "username": "cheatcat2005"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fPg6QXZUEG",
+          "end": 122,
+          "expanded_url": "https://x.com/cheatcat2005/status/2087580498113745176/photo/1",
+          "media_key": "3_2087580485472112640",
+          "start": 99,
+          "url": "https://t.co/fPg6QXZUEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087580646042653137",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087580485472112640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087580498113745176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cheatcat2005: 伊甸食堂开业啦！！\n\n点赞，转发，评论此贴的。抽三个人，一等奖一份飘飘糖，二等奖两份冰雹😋😋\n\n日期截止下个星期（既8月20日）\n\n注：此贴仅为分享戒药戒毒体验 https://t.co/fPg6QXZUEG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2087580485472112640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiTZByaUAAGwYO.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087580485472112640"
+          ]
+        },
+        "author_id": "2072676485396381696",
+        "conversation_id": "2087580498113745176",
+        "created_at": "2026-08-12T16:42:30.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087580498113745176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPg6QXZUEG",
+              "end": 104,
+              "expanded_url": "https://x.com/cheatcat2005/status/2087580498113745176/photo/1",
+              "media_key": "3_2087580485472112640",
+              "start": 81,
+              "url": "https://t.co/fPg6QXZUEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087580498113745176",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087580485472112640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "伊甸食堂开业啦！！\n\n点赞，转发，评论此贴的。抽三个人，一等奖一份飘飘糖，二等奖两份冰雹😋😋\n\n日期截止下个星期（既8月20日）\n\n注：此贴仅为分享戒药戒毒体验 https://t.co/fPg6QXZUEG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087580485472112640"
+          ],
+          "media_source_tweet_id": [
+            "2087580498113745176"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2087580646042653137",
+        "created_at": "2026-08-12T16:43:06.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087580646042653137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072676485396381696",
+              "start": 3,
+              "username": "cheatcat2005"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPg6QXZUEG",
+              "end": 122,
+              "expanded_url": "https://x.com/cheatcat2005/status/2087580498113745176/photo/1",
+              "media_key": "3_2087580485472112640",
+              "start": 99,
+              "url": "https://t.co/fPg6QXZUEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087580646042653137",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087580485472112640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087580498113745176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cheatcat2005: 伊甸食堂开业啦！！\n\n点赞，转发，评论此贴的。抽三个人，一等奖一份飘飘糖，二等奖两份冰雹😋😋\n\n日期截止下个星期（既8月20日）\n\n注：此贴仅为分享戒药戒毒体验 https://t.co/fPg6QXZUEG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087580646042653137",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 166,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T13:40:29.000Z",
+        "description": "Choose Life. Choose a job. Choose a career. Choose a family. Choose a fxxking big television.  Choose a starter home. Choose your friends.",
+        "id": "2072676485396381696",
+        "is_identity_verified": false,
+        "location": "牯岭街",
+        "most_recent_tweet_id": "2087580498113745176",
+        "name": "伊甸园Lab(分享戒药戒毒体验)",
+        "pinned_tweet_id": "2087569216434237469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072676485396381696/1782999924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087553888400691200/VqYcjUxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "cheatcat2005",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

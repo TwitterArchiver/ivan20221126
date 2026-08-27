@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2083041221665251351",
+    "created_at": "2026-07-31T04:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083044351551414564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965572243335053312",
+          "start": 0,
+          "username": "ashasw1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083044351551414564",
+    "in_reply_to_user_id": "1965572243335053312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083041221665251351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw1919810 江郎才尽了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2083041221665251351",
+        "created_at": "2026-07-31T04:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083044351551414564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965572243335053312",
+              "start": 0,
+              "username": "ashasw1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083044351551414564",
+        "in_reply_to_user_id": "1965572243335053312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083041221665251351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw1919810 江郎才尽了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965572243335053312",
+        "conversation_id": "2083041221665251351",
+        "created_at": "2026-07-31T04:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083041221665251351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083041221665251351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近灵感枯竭想不出咋炒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 153,
+          "like_count": 4329,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 395
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T00:25:35.000Z",
+        "description": "人生自古谁无死，遗憾地，此人无法再与您进行互动，，，    似掉的大号@ashasw114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "ashasw114514"
+              }
+            ]
+          }
+        },
+        "id": "1965572243335053312",
+        "name": "搞耍潮娘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082067365706293248/clpHT62Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 345,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "ashasw1919810",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2083954338679103581",
+    "created_at": "2026-08-03T06:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084163780322447386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053178871751569411",
+          "start": 0,
+          "username": "freshfoam242169"
+        },
+        {
+          "end": 24,
+          "id": "1341902533032173569",
+          "start": 17,
+          "username": "_idemu"
+        },
+        {
+          "end": 41,
+          "id": "1252123575416270854",
+          "start": 25,
+          "username": "KomorebiHoshino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084163780322447386",
+    "in_reply_to_user_id": "2053178871751569411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084150621817729069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freshfoam242169 @_idemu @KomorebiHoshino 北佬闹麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2083954338679103581",
+        "created_at": "2026-08-03T06:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084163780322447386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053178871751569411",
+              "start": 0,
+              "username": "freshfoam242169"
+            },
+            {
+              "end": 24,
+              "id": "1341902533032173569",
+              "start": 17,
+              "username": "_idemu"
+            },
+            {
+              "end": 41,
+              "id": "1252123575416270854",
+              "start": 25,
+              "username": "KomorebiHoshino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084163780322447386",
+        "in_reply_to_user_id": "2053178871751569411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084150621817729069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freshfoam242169 @_idemu @KomorebiHoshino 北佬闹麻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053178871751569411",
+        "conversation_id": "2083954338679103581",
+        "created_at": "2026-08-03T05:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084150621817729069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1341902533032173569",
+              "start": 0,
+              "username": "_idemu"
+            },
+            {
+              "end": 24,
+              "id": "1252123575416270854",
+              "start": 8,
+              "username": "KomorebiHoshino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084150621817729069",
+        "in_reply_to_user_id": "1341902533032173569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084134922042941701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_idemu @KomorebiHoshino 儿化音是标准中文发音，有点像东京口音和大阪口音的区别，南方的普通话因为没有那么标准，就缺少儿化音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 156,
+          "like_count": 4526,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T18:22:57.000Z",
+        "description": "Suikoden fan.  Chinese",
+        "id": "2053178871751569411",
+        "name": "FlyintoLakeWest",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082118201555755008/7zU55z_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 39,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "freshfoam242169",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T00:24:40.000Z",
+        "description": "中国東北旅行中\nLearning：JP・CN・EN \nVRC/語學/ACG/ボカロ/etc\n國漢文混用er",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_a3aa7fdb-58a4-406d-86b4-2a12eb35259d",
+                "start": 0,
+                "url": "https://t.co/seHZ4dt79J"
+              }
+            ]
+          }
+        },
+        "id": "1341902533032173569",
+        "location": "Gdansk",
+        "name": "しひろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074173349765472256/kxdX6QAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 133,
+          "like_count": 6723,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/seHZ4dt79J",
+        "username": "_idemu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-20T06:35:36.000Z",
+        "description": "🇯🇵 🌈",
+        "id": "1252123575416270854",
+        "location": "Kawasaki-shi Tama-ku, Kanagawa",
+        "name": "星野✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081628815361736704/ctQmJ-DE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 108,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "KomorebiHoshino",
+        "verified": false
+      }
+    ]
+  }
+}

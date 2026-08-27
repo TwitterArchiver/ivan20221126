@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2088518349668172281",
+    "created_at": "2026-08-15T07:24:52.000Z",
+    "display_text_range": [
+      13,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088527325742985477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851403302938071040",
+          "start": 0,
+          "username": "UMP91147621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088527325742985477",
+    "in_reply_to_user_id": "1851403302938071040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088518349668172281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UMP91147621 酒精很大一方面是其对肝脏的毒性，相比之下三角枫滥用的起码目前不会造成很严重点身体损伤🤨🤨，不过两者都会引发去抑制，使人决策能力大幅下降"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2088518332127522816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvoW41aMAANPFU.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3120,
+        "media_key": "3_2088518342265143296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvoXemaAAAzYoc.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088518349668172281",
+        "created_at": "2026-08-15T07:24:52.000Z",
+        "display_text_range": [
+          13,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088527325742985477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851403302938071040",
+              "start": 0,
+              "username": "UMP91147621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088527325742985477",
+        "in_reply_to_user_id": "1851403302938071040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088518349668172281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UMP91147621 酒精很大一方面是其对肝脏的毒性，相比之下三角枫滥用的起码目前不会造成很严重点身体损伤🤨🤨，不过两者都会引发去抑制，使人决策能力大幅下降"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088518332127522816",
+            "3_2088518342265143296"
+          ]
+        },
+        "author_id": "1851403302938071040",
+        "conversation_id": "2088518349668172281",
+        "created_at": "2026-08-15T06:49:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:43:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088516997755875771",
+          "2088518349668172281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJvvhyjrZv",
+              "end": 164,
+              "expanded_url": "https://x.com/UMP91147621/status/2088518349668172281/photo/1",
+              "media_key": "3_2088518332127522816",
+              "start": 141,
+              "url": "https://t.co/KJvvhyjrZv"
+            },
+            {
+              "display_url": "pic.x.com/KJvvhyjrZv",
+              "end": 164,
+              "expanded_url": "https://x.com/UMP91147621/status/2088518349668172281/photo/1",
+              "media_key": "3_2088518342265143296",
+              "start": 141,
+              "url": "https://t.co/KJvvhyjrZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088518349668172281",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088518332127522816"
+          },
+          {
+            "media_key": "3_2088518342265143296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "什么弱智，喝醉酒强奸是这个人本身道德有问题，不是酒影响人判断能力的\n跟禁酒令坐一桌得了，一个认为出事是因为酒是坏东西，一个认为出事是因为人是坏东西\n真不知道这种人你妈连半点的常识和生活经验都没有事怎么活着的\n\n再说斯大林酒后没强奸，斯大林酒后还没开火箭 坐飞机 唱歌 化妆 吃汉堡 玩碰碰车了\n这就还是那个经典的问题了，你为什么早上吃包子不吃面条，他妈哪里来的为什么？\n所以酒后为什么就必须强奸？举例都举不明白\n\n那斯大林没酒后强奸 他他妈不喝酒都整天下令杀人\n哦，那没事了，这下是斯大林本身就有问题了，这下圆回来了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么弱智，喝醉酒强奸是这个人本身道德有问题，不是酒影响人判断能力的\n跟禁酒令坐一桌得了，一个认为出事是因为酒是坏东西，一个认为出事是因为人是坏东西\n真不知道这种人你妈连半点的常识和生活经验都没有事怎么活着的\n\n再说斯大林酒后没强奸，斯大林酒后还没开火箭 坐飞机 唱歌 化妆 吃汉堡 https://t.co/KJvvhyjrZv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088527325742985477",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 173,
+          "like_count": 6187,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 628
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T23:18:50.000Z",
+        "description": "日本に留学中     社会学部     \n99組/虹ヶ咲     🔖👑/🦒🍅     まゆち/もえぴ         \n歴史/言語/政治/哲学/書道/甲冑/城/戦国",
+        "id": "1851403302938071040",
+        "is_identity_verified": false,
+        "location": "Aomori-shi, Aomori",
+        "most_recent_tweet_id": "2088525851167948878",
+        "name": "大ばナナ",
+        "pinned_tweet_id": "1949770867963207815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851403302938071040/1730244753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851406388716863488/CrgWRYEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2078,
+          "like_count": 50090,
+          "listed_count": 18,
+          "media_count": 7931,
+          "tweet_count": 43497
+        },
+        "url": "",
+        "username": "UMP91147621",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2079766862079144018",
+    "created_at": "2026-07-22T03:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079766862079144018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huaxiangdiea/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/huaxiangdiea/status/2079654074191163504",
+          "start": 17,
+          "url": "https://t.co/2y57G2SYg4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079766862079144018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079654074191163504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是杀人犯，你们可以拿石头砸我了 https://t.co/2y57G2SYg4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2079766862079144018",
+        "created_at": "2026-07-22T03:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079766862079144018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxiangdiea/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/huaxiangdiea/status/2079654074191163504",
+              "start": 17,
+              "url": "https://t.co/2y57G2SYg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079766862079144018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079654074191163504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是杀人犯，你们可以拿石头砸我了 https://t.co/2y57G2SYg4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079623281263706112",
+        "conversation_id": "2079654074191163504",
+        "created_at": "2026-07-21T19:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079654074191163504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079654074191163504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药圈根本不需要各位wiki！\n你们不是为了oder们的安全\n你们是纯粹的杀人犯\n建立wiki获得巨大的不属于你们的流量\n很有成就感吧？你们的罪恶无法弥补！为了流量带来的成就感和利益就能做出来扩大药圈拉更多人下水逐步走向死亡的行为 哈哈 杀人犯们\n药圈著名杀人犯们：后藤 沐雨 董晗 鼠尾草 三琦 玄鸮等等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 153,
+          "like_count": 3679,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T17:44:21.000Z",
+        "description": "我和死亡处成了朋友 从地狱归来之人\n想知道我是谁吗？来了解我吧\n只是一只代表死亡的蝴蝶…\n药圈和平 减害主义 请爱我 永远",
+        "id": "2079623281263706112",
+        "location": "hell",
+        "name": "花乡蝶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079623941732331520/W9QuYVqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "huaxiangdiea",
+        "verified": false
+      }
+    ]
+  }
+}

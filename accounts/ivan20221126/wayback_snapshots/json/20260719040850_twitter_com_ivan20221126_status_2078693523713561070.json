@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078076029818585088"
+      ],
+      "media_source_tweet_id": [
+        "2078076071082168376"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "2078693523713561070",
+    "created_at": "2026-07-19T04:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078693523713561070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1502831572298436611",
+          "start": 3,
+          "username": "Crazymoments01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VrBTITGwSo",
+          "end": 91,
+          "expanded_url": "https://x.com/Crazymoments01/status/2078076071082168376/video/1",
+          "media_key": "13_2078076029818585088",
+          "start": 68,
+          "url": "https://t.co/VrBTITGwSo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078693523713561070",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6773
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078076071082168376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Crazymoments01: Weed truck spill on highway 420! 💯 count me in! https://t.co/VrBTITGwSo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13048,
+        "height": 864,
+        "media_key": "13_2078076029818585088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078076029818585088/img/lldCGJRgovKSiNo9.jpg",
+        "public_metrics": {
+          "view_count": 2304767
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078076029818585088/vid/avc1/320x556/8f_CDkARsPE-K9EV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078076029818585088/vid/avc1/496x864/zqTZiCpa_hh25ak3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078076029818585088/pl/W_PFFjEJlXG-q21M.m3u8?v=cfc"
+          }
+        ],
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078076029818585088"
+          ]
+        },
+        "author_id": "1502831572298436611",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2078076071082168376",
+        "created_at": "2026-07-17T11:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078076071082168376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrBTITGwSo",
+              "end": 71,
+              "expanded_url": "https://x.com/Crazymoments01/status/2078076071082168376/video/1",
+              "media_key": "13_2078076029818585088",
+              "start": 48,
+              "url": "https://t.co/VrBTITGwSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078076071082168376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7977,
+          "impression_count": 5098996,
+          "like_count": 34401,
+          "quote_count": 1222,
+          "reply_count": 2476,
+          "retweet_count": 6773
+        },
+        "reply_settings": "everyone",
+        "text": "Weed truck spill on highway 420! 💯 count me in! https://t.co/VrBTITGwSo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078076029818585088"
+          ],
+          "media_source_tweet_id": [
+            "2078076071082168376"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2078693523713561070",
+        "created_at": "2026-07-19T04:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078693523713561070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1502831572298436611",
+              "start": 3,
+              "username": "Crazymoments01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrBTITGwSo",
+              "end": 91,
+              "expanded_url": "https://x.com/Crazymoments01/status/2078076071082168376/video/1",
+              "media_key": "13_2078076029818585088",
+              "start": 68,
+              "url": "https://t.co/VrBTITGwSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078693523713561070",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6773
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078076071082168376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Crazymoments01: Weed truck spill on highway 420! 💯 count me in! https://t.co/VrBTITGwSo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 143,
+          "like_count": 3291,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T02:19:35.000Z",
+        "description": "Posting trending and viral videos around the world. Stay in the loop with what's buzzing! DM for credit or removal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "healthwellness.cloud",
+                "end": 23,
+                "expanded_url": "https://healthwellness.cloud/",
+                "start": 0,
+                "url": "https://t.co/H3eoSjSf1Y"
+              }
+            ]
+          }
+        },
+        "id": "1502831572298436611",
+        "name": "Crazy Moments",
+        "pinned_tweet_id": "2078276766972485784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793333499052568576/QU_uidyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415649,
+          "following_count": 96,
+          "like_count": 18431,
+          "listed_count": 652,
+          "media_count": 69890,
+          "tweet_count": 79996
+        },
+        "url": "https://t.co/H3eoSjSf1Y",
+        "username": "Crazymoments01",
+        "verified": true
+      }
+    ]
+  }
+}

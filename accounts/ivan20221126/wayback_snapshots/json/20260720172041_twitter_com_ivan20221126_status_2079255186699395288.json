@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1410728010462859268",
+          "name": "Xianxia"
+        }
+      }
+    ],
+    "conversation_id": "2079255186699395288",
+    "created_at": "2026-07-20T17:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079255186699395288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2079219790367826333",
+          "start": 18,
+          "url": "https://t.co/Bo7tOiCEKt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079255186699395288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079219790367826333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "民族主义，，，亿万人必须寻根，，， https://t.co/Bo7tOiCEKt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2079018139980021760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNon-7MaQAA5iP6.jpg",
+        "width": 1147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410728010462859268",
+              "name": "Xianxia"
+            }
+          }
+        ],
+        "conversation_id": "2079255186699395288",
+        "created_at": "2026-07-20T17:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079255186699395288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2079219790367826333",
+              "start": 18,
+              "url": "https://t.co/Bo7tOiCEKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079255186699395288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079219790367826333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "民族主义，，，亿万人必须寻根，，， https://t.co/Bo7tOiCEKt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079018139980021760"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410728010462859268",
+              "name": "Xianxia"
+            }
+          }
+        ],
+        "conversation_id": "2079219790367826333",
+        "created_at": "2026-07-20T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079219790367826333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kitenDiIy",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2079219790367826333/photo/1",
+              "media_key": "3_2079018139980021760",
+              "start": 81,
+              "url": "https://t.co/5kitenDiIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079219790367826333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月20日，彭博社刊发评论文章称，在青年失业率居高、经济增长放缓和社会流动受限的背景下，越来越多中国年轻人转向汉服、古装剧和仙侠文化，从传统文化中寻求精神慰藉。\n\n文章认为，中共曾长期以“反封建”为名批判传统文化，如今则将自身塑造成“五千年文明的守护者”，并借助“民族复兴”等历史叙事强化执政合法性。\n\n彭博评论称，文化怀旧无法创造就业、提振房地产市场，也难以扭转年轻人的生育意愿。文章认为，只要无法为年轻人提供一个值得期待的未来，回望被理想化的过去仍将持续吸引不少人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 34566,
+          "like_count": 185,
+          "quote_count": 3,
+          "reply_count": 100,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "7月20日，彭博社刊发评论文章称，在青年失业率居高、经济增长放缓和社会流动受限的背景下，越来越多中国年轻人转向汉服、古装剧和仙侠文化，从传统文化中寻求精神慰藉。 https://t.co/5kitenDiIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 147,
+          "like_count": 3547,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242595,
+          "following_count": 1078,
+          "like_count": 9805,
+          "listed_count": 8827,
+          "media_count": 50751,
+          "tweet_count": 57970
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2090173078232039470",
+    "created_at": "2026-08-20T10:24:04.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T11:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090384363410391040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823987651655127040",
+          "start": 0,
+          "username": "ookoukibob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090384363410391040",
+    "in_reply_to_user_id": "1823987651655127040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090173078232039470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ookoukibob 饿啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2090173078232039470",
+        "created_at": "2026-08-20T10:24:04.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090384363410391040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823987651655127040",
+              "start": 0,
+              "username": "ookoukibob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090384363410391040",
+        "in_reply_to_user_id": "1823987651655127040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090173078232039470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ookoukibob 饿啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823987651655127040",
+        "conversation_id": "2090173078232039470",
+        "created_at": "2026-08-19T20:24:30.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T21:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090173078232039470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ididnothinglqz…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Ididnothinglqz/status/2089768944873926852",
+              "start": 7,
+              "url": "https://t.co/enFvHIBOQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090173078232039470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089768944873926852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是吃太饱了 https://t.co/enFvHIBOQA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2090384363410391040",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 170,
+          "like_count": 6631,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 667
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-15T07:38:48.000Z",
+        "description": "伪娘享受者｜PDW现役编辑｜狂热の日麻雀士\nBass🎸&Drum🥁&Winds🪈\n27fall English/中文OK  \n查成分互fo LGBTQ+Friendly🏳️‍⚧️🏳️‍🌈\nTelegram频道https://t.co/hCjhUdZOZv\n站点链接🔗https://t.co/msb6Dyz0O4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ookoukibobchan…",
+                "end": 127,
+                "expanded_url": "https://t.me/ookoukibobchannel",
+                "start": 104,
+                "url": "https://t.co/hCjhUdZOZv"
+              },
+              {
+                "display_url": "psydrugs.org",
+                "end": 156,
+                "expanded_url": "http://psydrugs.org",
+                "start": 133,
+                "url": "https://t.co/msb6Dyz0O4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ookoukibob57851",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ookoukibob57851",
+                "start": 0,
+                "url": "https://t.co/e3w2WOGZ0Y"
+              }
+            ]
+          }
+        },
+        "id": "1823987651655127040",
+        "is_identity_verified": false,
+        "location": "Toshima-ku, Tokyo",
+        "most_recent_tweet_id": "2090173078232039470",
+        "name": "OokoukiBob",
+        "pinned_tweet_id": "1971912857026547937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823987651655127040/1782845013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010081830209241089/w8z8AzRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 758,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/e3w2WOGZ0Y",
+        "username": "ookoukibob",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

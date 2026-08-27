@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091831305642381312"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2091831315217985552",
+    "created_at": "2026-08-24T10:13:44.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T11:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091831315217985552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/49XHM2A0qg",
+          "end": 23,
+          "expanded_url": "https://x.com/ivan20221126/status/2091831315217985552/photo/1",
+          "media_key": "3_2091831305642381312",
+          "start": 0,
+          "url": "https://t.co/49XHM2A0qg"
+        },
+        {
+          "display_url": "x.com/drugs_artistbr…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/drugs_artistbro/status/2091824918883389947",
+          "start": 24,
+          "url": "https://t.co/OYQSgHUUyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091831315217985552",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2091831305642381312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091824918883389947",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/49XHM2A0qg https://t.co/OYQSgHUUyo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_2091831305642381312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQetfU7bEAAsT2c.jpg",
+        "width": 1396
+      },
+      {
+        "height": 1293,
+        "media_key": "3_2091824906740940801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQenq3KbwAELzt7.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2037,
+        "media_key": "3_2091824913367920640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQenrP2bcAAVblA.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091831305642381312"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2091831315217985552",
+        "created_at": "2026-08-24T10:13:44.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091831315217985552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/49XHM2A0qg",
+              "end": 23,
+              "expanded_url": "https://x.com/ivan20221126/status/2091831315217985552/photo/1",
+              "media_key": "3_2091831305642381312",
+              "start": 0,
+              "url": "https://t.co/49XHM2A0qg"
+            },
+            {
+              "display_url": "x.com/drugs_artistbr…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/drugs_artistbro/status/2091824918883389947",
+              "start": 24,
+              "url": "https://t.co/OYQSgHUUyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091831315217985552",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091831305642381312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091824918883389947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/49XHM2A0qg https://t.co/OYQSgHUUyo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091824906740940801",
+            "3_2091824913367920640"
+          ]
+        },
+        "author_id": "2090066465802067968",
+        "conversation_id": "2091824918883389947",
+        "created_at": "2026-08-24T09:48:19.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091824918883389947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGNqzn7PlM",
+              "end": 174,
+              "expanded_url": "https://x.com/drugs_artistbro/status/2091824918883389947/photo/1",
+              "media_key": "3_2091824906740940801",
+              "start": 151,
+              "url": "https://t.co/fGNqzn7PlM"
+            },
+            {
+              "display_url": "pic.x.com/fGNqzn7PlM",
+              "end": 174,
+              "expanded_url": "https://x.com/drugs_artistbro/status/2091824918883389947/photo/1",
+              "media_key": "3_2091824913367920640",
+              "start": 151,
+              "url": "https://t.co/fGNqzn7PlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091824918883389947",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091824906740940801"
+          },
+          {
+            "media_key": "3_2091824913367920640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原革内部有人开始急了开始人身攻击了\n营造出我有多恨他们一样🤣\n你们干脆改名叫开盒革命吧\n我看你们除了开盒挂人开无关的人传谣之外也没有什么拿得出手的武器了\n坦克姬 omi 橘雪梨 原革三大将\nOD狗频道运营者坦克姬是山东人正取保\n坦克姬和omi是互相利用互相防范关系\n昨天开大量pdw人员致无关人员受害 https://t.co/fGNqzn7PlM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2091831315217985552",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 171,
+          "like_count": 7014,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T13:25:46.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFP|提问箱:https://t.co/CSC72A8dFF|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy！年号雨玄二年  名人堂梦工厂RC-沐雨 零售策划药产品联系我的tg：@drug_artist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "drug_artist"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 56,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 33,
+                "url": "https://t.co/CSC72A8dFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/B866JKncpo"
+              }
+            ]
+          }
+        },
+        "id": "2090066465802067968",
+        "is_identity_verified": false,
+        "location": "Xanax天国 2mg省",
+        "most_recent_tweet_id": "2091825612512194885",
+        "name": "沐雨",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090068838293331968/paabMn1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 40,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/B866JKncpo",
+        "username": "drugs_artistbro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

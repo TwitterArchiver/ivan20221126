@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2086583168736375200",
+    "created_at": "2026-08-11T09:04:15.000Z",
+    "display_text_range": [
+      41,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087102784608821335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "449499942",
+          "start": 0,
+          "username": "ShowUnlimited"
+        },
+        {
+          "end": 27,
+          "id": "1784487085987991552",
+          "start": 15,
+          "username": "fabi1179072"
+        },
+        {
+          "end": 40,
+          "id": "1569409963990351874",
+          "start": 28,
+          "username": "Argenpoirot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087102784608821335",
+    "in_reply_to_user_id": "449499942",
+    "lang": "sv",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086694906198634682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShowUnlimited @fabi1179072 @Argenpoirot idiot🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2086583168736375200",
+        "created_at": "2026-08-11T09:04:15.000Z",
+        "display_text_range": [
+          41,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087102784608821335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "449499942",
+              "start": 0,
+              "username": "ShowUnlimited"
+            },
+            {
+              "end": 27,
+              "id": "1784487085987991552",
+              "start": 15,
+              "username": "fabi1179072"
+            },
+            {
+              "end": 40,
+              "id": "1569409963990351874",
+              "start": 28,
+              "username": "Argenpoirot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087102784608821335",
+        "in_reply_to_user_id": "449499942",
+        "lang": "sv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086694906198634682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShowUnlimited @fabi1179072 @Argenpoirot idiot🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "449499942",
+        "conversation_id": "2086583168736375200",
+        "created_at": "2026-08-10T06:03:29.000Z",
+        "display_text_range": [
+          26,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086694906198634682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1784487085987991552",
+              "start": 0,
+              "username": "fabi1179072"
+            },
+            {
+              "end": 25,
+              "id": "1569409963990351874",
+              "start": 13,
+              "username": "Argenpoirot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086694906198634682",
+        "in_reply_to_user_id": "1784487085987991552",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7331,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086647545950871713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fabi1179072 @Argenpoirot Ni idea tienes del verdadero comunismo, solo lo que te idean los medios pero bueno, igual creo que debes regresar a la escuela"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087102784608821335",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 167,
+          "like_count": 5571,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-29T05:30:14.000Z",
+        "description": "Live Love Laugh",
+        "id": "449499942",
+        "is_identity_verified": false,
+        "location": "Izcallifornia",
+        "most_recent_tweet_id": "2086695247807988038",
+        "name": "Ricardo Sánchez",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/449499942/1682715458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1435016731509071874/zpqWjvTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 403,
+          "like_count": 6931,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 3291
+        },
+        "url": "",
+        "username": "ShowUnlimited",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-28T07:37:59.000Z",
+        "description": "",
+        "id": "1784487085987991552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086863549507280941",
+        "name": "fabi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 3699,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "fabi1179072",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-12T19:37:57.000Z",
+        "description": "Usando la materia gris para postear, a veces no.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/argenpoirot26?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/argenpoirot26?igsh=a3Ixend2dGhqdHYx",
+                "start": 0,
+                "url": "https://t.co/2OxBTx9TbR"
+              }
+            ]
+          }
+        },
+        "id": "1569409963990351874",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087057668825309665",
+        "name": "Poirot",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1569409963990351874/1704478455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888710753231794176/kgaBVX8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146006,
+          "following_count": 3143,
+          "like_count": 32778,
+          "listed_count": 197,
+          "media_count": 9594,
+          "tweet_count": 15316
+        },
+        "url": "https://t.co/2OxBTx9TbR",
+        "username": "Argenpoirot",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

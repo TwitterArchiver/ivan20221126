@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2086106647001518476",
+    "created_at": "2026-08-08T15:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T16:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086106647001518476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/splasheen/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/splasheen/status/2085988048756744420",
+          "start": 9,
+          "url": "https://t.co/f7vYrCKeR8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086106647001518476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085988048756744420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢你叫我小姑娘 https://t.co/f7vYrCKeR8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2085988038619115520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLrEa-bMAALJ_3.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085988038585487360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLrEa2aEAADi30.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2086106647001518476",
+        "created_at": "2026-08-08T15:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T16:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086106647001518476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/splasheen/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/splasheen/status/2085988048756744420",
+              "start": 9,
+              "url": "https://t.co/f7vYrCKeR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086106647001518476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085988048756744420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你叫我小姑娘 https://t.co/f7vYrCKeR8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085988038619115520",
+            "3_2085988038585487360"
+          ]
+        },
+        "author_id": "790393779219857408",
+        "conversation_id": "2085988048756744420",
+        "created_at": "2026-08-08T07:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085988048756744420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eivUxcZO4L",
+              "end": 91,
+              "expanded_url": "https://x.com/splasheen/status/2085988048756744420/photo/1",
+              "media_key": "3_2085988038619115520",
+              "start": 68,
+              "url": "https://t.co/eivUxcZO4L"
+            },
+            {
+              "display_url": "pic.x.com/eivUxcZO4L",
+              "end": 91,
+              "expanded_url": "https://x.com/splasheen/status/2085988048756744420/photo/1",
+              "media_key": "3_2085988038585487360",
+              "start": 68,
+              "url": "https://t.co/eivUxcZO4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085988048756744420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2056,
+          "impression_count": 1881846,
+          "like_count": 19114,
+          "quote_count": 891,
+          "reply_count": 51,
+          "retweet_count": 1282
+        },
+        "reply_settings": "everyone",
+        "text": "さっきこれ着てる男オタク(髪ボサ眼鏡)を野生で初めて目撃して、めちゃめちゃ感動した\n〜この画像に辿り着くまでの最悪な検索履歴を添えて〜 https://t.co/eivUxcZO4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 163,
+          "like_count": 5105,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-24T03:25:36.000Z",
+        "description": "i▶︎@akr_tmr h▶︎@SHOGO70449442",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "akr_tmr"
+              },
+              {
+                "end": 29,
+                "start": 15,
+                "username": "SHOGO70449442"
+              }
+            ]
+          }
+        },
+        "id": "790393779219857408",
+        "name": "しぇ",
+        "pinned_tweet_id": "1990310094891094053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958450018324828161/6QWCeJJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 682,
+          "like_count": 123655,
+          "listed_count": 18,
+          "media_count": 10930,
+          "tweet_count": 96084
+        },
+        "url": "",
+        "username": "splasheen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2090835411279233519",
+    "created_at": "2026-08-21T16:16:22.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090835411279233519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sugarsast/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Sugarsast/status/2090732604719063357",
+          "start": 8,
+          "url": "https://t.co/bouonn7VFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090835411279233519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090732604719063357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "袜，还有迎宾酒 https://t.co/bouonn7VFv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2090835411279233519",
+        "created_at": "2026-08-21T16:16:22.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090835411279233519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sugarsast/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Sugarsast/status/2090732604719063357",
+              "start": 8,
+              "url": "https://t.co/bouonn7VFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090835411279233519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090732604719063357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "袜，还有迎宾酒 https://t.co/bouonn7VFv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889861257",
+        "conversation_id": "2090732604719063357",
+        "created_at": "2026-08-21T09:27:51.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090732604719063357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090732604719063357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8735,
+          "like_count": 134,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "告诉嗑药逼一个焚决，普瑞巴林的\n代谢是完全不经过肝并且几乎不会被代谢， 意思是你od完尿出去的尿90都是已普瑞巴林的原型出去的，完全可以把尿收集起来喝了以达到无限循环"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2090835411279233519",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 171,
+          "like_count": 6769,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜情感淡漠｜家长不管党｜匿名:https://t.co/kXreZykI07｜Q:3673124663｜我的tg:https://t.co/1e7qTaQ9VS｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 50,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 27,
+                "url": "https://t.co/kXreZykI07"
+              },
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 92,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 69,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090828289665650734",
+        "name": "神户盐🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889861257/1780258514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090704079244955648/09gAhiPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1191,
+          "like_count": 8930,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 2993
+        },
+        "url": "https://t.co/1e7qTaQ9VS",
+        "username": "Sugarsast",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

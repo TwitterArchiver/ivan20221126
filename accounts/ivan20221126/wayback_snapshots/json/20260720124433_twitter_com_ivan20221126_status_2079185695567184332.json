@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079185681067520000"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2079185695567184332",
+    "created_at": "2026-07-20T12:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079185695567184332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xOJ28lvGqa",
+          "end": 26,
+          "expanded_url": "https://x.com/ivan20221126/status/2079185695567184332/photo/1",
+          "media_key": "3_2079185681067520000",
+          "start": 3,
+          "url": "https://t.co/xOJ28lvGqa"
+        },
+        {
+          "display_url": "x.com/KrvyScorpii/st…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/KrvyScorpii/status/2079155598621573276",
+          "start": 27,
+          "url": "https://t.co/ygdgESL0Xq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079185695567184332",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079155598621573276",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😁😁 https://t.co/xOJ28lvGqa https://t.co/ygdgESL0Xq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2079185681067520000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrAXGYbsAAJmmb.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079185681067520000"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2079185695567184332",
+        "created_at": "2026-07-20T12:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079185695567184332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOJ28lvGqa",
+              "end": 26,
+              "expanded_url": "https://x.com/ivan20221126/status/2079185695567184332/photo/1",
+              "media_key": "3_2079185681067520000",
+              "start": 3,
+              "url": "https://t.co/xOJ28lvGqa"
+            },
+            {
+              "display_url": "x.com/KrvyScorpii/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/KrvyScorpii/status/2079155598621573276",
+              "start": 27,
+              "url": "https://t.co/ygdgESL0Xq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079185695567184332",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079155598621573276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😁😁 https://t.co/xOJ28lvGqa https://t.co/ygdgESL0Xq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032059814348754944",
+        "conversation_id": "2079155598621573276",
+        "created_at": "2026-07-20T10:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079155598621573276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KrvyScorpii/st…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/KrvyScorpii/status/2079130493535318509",
+              "start": 162,
+              "url": "https://t.co/5l5akRgI4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079155598621573276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2489,
+          "like_count": 21,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079130493535318509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "具体来说 是江苏省苏州市吴中区的石虔先生在kr难受的是就不断的教唆自杀，最终导致kr情绪崩溃跳楼自杀（此人电话号为18068037176，QQ号1114396330） 不给此人只是从犯，主犯信息还未找到，但我 Mikan 在此发誓 我绝对不会放过任何一个教唆犯。\n\n另某b站博主为美好的世界献上忠建立的QQ群里面全是教唆犯 https://t.co/5l5akRgI4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 147,
+          "like_count": 3484,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，前pdw wiki管理员，退役oder，某传奇贝斯手，希望能成为人类",
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 81,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false
+      }
+    ]
+  }
+}

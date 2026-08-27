@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087192814341722113"
+      ],
+      "media_source_tweet_id": [
+        "2087192848814792895"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087421306363068691",
+    "created_at": "2026-08-12T06:09:56.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087421306363068691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061056425573462018",
+          "start": 3,
+          "username": "DVDDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HEZzAgwyrE",
+          "end": 66,
+          "expanded_url": "https://x.com/DVDDusk/status/2087192848814792895/video/1",
+          "media_key": "13_2087192814341722113",
+          "start": 43,
+          "url": "https://t.co/HEZzAgwyrE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087421306363068691",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2087192814341722113"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087192848814792895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DVDDusk: HELLO!!??!?? THIS EDIT!?!!?!? https://t.co/HEZzAgwyrE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14001,
+        "height": 576,
+        "media_key": "13_2087192814341722113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087192814341722113/img/K3-EEwE9YVA6XPen.jpg",
+        "public_metrics": {
+          "view_count": 4645
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087192814341722113/vid/avc1/320x320/jkWBBvqhH2V3ijYD.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087192814341722113/vid/avc1/576x576/r5FElWvIWadn4GgP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087192814341722113/pl/kJ6ZmjLIYhS9aCeq.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087192814341722113"
+          ]
+        },
+        "author_id": "2061056425573462018",
+        "conversation_id": "2087192848814792895",
+        "created_at": "2026-08-11T15:02:07.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087192848814792895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEZzAgwyrE",
+              "end": 53,
+              "expanded_url": "https://x.com/DVDDusk/status/2087192848814792895/video/1",
+              "media_key": "13_2087192814341722113",
+              "start": 30,
+              "url": "https://t.co/HEZzAgwyrE"
+            },
+            {
+              "display_url": "x.com/Salayley/statu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Salayley/status/2084187562495656171",
+              "start": 54,
+              "url": "https://t.co/BD6KPV7vA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087192848814792895",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087192814341722113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 53538,
+          "like_count": 435,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084187562495656171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "HELLO!!??!?? THIS EDIT!?!!?!? https://t.co/HEZzAgwyrE https://t.co/BD6KPV7vA6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087192814341722113"
+          ],
+          "media_source_tweet_id": [
+            "2087192848814792895"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087421306363068691",
+        "created_at": "2026-08-12T06:09:56.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087421306363068691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061056425573462018",
+              "start": 3,
+              "username": "DVDDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HEZzAgwyrE",
+              "end": 66,
+              "expanded_url": "https://x.com/DVDDusk/status/2087192848814792895/video/1",
+              "media_key": "13_2087192814341722113",
+              "start": 43,
+              "url": "https://t.co/HEZzAgwyrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087421306363068691",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087192814341722113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087192848814792895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DVDDusk: HELLO!!??!?? THIS EDIT!?!!?!? https://t.co/HEZzAgwyrE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087421306363068691",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 166,
+          "like_count": 5691,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T12:08:18.000Z",
+        "description": "History LARP enthusiast • Right-Wing • Javid shah • ꑭ🇺🇦 👑🇮🇷 ✡︎🇮🇱 ✝️🇪🇺 🦅🇺🇸 alt acc: @NoctiDusky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "NoctiDusky"
+              }
+            ]
+          }
+        },
+        "id": "2061056425573462018",
+        "is_identity_verified": false,
+        "location": "imperial state of iran𓉱👑",
+        "most_recent_tweet_id": "2087328073599295534",
+        "name": "Dusk Harmony 🇮🇷🇮🇱",
+        "pinned_tweet_id": "2061877460514316431",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061056425573462018/1781609310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069144264718929920/KgMYCVPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 710,
+          "like_count": 2236,
+          "listed_count": 1,
+          "media_count": 966,
+          "tweet_count": 1720
+        },
+        "url": "",
+        "username": "DVDDusk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

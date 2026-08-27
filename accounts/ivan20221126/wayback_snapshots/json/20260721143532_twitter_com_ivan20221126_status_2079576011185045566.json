@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079575894038085632"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2079570089259749656",
+    "created_at": "2026-07-21T14:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079576011185045566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aNbRBS7LJl",
+          "end": 51,
+          "expanded_url": "https://x.com/ivan20221126/status/2079576011185045566/video/1",
+          "media_key": "13_2079575894038085632",
+          "start": 28,
+          "url": "https://t.co/aNbRBS7LJl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079576011185045566",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079570089259749656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug 依旧双人军团，依旧淘汰王 https://t.co/aNbRBS7LJl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15116,
+        "height": 720,
+        "media_key": "13_2079575894038085632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079575894038085632/img/3fVc5bAtLR8JOR0J.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079575894038085632/vid/avc1/320x320/WYXcm-jxnEPdk13_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079575894038085632/vid/avc1/540x540/_C88I908ftbeM0ni.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079575894038085632/vid/avc1/720x720/8P_ddWFsiRoZDeiV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079575894038085632/pl/hwI6sIiJRGj2SrXS.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2079570079415779328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwd-B0bwAAzDGi.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079575894038085632"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2079570089259749656",
+        "created_at": "2026-07-21T14:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079576011185045566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNbRBS7LJl",
+              "end": 51,
+              "expanded_url": "https://x.com/ivan20221126/status/2079576011185045566/video/1",
+              "media_key": "13_2079575894038085632",
+              "start": 28,
+              "url": "https://t.co/aNbRBS7LJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079576011185045566",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079570089259749656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 依旧双人军团，依旧淘汰王 https://t.co/aNbRBS7LJl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079570079415779328"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2079570089259749656",
+        "created_at": "2026-07-21T14:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079570089259749656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t3NLZMWXGu",
+              "end": 106,
+              "expanded_url": "https://x.com/Idontselldrug/status/2079570089259749656/photo/1",
+              "media_key": "3_2079570079415779328",
+              "start": 83,
+              "url": "https://t.co/t3NLZMWXGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079570089259749656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是tcc大手子但这电影挺有意思的，很难想象这草台班子一样随机选择两个高中生拍出的作品能这么精湛细腻，什么时候哪个导演慧眼识珠让我演一下Elliot rodger https://t.co/t3NLZMWXGu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 150,
+          "like_count": 3633,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 310,
+          "like_count": 2694,
+          "listed_count": 1,
+          "media_count": 528,
+          "tweet_count": 3204
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

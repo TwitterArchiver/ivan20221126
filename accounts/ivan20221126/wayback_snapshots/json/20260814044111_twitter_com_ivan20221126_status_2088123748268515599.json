@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2088123748268515599",
+    "created_at": "2026-08-14T04:41:11.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088123748268515599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UWATCHLIFE/sta…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/UWATCHLIFE/status/2088122599884861751",
+          "start": 91,
+          "url": "https://t.co/Q4zZ0Zed6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088123748268515599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088122599884861751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "异常...异常....这一切，你们都不知道，对，你们已经被异常认知危害了。一切减害的减害，一切恢复的恢复术，我已经明白该怎么做了。我将\n成为高原传说，希望这会成为你们不可磨灭的记忆 https://t.co/Q4zZ0Zed6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 261,
+        "media_key": "3_2088122586232459264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqAbcfbEAAnNco.jpg",
+        "width": 892
+      },
+      {
+        "height": 595,
+        "media_key": "3_2088122586282799104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqAbcrbMAAYqlZ.jpg",
+        "width": 981
+      },
+      {
+        "height": 373,
+        "media_key": "3_2088122586224029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqAbcdacAAiSGZ.jpg",
+        "width": 920
+      },
+      {
+        "height": 265,
+        "media_key": "3_2088122586219925504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqAbccb0AAvB3F.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2088123748268515599",
+        "created_at": "2026-08-14T04:41:11.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088123748268515599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UWATCHLIFE/sta…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/UWATCHLIFE/status/2088122599884861751",
+              "start": 91,
+              "url": "https://t.co/Q4zZ0Zed6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088123748268515599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088122599884861751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "异常...异常....这一切，你们都不知道，对，你们已经被异常认知危害了。一切减害的减害，一切恢复的恢复术，我已经明白该怎么做了。我将\n成为高原传说，希望这会成为你们不可磨灭的记忆 https://t.co/Q4zZ0Zed6r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088122586232459264",
+            "3_2088122586282799104",
+            "3_2088122586224029696",
+            "3_2088122586219925504"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "conversation_id": "2088122599884861751",
+        "created_at": "2026-08-14T04:36:37.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088122599884861751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAl2NDbvra",
+              "end": 93,
+              "expanded_url": "https://x.com/UWATCHLIFE/status/2088122599884861751/photo/1",
+              "media_key": "3_2088122586232459264",
+              "start": 70,
+              "url": "https://t.co/gAl2NDbvra"
+            },
+            {
+              "display_url": "pic.x.com/gAl2NDbvra",
+              "end": 93,
+              "expanded_url": "https://x.com/UWATCHLIFE/status/2088122599884861751/photo/1",
+              "media_key": "3_2088122586282799104",
+              "start": 70,
+              "url": "https://t.co/gAl2NDbvra"
+            },
+            {
+              "display_url": "pic.x.com/gAl2NDbvra",
+              "end": 93,
+              "expanded_url": "https://x.com/UWATCHLIFE/status/2088122599884861751/photo/1",
+              "media_key": "3_2088122586224029696",
+              "start": 70,
+              "url": "https://t.co/gAl2NDbvra"
+            },
+            {
+              "display_url": "pic.x.com/gAl2NDbvra",
+              "end": 93,
+              "expanded_url": "https://x.com/UWATCHLIFE/status/2088122599884861751/photo/1",
+              "media_key": "3_2088122586219925504",
+              "start": 70,
+              "url": "https://t.co/gAl2NDbvra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088122599884861751",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088122586232459264"
+          },
+          {
+            "media_key": "3_2088122586282799104"
+          },
+          {
+            "media_key": "3_2088122586224029696"
+          },
+          {
+            "media_key": "3_2088122586219925504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "张嘴闭嘴就“我相信”，蝾螈宗教kana？谢绝荣行健这小鬼遇事就赖药物发表伪科学理论的送妈行为，否则蝾妈将驾驶蝾爹灵车碾平蝾爹坟头，3q2x https://t.co/gAl2NDbvra"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2088123748268515599",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 168,
+          "like_count": 5928,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 574
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2088122599884861751",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 163,
+          "like_count": 1921,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1217
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

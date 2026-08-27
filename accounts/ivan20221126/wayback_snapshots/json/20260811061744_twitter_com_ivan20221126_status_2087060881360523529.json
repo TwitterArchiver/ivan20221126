@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086758776678625280"
+      ],
+      "media_source_tweet_id": [
+        "2086758793090908622"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2087060881360523529",
+    "created_at": "2026-08-11T06:17:44.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087060881360523529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1732823644714233856",
+          "start": 3,
+          "username": "anime1_5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6uWEPIYha",
+          "end": 37,
+          "expanded_url": "https://x.com/anime1_5/status/2086758793090908622/video/1",
+          "media_key": "13_2086758776678625280",
+          "start": 14,
+          "url": "https://t.co/P6uWEPIYha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087060881360523529",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2086758776678625280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 340
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086758793090908622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime1_5: https://t.co/P6uWEPIYha"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1300,
+        "height": 494,
+        "media_key": "13_2086758776678625280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086758776678625280/img/UMcEXPh0IkflcCnO.jpg",
+        "public_metrics": {
+          "view_count": 35499
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086758776678625280/vid/avc1/348x270/Ri5JK2_u-RIDj3_G.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086758776678625280/vid/avc1/466x360/fwNWLpKBjX2hWXfj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086758776678625280/vid/avc1/640x494/BGij-2t5V2hWMITK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086758776678625280/pl/72Ex02ujN-vegHzk.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086758776678625280"
+          ]
+        },
+        "author_id": "1732823644714233856",
+        "conversation_id": "2086758793090908622",
+        "created_at": "2026-08-10T10:17:21.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086758793090908622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6uWEPIYha",
+              "end": 23,
+              "expanded_url": "https://x.com/anime1_5/status/2086758793090908622/video/1",
+              "media_key": "13_2086758776678625280",
+              "start": 0,
+              "url": "https://t.co/P6uWEPIYha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086758793090908622",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086758776678625280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1720,
+          "impression_count": 159579,
+          "like_count": 7290,
+          "quote_count": 6,
+          "reply_count": 26,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/P6uWEPIYha"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086758776678625280"
+          ],
+          "media_source_tweet_id": [
+            "2086758793090908622"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2087060881360523529",
+        "created_at": "2026-08-11T06:17:44.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087060881360523529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1732823644714233856",
+              "start": 3,
+              "username": "anime1_5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6uWEPIYha",
+              "end": 37,
+              "expanded_url": "https://x.com/anime1_5/status/2086758793090908622/video/1",
+              "media_key": "13_2086758776678625280",
+              "start": 14,
+              "url": "https://t.co/P6uWEPIYha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087060881360523529",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086758776678625280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 340
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086758793090908622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime1_5: https://t.co/P6uWEPIYha"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2087060881360523529",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1782897730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 167,
+          "like_count": 5536,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 501
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T18:05:43.000Z",
+        "description": "Your daily dose of anime.\nBest moments, edits & discussions. 🍿",
+        "id": "1732823644714233856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087052937336131593",
+        "name": "𝔸ℕ𝕊𝕀𝕆ℕ",
+        "pinned_tweet_id": "2086758793090908622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732823644714233856/1784911040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081659773230202880/QjfetF2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 72,
+          "like_count": 1450,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "anime1_5",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
