@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2092881992329351545",
+    "created_at": "2026-08-27T07:48:45.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T08:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092881992329351545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3570663677",
+          "start": 3,
+          "username": "vlucasrocha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092881992329351545",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1859
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092483987394441694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vlucasrocha: quanto mais pessoas antivacinas, menos pessoas antivacinas"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2092881992329351545",
+        "created_at": "2026-08-27T07:48:45.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092881992329351545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3570663677",
+              "start": 3,
+              "username": "vlucasrocha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092881992329351545",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1859
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092483987394441694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vlucasrocha: quanto mais pessoas antivacinas, menos pessoas antivacinas"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3570663677",
+        "conversation_id": "2092483987394441694",
+        "created_at": "2026-08-26T05:27:13.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092483987394441694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fofoquei/statu…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/fofoquei/status/2092291948484698508",
+              "start": 59,
+              "url": "https://t.co/ri6U1fdgGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092483987394441694",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 171561,
+          "like_count": 21195,
+          "quote_count": 26,
+          "reply_count": 33,
+          "retweet_count": 1859
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092291948484698508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "quanto mais pessoas antivacinas, menos pessoas antivacinas https://t.co/ri6U1fdgGn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2092881992329351545",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 168,
+          "like_count": 7216,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-09-06T22:39:51.000Z",
+        "description": "o menino do morcego",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/vlucasrocha?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/vlucasrocha?igsh=Z201aWJzNzhuNmo1&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/rNnaXhy7eg"
+              }
+            ]
+          }
+        },
+        "id": "3570663677",
+        "is_identity_verified": true,
+        "location": "Bahia, Brasil",
+        "most_recent_tweet_id": "2092857604451992041",
+        "name": "Lucas 🦇",
+        "pinned_tweet_id": "2092499527194321190",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3570663677/1758930390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015255435977056256/6J7LI6ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100513,
+          "following_count": 14887,
+          "like_count": 369140,
+          "listed_count": 93,
+          "media_count": 26700,
+          "tweet_count": 165006
+        },
+        "url": "https://t.co/rNnaXhy7eg",
+        "username": "vlucasrocha",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098005620394008576"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2098005647820259661",
+    "created_at": "2026-09-10T11:08:20.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098005647820259661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ULDNf9YXm2",
+          "end": 31,
+          "expanded_url": "https://x.com/ivan20221126/status/2098005647820259661/photo/1",
+          "media_key": "3_2098005620394008576",
+          "start": 8,
+          "url": "https://t.co/ULDNf9YXm2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098005647820259661",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098005620394008576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个，不需要了 https://t.co/ULDNf9YXm2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2098005620394008576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2c_vxboAAOtiP.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098005620394008576"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2098005647820259661",
+        "created_at": "2026-09-10T11:08:20.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098005647820259661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULDNf9YXm2",
+              "end": 31,
+              "expanded_url": "https://x.com/ivan20221126/status/2098005647820259661/photo/1",
+              "media_key": "3_2098005620394008576",
+              "start": 8,
+              "url": "https://t.co/ULDNf9YXm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098005647820259661",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098005620394008576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个，不需要了 https://t.co/ULDNf9YXm2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098005647820259661",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 176,
+          "like_count": 8547,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 792
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

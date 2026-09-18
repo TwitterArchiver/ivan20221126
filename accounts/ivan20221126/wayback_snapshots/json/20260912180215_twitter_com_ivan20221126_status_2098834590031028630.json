@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2098802146674430391",
+    "created_at": "2026-09-12T18:02:15.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T19:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098834590031028630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098834590031028630",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098802146674430391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy 你怎么还认识尼克兰德"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 141,
+        "media_key": "3_2098802143251906561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBxbepbwAESett.jpg",
+        "width": 454
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2098802146674430391",
+        "created_at": "2026-09-12T18:02:15.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098834590031028630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098834590031028630",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098802146674430391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 你怎么还认识尼克兰德"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098802143251906561"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2098802146674430391",
+        "created_at": "2026-09-12T15:53:20.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:49:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098801226892927456",
+          "2098802146674430391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RITCqchQe5",
+              "end": 42,
+              "expanded_url": "https://x.com/GptRainy/status/2098802146674430391/photo/1",
+              "media_key": "3_2098802143251906561",
+              "start": 19,
+              "url": "https://t.co/RITCqchQe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098802146674430391",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098802143251906561"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼克兰德真的知道人工智能是什么吗。。 https://t.co/RITCqchQe5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098834590031028630",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 176,
+          "like_count": 8711,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 814
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/She·Her/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/社会学/语言学/公共交通/城市规划/我很无聊😾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2098817496300298537",
+        "name": "小雨🍥🏳️‍⚧️👊🏻",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 680,
+          "like_count": 2037,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

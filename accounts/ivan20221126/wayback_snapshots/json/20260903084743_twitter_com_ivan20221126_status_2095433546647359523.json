@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2095433546647359523",
+    "created_at": "2026-09-03T08:47:43.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095433546647359523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866458229527764992",
+          "start": 3,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095433546647359523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095424847882985800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Citrus_amara: 你们想自杀之前能不能先别自杀，买点爆炸物或者买点酒精纵火去行吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2095433546647359523",
+        "created_at": "2026-09-03T08:47:43.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095433546647359523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866458229527764992",
+              "start": 3,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095433546647359523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095424847882985800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Citrus_amara: 你们想自杀之前能不能先别自杀，买点爆炸物或者买点酒精纵火去行吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2095424847882985800",
+        "created_at": "2026-09-03T08:13:09.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095424847882985800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095424847882985800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们想自杀之前能不能先别自杀，买点爆炸物或者买点酒精纵火去行吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2095433546647359523",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 168,
+          "like_count": 7912,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 747
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2095426449347854480",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 1187,
+          "like_count": 21282,
+          "listed_count": 5,
+          "media_count": 460,
+          "tweet_count": 12024
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

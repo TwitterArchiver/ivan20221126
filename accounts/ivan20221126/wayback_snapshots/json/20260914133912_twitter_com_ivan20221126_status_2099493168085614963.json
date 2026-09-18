@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2099225473293353097",
+    "created_at": "2026-09-14T13:39:12.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T14:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099493168085614963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099493168085614963",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099480559542325286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua 其实我吃bzd基本不会很困，pr倒是会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2099225473293353097",
+        "created_at": "2026-09-14T13:39:12.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099493168085614963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099493168085614963",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099480559542325286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 其实我吃bzd基本不会很困，pr倒是会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2099225473293353097",
+        "created_at": "2026-09-14T12:49:06.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099480559542325286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043745937298792448",
+              "start": 0,
+              "username": "ivan20221126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099480559542325286",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099225473293353097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan20221126 优势是不太会犯困"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2099493168085614963",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 176,
+          "like_count": 8882,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 833
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX&Non-Binary/🍥25.1.11/半个家长党/100%健全/言论含有政治内容致歉/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep/姐姐喵 @barutan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "AnranbuSleep"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "barutan8964"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099480559542325286",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2097625656150700261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360522586317348865/1764742642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 510,
+          "like_count": 96626,
+          "listed_count": 10,
+          "media_count": 989,
+          "tweet_count": 13245
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

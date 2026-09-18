@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096215600292913606",
+    "created_at": "2026-09-05T14:03:23.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T15:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096237761338753157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "_Axer1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096237761338753157",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096215600292913606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Axer1a 唉唉，火一个死一个"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2096215600292913606].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2096215600292913606",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2096215600292913606"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096215600292913606",
+        "created_at": "2026-09-05T14:03:23.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096237761338753157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "_Axer1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096237761338753157",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096215600292913606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Axer1a 唉唉，火一个死一个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096237761338753157",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 169,
+          "like_count": 8123,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 763
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby/mtx(she/they) 07年生 非健全 💊&🩸/药理学习中\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 84,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "is_identity_verified": false,
+        "location": "0.9km",
+        "most_recent_tweet_id": "2094085497115320534",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2089257044322963893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494669485214633984/1772769378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 1935,
+          "like_count": 88479,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 5548
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

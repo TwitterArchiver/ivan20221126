@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2097862369204633632",
+    "created_at": "2026-09-10T14:26:23.000Z",
+    "display_text_range": [
+      28,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T15:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098055492237131954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 27,
+          "id": "1927827236872409090",
+          "start": 14,
+          "username": "mychoice0402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098055492237131954",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097985578486874552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara @mychoice0402 主要圆粉太量大管饱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2097862369204633632",
+        "created_at": "2026-09-10T14:26:23.000Z",
+        "display_text_range": [
+          28,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098055492237131954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 27,
+              "id": "1927827236872409090",
+              "start": 14,
+              "username": "mychoice0402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098055492237131954",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097985578486874552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @mychoice0402 主要圆粉太量大管饱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2097862369204633632",
+        "created_at": "2026-09-10T09:48:35.000Z",
+        "display_text_range": [
+          14,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097985578486874552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927827236872409090",
+              "start": 0,
+              "username": "mychoice0402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097985578486874552",
+        "in_reply_to_user_id": "1927827236872409090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097895379157327999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mychoice0402 还低啊。。我坐车去医院一个来回就要8块了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098055492237131954",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 176,
+          "like_count": 8557,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 794
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2097990920218309018",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2096796287257411778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 1239,
+          "like_count": 21403,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 12140
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-28T20:40:15.000Z",
+        "description": "小香\n这里应该写什么",
+        "id": "1927827236872409090",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098029725478518885",
+        "name": "__pluviophile",
+        "pinned_tweet_id": "2096100243440058581",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927827236872409090/1788783385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093986117221855232/EsYy2XHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 45,
+          "like_count": 913,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 853
+        },
+        "url": "",
+        "username": "mychoice0402",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

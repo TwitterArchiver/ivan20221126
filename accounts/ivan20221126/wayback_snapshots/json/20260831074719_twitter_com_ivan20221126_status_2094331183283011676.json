@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2094331183283011676",
+    "created_at": "2026-08-31T07:47:19.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T08:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094331183283011676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/99905230523aol…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/99905230523aol/status/2094145733289291815",
+          "start": 3,
+          "url": "https://t.co/EnWF99udoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094331183283011676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094145733289291815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我 https://t.co/EnWF99udoi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2094331183283011676",
+        "created_at": "2026-08-31T07:47:19.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094331183283011676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/99905230523aol…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/99905230523aol/status/2094145733289291815",
+              "start": 3,
+              "url": "https://t.co/EnWF99udoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094331183283011676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094145733289291815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我 https://t.co/EnWF99udoi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629877998148042757",
+        "conversation_id": "2094145733289291815",
+        "created_at": "2026-08-30T19:30:24.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T20:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094145733289291815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094145733289291815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 832,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "休学一年啥几把都没学天天在家嗑药，然后就上高二，还要面对那群沙币，这就是人生。我是不打算继续休了，下次再感到绝望，直接四了，反正再休也没意义，无非在家躺尸然后天天被父母催着找工作。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2094331183283011676",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 168,
+          "like_count": 7496,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "一个激进分子，虚无加速主义，后性别主义Postgenderism/支持致幻剂合法化，大麻合法化/双性恋/高功能孤独症谱系/支持神经多样性运动",
+        "id": "1629877998148042757",
+        "is_identity_verified": false,
+        "location": "激进主义分子",
+        "most_recent_tweet_id": "2094160719562637369",
+        "name": "无政府主义联盟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629877998148042757/1744557286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 91,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

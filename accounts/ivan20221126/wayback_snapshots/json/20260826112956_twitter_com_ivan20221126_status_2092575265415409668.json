@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2092575265415409668",
+    "created_at": "2026-08-26T11:29:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092575265415409668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1552238688590958592",
+          "start": 3,
+          "username": "Coccus_Swamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092575265415409668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092561301264535553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coccus_Swamer: *不建议任何人od奈福泮，本推仅作为供科普与个人记录，欢迎学术交流。\n\n奈福泮（Nefopam） 引起的高血压主要与其抑制去甲肾上腺素和 5-羟色胺的再摄取、同时具备微弱的抗胆碱能作用，这意味着，过量的奈福泮导致的高血压是过量的去甲肾上腺素…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2092575265415409668",
+        "created_at": "2026-08-26T11:29:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092575265415409668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1552238688590958592",
+              "start": 3,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092575265415409668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092561301264535553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coccus_Swamer: *不建议任何人od奈福泮，本推仅作为供科普与个人记录，欢迎学术交流。\n\n奈福泮（Nefopam） 引起的高血压主要与其抑制去甲肾上腺素和 5-羟色胺的再摄取、同时具备微弱的抗胆碱能作用，这意味着，过量的奈福泮导致的高血压是过量的去甲肾上腺素…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2092561301264535553",
+        "created_at": "2026-08-26T10:34:26.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:31:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092560653638938666",
+          "2092561301264535553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092561301264535553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "*不建议任何人od奈福泮，本推仅作为供科普与个人记录，欢迎学术交流。\n\n奈福泮（Nefopam） 引起的高血压主要与其抑制去甲肾上腺素和 5-羟色胺的再摄取、同时具备微弱的抗胆碱能作用，这意味着，过量的奈福泮导致的高血压是过量的去甲肾上腺素引起的，​大量的去甲肾上腺素会同时激活两种受体：\n1.​激活 α1 受体：全身小动脉剧烈收缩，血压骤升。\n2.​激活 β1 受体：心肌收缩力增强、心率加快，导致心悸、心动过速。\n\n以前很多oder在o奈福泮的时候通常只选择一种受体阻滞剂来降血压，这是非常危险并且不负责任的\n\n如果单独使用纯β受体阻滞剂（如美托洛尔、比索洛尔），当你把心脏的 β1 受体和血管的β2（扩张血管）受体全部封死后，血液中海量的去甲肾上腺素无处可去，会集中火力全部作用于 α1 受体。血压不但降不下来，反而可能出现爆发性反弹\n\n纯α受体阻滞剂也是同理，不多赘述，较好的解法有两种，一种是使用α 和 β 受体阻滞作用的药物，比如​拉贝洛尔（Labetalol） 或 卡维地洛（Carvedilol），原理不多赘述；次要的解法是​硝苯地平控释片 / 氨氯地平，直接扩张血管平滑肌，但如果有明显的心律失常，就还是乖乖去医院。\n\n那么有人会问了，那我可乐定+美托洛尔可不可以呢？啊，不可以，在我看来是很难把握使用的量的，其余详见药代动力学。\n\n为什么突然提这个呢，因为此类交感神经兴奋/儿茶酚胺过高型高血压在oder身上其实非常常见，像与奈福泮机制类似的SNRI，NDRI，TCA，MAOi诱发的酪胺反应，甚至极度惊恐发作，急性应激诱发的高血压​拉贝洛尔或卡维地洛都是非常适用的。\n\n*不卖货"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "*不建议任何人od奈福泮，本推仅作为供科普与个人记录，欢迎学术交流。\n\n奈福泮（Nefopam） 引起的高血压主要与其抑制去甲肾上腺素和 5-羟色胺的再摄取、同时具备微弱的抗胆碱能作用，这意味着，过量的奈福泮导致的高血压是过量的去甲肾上腺素引起的，​大量的去甲肾上腺素会同时激活两种受体：\n1.​激活"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2092575265415409668",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 168,
+          "like_count": 7128,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 699
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2092566069131235590",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 2755,
+          "like_count": 10188,
+          "listed_count": 0,
+          "media_count": 715,
+          "tweet_count": 3776
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

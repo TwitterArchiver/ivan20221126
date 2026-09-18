@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Community Health",
+          "id": "918538847302041600",
+          "name": "Community Health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Common Medication",
+          "id": "920768310152593408",
+          "name": "Common Medication"
+        }
+      }
+    ],
+    "conversation_id": "2099878604100513795",
+    "created_at": "2026-09-15T15:10:47.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099878604100513795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lunae_aura/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Lunae_aura/status/2099625466130993160",
+          "start": 18,
+          "url": "https://t.co/rmoNQ8VdJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099878604100513795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099625466130993160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嚯嚯，夸脏哦，这都被日本人发掘到了 https://t.co/rmoNQ8VdJ9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2099878604100513795",
+        "created_at": "2026-09-15T15:10:47.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099878604100513795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lunae_aura/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Lunae_aura/status/2099625466130993160",
+              "start": 18,
+              "url": "https://t.co/rmoNQ8VdJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099878604100513795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099625466130993160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嚯嚯，夸脏哦，这都被日本人发掘到了 https://t.co/rmoNQ8VdJ9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036238579083558913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Common Medication",
+              "id": "920768310152593408",
+              "name": "Common Medication"
+            }
+          }
+        ],
+        "conversation_id": "2099625466130993160",
+        "created_at": "2026-09-14T22:24:54.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099625466130993160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099625466130993160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 937,
+          "impression_count": 771000,
+          "like_count": 2485,
+          "quote_count": 301,
+          "reply_count": 12,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "➀マイスリー(ゾルピデム酒石酸塩)\nマイスリーが他の睡眠薬と最も異なる点は、副作用に多幸感があることだろう。\nそしてそれは、ODしなくても用量通りで発現する(個人差が大きいが)。\n服用したら一気に最高血中濃度まで到達し、一瞬で抜けることからキレの良さを体感しやすい睡眠薬とも言える。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2099878604100513795",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 178,
+          "like_count": 8998,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-02T13:05:04.000Z",
+        "description": "元薬中のオタクリダンツァータルパーです。雑談・ヲタク趣味(アニメ／漫画／VTuber)・乱用可能な薬・幽体離脱(明晰夢)・タルパ・自作小説(なろう)等の話題が混在していて、一部の界隈に限定している垢ではありません。苦手な方は自衛を願います。趣味の合う方は必ずフォロバします。仲良くしましょう！タルパの名前は瑠奈です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.livedoor.jp/sunakaze0909/",
+                "end": 23,
+                "expanded_url": "http://blog.livedoor.jp/sunakaze0909/",
+                "start": 0,
+                "url": "https://t.co/FnAuUcHW0h"
+              }
+            ]
+          }
+        },
+        "id": "1036238579083558913",
+        "is_identity_verified": false,
+        "location": "神奈川県",
+        "most_recent_tweet_id": "2099779519691493706",
+        "name": "砂風",
+        "pinned_tweet_id": "1885195357631680981",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036238579083558913/1676595747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547623556066193408/Cy3qm2N9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1086,
+          "like_count": 23934,
+          "listed_count": 18,
+          "media_count": 1369,
+          "tweet_count": 45210
+        },
+        "url": "https://t.co/FnAuUcHW0h",
+        "username": "Lunae_aura",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

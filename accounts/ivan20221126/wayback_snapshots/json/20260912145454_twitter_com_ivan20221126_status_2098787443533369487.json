@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2098397885335589258",
+    "created_at": "2026-09-12T14:54:54.000Z",
+    "display_text_range": [
+      35,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098787443533369487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2079830379708743681",
+          "start": 0,
+          "username": "sidiwkwb"
+        },
+        {
+          "end": 19,
+          "id": "1015125538296328193",
+          "start": 10,
+          "username": "LaoKing7"
+        },
+        {
+          "end": 34,
+          "id": "1528798633168347137",
+          "start": 20,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098787443533369487",
+    "in_reply_to_user_id": "2079830379708743681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098643474170212426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sidiwkwb @LaoKing7 @TomoriNao2022 台湾中国，一边一国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2098397885335589258",
+        "created_at": "2026-09-12T14:54:54.000Z",
+        "display_text_range": [
+          35,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098787443533369487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2079830379708743681",
+              "start": 0,
+              "username": "sidiwkwb"
+            },
+            {
+              "end": 19,
+              "id": "1015125538296328193",
+              "start": 10,
+              "username": "LaoKing7"
+            },
+            {
+              "end": 34,
+              "id": "1528798633168347137",
+              "start": 20,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098787443533369487",
+        "in_reply_to_user_id": "2079830379708743681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098643474170212426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sidiwkwb @LaoKing7 @TomoriNao2022 台湾中国，一边一国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079830379708743681",
+        "conversation_id": "2098397885335589258",
+        "created_at": "2026-09-12T05:22:49.000Z",
+        "display_text_range": [
+          25,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098643474170212426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1015125538296328193",
+              "start": 0,
+              "username": "LaoKing7"
+            },
+            {
+              "end": 24,
+              "id": "1528798633168347137",
+              "start": 10,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098643474170212426",
+        "in_reply_to_user_id": "1015125538296328193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 813,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098610944746361013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaoKing7 @TomoriNao2022 为什么不能"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098787443533369487",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 176,
+          "like_count": 8672,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T07:28:08.000Z",
+        "description": "一只可怜可悲可悯的画画🐶喵，偶尔叫人麻麻见谅喵，老实人不鉴真不果聊只搞抽象喵喵喵",
+        "id": "2079830379708743681",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098643474170212426",
+        "name": "四滴",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093082986791284736/Nq4q5Ehj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 1532,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "sidiwkwb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-06T06:49:23.000Z",
+        "description": "对于观点不同的人，您的三观不是我塑造的，我没有义务去改变您的观点，同时，您也没有权利要求我的认知需要和您相同，相互尊重就好。如果尊重都做不到，请允许我为您受到的教育感到惋惜。",
+        "id": "1015125538296328193",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098640063093711286",
+        "name": "LaoKing",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1138303826509778944/UEt7Og_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 95,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "LaoKing7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEkL4s\ndiscord：https://t.co/ZFHCRnHUMK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEkL4s"
+              },
+              {
+                "display_url": "discord.gg/RXmHUMUdGN",
+                "end": 80,
+                "expanded_url": "https://discord.gg/RXmHUMUdGN",
+                "start": 57,
+                "url": "https://t.co/ZFHCRnHUMK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 0,
+                "url": "https://t.co/K8jioEkL4s"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "is_identity_verified": false,
+        "location": "神奈川県",
+        "most_recent_tweet_id": "2098787219045781917",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1528798633168347137/1653500269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22334,
+          "following_count": 4695,
+          "like_count": 12852,
+          "listed_count": 72,
+          "media_count": 3523,
+          "tweet_count": 12333
+        },
+        "url": "https://t.co/K8jioEkL4s",
+        "username": "TomoriNao2022",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

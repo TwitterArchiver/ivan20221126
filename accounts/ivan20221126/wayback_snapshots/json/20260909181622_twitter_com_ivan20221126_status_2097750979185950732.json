@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2097750959707529216"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pudding",
+          "id": "864561121675563008",
+          "name": "Pudding"
+        }
+      }
+    ],
+    "conversation_id": "2097750979185950732",
+    "created_at": "2026-09-09T18:16:22.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T19:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097750979185950732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qwlz6Js1bW",
+          "end": 23,
+          "expanded_url": "https://x.com/ivan20221126/status/2097750979185950732/photo/1",
+          "media_key": "16_2097750959707529216",
+          "start": 0,
+          "url": "https://t.co/qwlz6Js1bW"
+        },
+        {
+          "display_url": "x.com/kagami_/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/kagami_/status/2097287583760089311",
+          "start": 24,
+          "url": "https://t.co/7Xv5mO0M8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097750979185950732",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2097750959707529216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097287583760089311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/qwlz6Js1bW https://t.co/7Xv5mO0M8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2097750959707529216",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRy1YiyaIAAMGtw.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRy1YiyaIAAMGtw.mp4"
+          }
+        ],
+        "width": 344
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2097287577439182848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsP8JUaIAABEq6.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2097750959707529216"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pudding",
+              "id": "864561121675563008",
+              "name": "Pudding"
+            }
+          }
+        ],
+        "conversation_id": "2097750979185950732",
+        "created_at": "2026-09-09T18:16:22.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097750979185950732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwlz6Js1bW",
+              "end": 23,
+              "expanded_url": "https://x.com/ivan20221126/status/2097750979185950732/photo/1",
+              "media_key": "16_2097750959707529216",
+              "start": 0,
+              "url": "https://t.co/qwlz6Js1bW"
+            },
+            {
+              "display_url": "x.com/kagami_/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kagami_/status/2097287583760089311",
+              "start": 24,
+              "url": "https://t.co/7Xv5mO0M8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097750979185950732",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2097750959707529216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097287583760089311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/qwlz6Js1bW https://t.co/7Xv5mO0M8R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097287577439182848"
+          ]
+        },
+        "author_id": "41145604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pudding",
+              "id": "864561121675563008",
+              "name": "Pudding"
+            }
+          }
+        ],
+        "conversation_id": "2097287583760089311",
+        "created_at": "2026-09-08T11:35:00.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097287583760089311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QYKsK1SOgU",
+              "end": 46,
+              "expanded_url": "https://x.com/kagami_/status/2097287583760089311/photo/1",
+              "media_key": "3_2097287577439182848",
+              "start": 23,
+              "url": "https://t.co/QYKsK1SOgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097287583760089311",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097287577439182848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4051,
+          "impression_count": 3743255,
+          "like_count": 147478,
+          "quote_count": 1031,
+          "reply_count": 633,
+          "retweet_count": 12526
+        },
+        "reply_settings": "everyone",
+        "text": "プリン作ったけど型がこれしかなかった。ニエ… https://t.co/QYKsK1SOgU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2097750979185950732",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 175,
+          "like_count": 8488,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 789
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-05-19T16:09:07.000Z",
+        "description": "ソウルキャリバーと重めのボドゲなど。",
+        "id": "41145604",
+        "is_identity_verified": false,
+        "location": "福岡県福岡市",
+        "most_recent_tweet_id": "2097605019348689208",
+        "name": "かがみ",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/723131327965331458/BLTDCVa2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 336,
+          "like_count": 936,
+          "listed_count": 23,
+          "media_count": 1786,
+          "tweet_count": 12028
+        },
+        "url": "",
+        "username": "kagami_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096122981537972703",
+    "created_at": "2026-09-05T06:27:17.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T07:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096122981537972703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943864830898642944",
+          "start": 3,
+          "username": "Plee_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096122981537972703",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095754584673099933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Plee_chan: Как же блять заебали западные леваки которые ноют о несвободе в своей стране.\n\nЕбанные свиньи, на 2-3 года в Россию бы вас."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096122981537972703",
+        "created_at": "2026-09-05T06:27:17.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096122981537972703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943864830898642944",
+              "start": 3,
+              "username": "Plee_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096122981537972703",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095754584673099933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Plee_chan: Как же блять заебали западные леваки которые ноют о несвободе в своей стране.\n\nЕбанные свиньи, на 2-3 года в Россию бы вас."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943864830898642944",
+        "conversation_id": "2095754584673099933",
+        "created_at": "2026-09-04T06:03:24.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T07:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095754584673099933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tadgh_dc/statu…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/tadgh_dc/status/2095669885690957849",
+              "start": 124,
+              "url": "https://t.co/e2tJ8uKssa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095754584673099933",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 71381,
+          "like_count": 2134,
+          "quote_count": 6,
+          "reply_count": 140,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095669885690957849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Как же блять заебали западные леваки которые ноют о несвободе в своей стране.\n\nЕбанные свиньи, на 2-3 года в Россию бы вас. https://t.co/e2tJ8uKssa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096122981537972703",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 169,
+          "like_count": 8068,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-12T02:47:55.000Z",
+        "description": "NRx⚜️ | R/acc➡️ | White Nationalist🤍 | @nyiuchan also me | she/her | Lesbian | WAsian🇪🇺🇯🇵 | Transmedicalist🏳️‍⚧️ | Culturally Baptist✝️| Taken💗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "nyiuchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tkoaal",
+                "end": 23,
+                "expanded_url": "http://t.me/tkoaal",
+                "start": 0,
+                "url": "https://t.co/1vmXcMBVUY"
+              }
+            ]
+          }
+        },
+        "id": "1943864830898642944",
+        "is_identity_verified": false,
+        "location": "Holy European Empire",
+        "most_recent_tweet_id": "2096119538936930604",
+        "name": "плесень-чан",
+        "pinned_tweet_id": "2045728216737091612",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943864830898642944/1767833456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095676379274592258/SA-PyRSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 953,
+          "like_count": 4231,
+          "listed_count": 32,
+          "media_count": 521,
+          "tweet_count": 5238
+        },
+        "url": "https://t.co/1vmXcMBVUY",
+        "username": "Plee_chan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096096780282888211",
+    "created_at": "2026-09-05T04:43:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T05:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096096780282888211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044496192734666752",
+          "start": 3,
+          "username": "UWATCHLIFE"
+        },
+        {
+          "end": 30,
+          "id": "1464941699889696768",
+          "start": 16,
+          "username": "drugs_artists"
+        },
+        {
+          "end": 46,
+          "id": "1873253814654124035",
+          "start": 31,
+          "username": "TtookkaaT36189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096096780282888211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096060902504059075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UWATCHLIFE: @drugs_artists @TtookkaaT36189 不错，自恋完美，，，这些功劳和你都沾不上边，你事最早开始盈利 倒卖和掺假OD药物 发自恋帖子 做自私科普 和错漏百出的盈利weiki 导致逐渐从大家不盈利的时代发展到现在成体系捞钱屑药…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096096780282888211",
+        "created_at": "2026-09-05T04:43:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096096780282888211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044496192734666752",
+              "start": 3,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 30,
+              "id": "1464941699889696768",
+              "start": 16,
+              "username": "drugs_artists"
+            },
+            {
+              "end": 46,
+              "id": "1873253814654124035",
+              "start": 31,
+              "username": "TtookkaaT36189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096096780282888211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096060902504059075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UWATCHLIFE: @drugs_artists @TtookkaaT36189 不错，自恋完美，，，这些功劳和你都沾不上边，你事最早开始盈利 倒卖和掺假OD药物 发自恋帖子 做自私科普 和错漏百出的盈利weiki 导致逐渐从大家不盈利的时代发展到现在成体系捞钱屑药…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2093068227492651062",
+        "created_at": "2026-09-05T02:20:36.000Z",
+        "display_text_range": [
+          31,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096060902504059075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1464941699889696768",
+              "start": 0,
+              "username": "drugs_artists"
+            },
+            {
+              "end": 30,
+              "id": "1873253814654124035",
+              "start": 15,
+              "username": "TtookkaaT36189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096060902504059075",
+        "in_reply_to_user_id": "1464941699889696768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093390536250143071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drugs_artists @TtookkaaT36189 不错，自恋完美，，，这些功劳和你都沾不上边，你事最早开始盈利 倒卖和掺假OD药物 发自恋帖子 做自私科普 和错漏百出的盈利weiki 导致逐渐从大家不盈利的时代发展到现在成体系捞钱屑药商众多的药圈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096096780282888211",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 168,
+          "like_count": 8053,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 757
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2096074840788640043",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 156,
+          "like_count": 1934,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1247
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-28T12:58:24.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFPI|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!年号雨玄二年\n名人堂梦工厂RC-沐雨 零售策划药产品联系我的https://t.co/QsZVHyAmQG \n我的双子星：@qiyueqiye11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "qiyueqiye11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 119,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 96,
+                "url": "https://t.co/QsZVHyAmQG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/7EyvDSe3J6"
+              }
+            ]
+          }
+        },
+        "id": "1464941699889696768",
+        "is_identity_verified": false,
+        "location": "Xanax天国8mg自治区",
+        "most_recent_tweet_id": "2096042953391341830",
+        "name": "沐雨八世",
+        "pinned_tweet_id": "2093068227492651062",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464941699889696768/1787861084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093066704456953856/2BIY4fKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 60,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/7EyvDSe3J6",
+        "username": "drugs_artists",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-29T06:25:18.000Z",
+        "description": "",
+        "id": "1873253814654124035",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095217497662525775",
+        "name": "Tokaa666",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073778689586999296/NiZxok_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "TtookkaaT36189",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

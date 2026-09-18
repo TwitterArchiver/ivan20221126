@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094304713277931520"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2094304725776916498",
+    "created_at": "2026-08-31T06:02:11.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T07:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094304725776916498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/glGV5CfJiY",
+          "end": 37,
+          "expanded_url": "https://x.com/ivan20221126/status/2094304725776916498/photo/1",
+          "media_key": "3_2094304713277931520",
+          "start": 14,
+          "url": "https://t.co/glGV5CfJiY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094304725776916498",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094304713277931520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子扔掉噗瑞巴黎，佛在救你 https://t.co/glGV5CfJiY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_2094304713277931520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRB3CmZbgAAkSXW.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094304713277931520"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2094304725776916498",
+        "created_at": "2026-08-31T06:02:11.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094304725776916498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/glGV5CfJiY",
+              "end": 37,
+              "expanded_url": "https://x.com/ivan20221126/status/2094304725776916498/photo/1",
+              "media_key": "3_2094304713277931520",
+              "start": 14,
+              "url": "https://t.co/glGV5CfJiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094304725776916498",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094304713277931520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子扔掉噗瑞巴黎，佛在救你 https://t.co/glGV5CfJiY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2094304725776916498",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 168,
+          "like_count": 7452,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

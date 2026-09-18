@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2098826158850924856",
+    "created_at": "2026-09-12T18:03:54.000Z",
+    "display_text_range": [
+      14,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T19:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098835007209189379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098835007209189379",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098826158850924856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu 他ipad 爱疯哪来的我不好说，300多的刀说买就买😁😁，但凡脑子正常点都不会死的这么幽默"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2098825527322988544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCGsnGb0AA9yNc.jpg",
+        "width": 414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2098826158850924856",
+        "created_at": "2026-09-12T18:03:54.000Z",
+        "display_text_range": [
+          14,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098835007209189379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098835007209189379",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098826158850924856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu 他ipad 爱疯哪来的我不好说，300多的刀说买就买😁😁，但凡脑子正常点都不会死的这么幽默"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098825527322988544"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2098826158850924856",
+        "created_at": "2026-09-12T17:28:45.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:26:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098825536021909623",
+          "2098826158850924856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rttazGWZVd",
+              "end": 32,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2098826158850924856/photo/1",
+              "media_key": "3_2098825527322988544",
+              "start": 9,
+              "url": "https://t.co/rttazGWZVd"
+            },
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2098806885961060724",
+              "start": 33,
+              "url": "https://t.co/igj8pQFUjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098826158850924856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098825527322988544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098806885961060724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我家很穷。😅 https://t.co/rttazGWZVd https://t.co/igj8pQFUjO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098835007209189379",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 176,
+          "like_count": 8713,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 815
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "关注@PsydrugsWiki喵\n里帐@Aki_MountainE\n梨❤️@Eternal1uv9/@SummerTWT9\n聖 🍜@shungleemain /\n🍐宝宝 @K1ku21_ /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "PsydrugsWiki"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "Aki_MountainE"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "SummerTWT9"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "shungleemain"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "K1ku21_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 0,
+                "url": "https://t.co/IopkqyyRYu"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "is_identity_verified": false,
+        "location": "偉大的天國",
+        "most_recent_tweet_id": "2098834969120653581",
+        "name": "AkiNoYo！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567203042872926208/1775441828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976214756843520/I0deaB8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 1099,
+          "like_count": 5636,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1899
+        },
+        "url": "https://t.co/IopkqyyRYu",
+        "username": "Akinoyo_desu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

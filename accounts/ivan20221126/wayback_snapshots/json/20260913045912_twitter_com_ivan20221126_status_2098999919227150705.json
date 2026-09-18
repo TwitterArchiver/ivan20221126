@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2098825311614095838",
+    "created_at": "2026-09-13T04:59:12.000Z",
+    "display_text_range": [
+      30,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T05:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098999919227150705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849043039496617984",
+          "start": 0,
+          "username": "Rinko_zero8964"
+        },
+        {
+          "end": 29,
+          "id": "2063809217488982016",
+          "start": 16,
+          "username": "Nijika_Dark2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098999919227150705",
+    "in_reply_to_user_id": "1849043039496617984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098935724339089824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_zero8964 @Nijika_Dark2 。。。神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2098825311614095838",
+        "created_at": "2026-09-13T04:59:12.000Z",
+        "display_text_range": [
+          30,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098999919227150705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 29,
+              "id": "2063809217488982016",
+              "start": 16,
+              "username": "Nijika_Dark2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098999919227150705",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098935724339089824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @Nijika_Dark2 。。。神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2098825311614095838",
+        "created_at": "2026-09-13T00:44:07.000Z",
+        "display_text_range": [
+          28,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T01:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098935724339089824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043745937298792448",
+              "start": 0,
+              "username": "ivan20221126"
+            },
+            {
+              "end": 27,
+              "id": "2063809217488982016",
+              "start": 14,
+              "username": "Nijika_Dark2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098935724339089824",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098845104740204653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan20221126 @Nijika_Dark2 对对，然后把自己手划了，找我借钱买的酒精和绷带"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098999919227150705",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 178,
+          "like_count": 8772,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 827
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性別為無、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜好妈妈们@Misakinae37 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar｜宝宝@PP_Konig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Misakinae37"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "PP_Konig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9jTI"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "is_identity_verified": false,
+        "location": "Ask me any u want→",
+        "most_recent_tweet_id": "2098949666834726994",
+        "name": "Rinko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849043039496617984/1757547793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 702,
+          "like_count": 17544,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 8652
+        },
+        "url": "https://t.co/zWqK1n9jTI",
+        "username": "Rinko_zero8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2098978548027699425",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 210,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2097093887886315788",
+    "created_at": "2026-09-08T06:01:07.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097203559964213526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "202930555",
+          "start": 0,
+          "username": "Sattakom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097203559964213526",
+    "in_reply_to_user_id": "202930555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097093887886315788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sattakom 我有剩的，"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2097093887886315788].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2097093887886315788",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2097093887886315788"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2097093887886315788",
+        "created_at": "2026-09-08T06:01:07.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097203559964213526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "202930555",
+              "start": 0,
+              "username": "Sattakom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097203559964213526",
+        "in_reply_to_user_id": "202930555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097093887886315788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sattakom 我有剩的，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2097203559964213526",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 173,
+          "like_count": 8312,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 780
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-15T03:53:21.000Z",
+        "description": "",
+        "id": "202930555",
+        "is_identity_verified": false,
+        "location": "广州",
+        "most_recent_tweet_id": "2090896796436570518",
+        "name": "Librium",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/202930555/1785930913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084971490177609728/8gmCo8Cb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 306,
+          "like_count": 14749,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "Sattakom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2094730892078170121",
+    "created_at": "2026-09-01T10:15:37.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094730892078170121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2094661529509449795",
+          "start": 17,
+          "url": "https://t.co/LJdlUuvtHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094730892078170121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094661529509449795",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去，这不是我们敬爱的娜娜警官吗 https://t.co/LJdlUuvtHy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094616891021250560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGS9vHa0AA6PnW.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2094730892078170121",
+        "created_at": "2026-09-01T10:15:37.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094730892078170121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2094661529509449795",
+              "start": 17,
+              "url": "https://t.co/LJdlUuvtHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094730892078170121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094661529509449795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去，这不是我们敬爱的娜娜警官吗 https://t.co/LJdlUuvtHy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094616891021250560"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094661529509449795",
+        "created_at": "2026-09-01T05:40:00.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094661529509449795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nQagpdSRm",
+              "end": 100,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2094661529509449795/photo/1",
+              "media_key": "3_2094616891021250560",
+              "start": 77,
+              "url": "https://t.co/7nQagpdSRm"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2090101483463385551",
+              "start": 101,
+              "url": "https://t.co/7xoPNOkLQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094661529509449795",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094616891021250560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 39931,
+          "like_count": 280,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090101483463385551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月31日，旺旺支持者涌入“2026广东开学第一课（秋季）”直播间，反复刷屏“生命教育”“尊重小动物”“先学做人，爱护弱小生命”“珍爱所有生命”等留言。 https://t.co/7nQagpdSRm https://t.co/7xoPNOkLQa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2094730892078170121",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 169,
+          "like_count": 7671,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2094726964242526511",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259668,
+          "following_count": 1083,
+          "like_count": 10369,
+          "listed_count": 8888,
+          "media_count": 53063,
+          "tweet_count": 60388
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

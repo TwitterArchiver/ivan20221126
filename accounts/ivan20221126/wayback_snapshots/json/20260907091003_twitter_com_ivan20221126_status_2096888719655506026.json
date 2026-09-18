@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096888711908909057"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096878045827309658",
+    "created_at": "2026-09-07T09:10:03.000Z",
+    "display_text_range": [
+      31,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096888719655506026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        },
+        {
+          "end": 30,
+          "id": "2028661027647422465",
+          "start": 15,
+          "username": "nycteasio78869"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o4Jn9L9Jqv",
+          "end": 57,
+          "expanded_url": "https://x.com/ivan20221126/status/2096888719655506026/photo/1",
+          "media_key": "3_2096888711908909057",
+          "start": 34,
+          "url": "https://t.co/o4Jn9L9Jqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096888719655506026",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096888711908909057"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096886406958473519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug @nycteasio78869 难说 https://t.co/o4Jn9L9Jqv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2096888711908909057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmlLHbbYAEYbYE.jpg",
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096888711908909057"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096878045827309658",
+        "created_at": "2026-09-07T09:10:03.000Z",
+        "display_text_range": [
+          31,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096888719655506026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 30,
+              "id": "2028661027647422465",
+              "start": 15,
+              "username": "nycteasio78869"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4Jn9L9Jqv",
+              "end": 57,
+              "expanded_url": "https://x.com/ivan20221126/status/2096888719655506026/photo/1",
+              "media_key": "3_2096888711908909057",
+              "start": 34,
+              "url": "https://t.co/o4Jn9L9Jqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096888719655506026",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096888711908909057"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096886406958473519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @nycteasio78869 难说 https://t.co/o4Jn9L9Jqv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2096878045827309658",
+        "created_at": "2026-09-07T09:00:52.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096886406958473519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028661027647422465",
+              "start": 0,
+              "username": "nycteasio78869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096886406958473519",
+        "in_reply_to_user_id": "2028661027647422465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096878045827309658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nycteasio78869 查德来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096888719655506026",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 173,
+          "like_count": 8255,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 774
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2096886406958473519",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 342,
+          "like_count": 3829,
+          "listed_count": 0,
+          "media_count": 647,
+          "tweet_count": 4042
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-03T02:37:45.000Z",
+        "description": "贺建奎还我猫娘 ！",
+        "id": "2028661027647422465",
+        "is_identity_verified": false,
+        "location": "they/them",
+        "most_recent_tweet_id": "2096646331448352993",
+        "name": "Nycteasio",
+        "pinned_tweet_id": "2086450571360563625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028661027647422465/1772603896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082343048537952256/ve0cTqeV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 110,
+          "like_count": 8605,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "nycteasio78869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

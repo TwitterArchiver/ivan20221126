@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2098207747137515685",
+    "created_at": "2026-09-11T11:03:10.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T12:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098366735225069652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098366735225069652",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098365538854687147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 羡慕旅行，😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098365538854687147].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098365538854687147",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098365538854687147"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2098207747137515685",
+        "created_at": "2026-09-11T11:03:10.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098366735225069652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098366735225069652",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098365538854687147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 羡慕旅行，😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098366735225069652",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 176,
+          "like_count": 8566,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "退役oder，锁推只是防止被推送出去 欢迎互fo！\nHe/They/猫🏳️‍🌈🏳️‍⚧️💛🤍💜🖤#drugtwt #shtwt Audhd\n万一被封逃生舱 @8964qwerty",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "8964qwerty"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "is_identity_verified": false,
+        "location": "谁有多余4homet",
+        "most_recent_tweet_id": "2039955080338878864",
+        "name": "🐱",
+        "pinned_tweet_id": "2045977962999332890",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545898408858161154/1778057547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051338286296387587/A6mOoIbE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 1448,
+          "like_count": 7061,
+          "listed_count": 1,
+          "media_count": 701,
+          "tweet_count": 4585
+        },
+        "url": "",
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

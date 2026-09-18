@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096810696986292515",
+    "created_at": "2026-09-07T04:19:51.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096815689101418658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076292469667532800",
+          "start": 0,
+          "username": "SankakuFuu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096815689101418658",
+    "in_reply_to_user_id": "2076292469667532800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096810696986292515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SankakuFuu3 唉唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096810696986292515",
+        "created_at": "2026-09-07T04:19:51.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096815689101418658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076292469667532800",
+              "start": 0,
+              "username": "SankakuFuu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096815689101418658",
+        "in_reply_to_user_id": "2076292469667532800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096810696986292515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SankakuFuu3 唉唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076292469667532800",
+        "conversation_id": "2096810696986292515",
+        "created_at": "2026-09-07T04:00:01.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096810696986292515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096810696986292515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很对不起大家, 这件事确实是我的错, 但我也不能自控, 如果这条一直留存到第二天, 那说明我还是选择了逃避, 就像以前一样, 只是这次是永远, 锁推是不想被太过打扰, 也许我确实不适合继续存在下去了,  我先去看看那边怎么样, 这是我一直好奇的, 再见了\n我 爱 你 们"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096815689101418658",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 172,
+          "like_count": 8206,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T13:13:09.000Z",
+        "description": "",
+        "id": "2076292469667532800",
+        "is_identity_verified": false,
+        "location": "守恒与虚无之地",
+        "most_recent_tweet_id": "2096810696986292515",
+        "name": "三角　楓🍥#参宿七",
+        "pinned_tweet_id": "2079543917830410241",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076292469667532800/1783870999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082655270610907136/JBqLeqy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 133,
+          "like_count": 377,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "SankakuFuu3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

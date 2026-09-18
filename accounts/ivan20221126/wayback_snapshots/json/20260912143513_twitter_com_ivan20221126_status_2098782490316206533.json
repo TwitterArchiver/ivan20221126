@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2098782490316206533",
+    "created_at": "2026-09-12T14:35:13.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098782490316206533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ryujin_ari9/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ryujin_ari9/status/2097635817929728450",
+          "start": 15,
+          "url": "https://t.co/MNLR2kw9dF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098782490316206533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097635817929728450",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "满洲支钠🐖哎呀我滴妈这小味儿 https://t.co/MNLR2kw9dF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44997,
+        "height": 2072,
+        "media_key": "13_2097632046877380608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097632046877380608/img/Pef4xaVEnoc80Vd-.jpg",
+        "public_metrics": {
+          "view_count": 28331
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097632046877380608/vid/avc1/1168x2072/Z2-Oj3ty7z-YlIML.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097632046877380608/vid/avc1/720x1276/jdilBgcPKHdtszCm.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097632046877380608/vid/avc1/320x566/tj_ogzO2e_toPfQr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097632046877380608/vid/avc1/480x850/59SmWlKU__Oex2xe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097632046877380608/pl/haNCULUMt52IRBq_.m3u8?v=cfc"
+          }
+        ],
+        "width": 1168
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097632046902661120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxJO6Eb0AAQ2TX.jpg",
+        "width": 1140
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097632046961262593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxJO6SaAAE8IYt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2098782490316206533",
+        "created_at": "2026-09-12T14:35:13.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098782490316206533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryujin_ari9/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ryujin_ari9/status/2097635817929728450",
+              "start": 15,
+              "url": "https://t.co/MNLR2kw9dF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098782490316206533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097635817929728450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "满洲支钠🐖哎呀我滴妈这小味儿 https://t.co/MNLR2kw9dF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097632046877380608",
+            "3_2097632046902661120",
+            "3_2097632046961262593"
+          ]
+        },
+        "author_id": "1554708306077159424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2097635817929728450",
+        "created_at": "2026-09-09T10:38:45.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:24:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097632247713313099",
+          "2097635817929728450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IrwClcCY0e",
+              "end": 152,
+              "expanded_url": "https://x.com/ryujin_ari9/status/2097635817929728450/video/1",
+              "media_key": "13_2097632046877380608",
+              "start": 129,
+              "url": "https://t.co/IrwClcCY0e"
+            },
+            {
+              "display_url": "pic.x.com/IrwClcCY0e",
+              "end": 152,
+              "expanded_url": "https://x.com/ryujin_ari9/status/2097635817929728450/video/1",
+              "media_key": "3_2097632046902661120",
+              "start": 129,
+              "url": "https://t.co/IrwClcCY0e"
+            },
+            {
+              "display_url": "pic.x.com/IrwClcCY0e",
+              "end": 152,
+              "expanded_url": "https://x.com/ryujin_ari9/status/2097635817929728450/video/1",
+              "media_key": "3_2097632046961262593",
+              "start": 129,
+              "url": "https://t.co/IrwClcCY0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097635817929728450",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097632046877380608"
+          },
+          {
+            "media_key": "3_2097632046902661120"
+          },
+          {
+            "media_key": "3_2097632046961262593"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 383,
+                "id": "218434058",
+                "start": 368,
+                "username": "takaichi_sanae"
+              },
+              {
+                "end": 395,
+                "id": "3221478144",
+                "start": 384,
+                "username": "onoda_kimi"
+              }
+            ]
+          },
+          "text": "東京で、普通に歩いてただけなのに中国人らに囲まれて脅迫、挙げ句の果てに飛び蹴り……これ、マジでヤバくない？💥\n\nいや、これを「ただの憂さ晴らし」で済ませていいわけないだろ。\n\n普通に街を歩いていただけなのに、突然囲まれて脅されたり、暴力を振るわれたりする👊\n\nそんなことが起きたら、誰だって安心して暮らせない。\n\nしかも、埼玉県獨協大学トヨタホームにはもう100世帯以上も中国人がいるんだよ😨\n\nここは全部で370世帯くらい建つ予定なのに、まだ半分もできてない段階で、もうこんなに中国人が集まってきてる。\n\n車は飛ばすわ、ウインカー出さないわ、子どもに他人の家の花を摘ませるわ、自転車に乗りながら、何の理由もなく人に怒鳴り散らす 🚗\n\nこのままじゃマジで終わるぞ❗️\n\n日本で普通に暮らしていける環境を守るのは、政府の仕事じゃないのか❓@takaichi_sanae @onoda_kimi"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 55717,
+          "like_count": 2365,
+          "quote_count": 45,
+          "reply_count": 35,
+          "retweet_count": 929
+        },
+        "reply_settings": "everyone",
+        "text": "東京で、普通に歩いてただけなのに中国人らに囲まれて脅迫、挙げ句の果てに飛び蹴り……これ、マジでヤバくない？💥\n\nいや、これを「ただの憂さ晴らし」で済ませていいわけないだろ。\n\n普通に街を歩いていただけなのに、突然囲まれて脅されたり、暴力を振るわれたりする👊 https://t.co/IrwClcCY0e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098782490316206533",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 175,
+          "like_count": 8665,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 806
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T05:58:53.000Z",
+        "description": "ワンちゃん、大好き",
+        "id": "1554708306077159424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098659650480869473",
+        "name": "しもべ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554708306077159424/1782206261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063090102394593280/-aO6Mdjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 107,
+          "like_count": 1592,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "ryujin_ari9",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

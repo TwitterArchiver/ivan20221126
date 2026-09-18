@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2092417775038021759",
+    "created_at": "2026-08-26T17:21:40.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092663785765105942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946132863457595392",
+          "start": 0,
+          "username": "AmieReineke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092663785765105942",
+    "in_reply_to_user_id": "1946132863457595392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092417775038021759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmieReineke b2吗，这个确实味大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2092417765152067584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnC3w2bEAA_owX.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2092417775038021759",
+        "created_at": "2026-08-26T17:21:40.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092663785765105942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946132863457595392",
+              "start": 0,
+              "username": "AmieReineke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092663785765105942",
+        "in_reply_to_user_id": "1946132863457595392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092417775038021759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmieReineke b2吗，这个确实味大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092417765152067584"
+          ]
+        },
+        "author_id": "1946132863457595392",
+        "conversation_id": "2092417775038021759",
+        "created_at": "2026-08-26T01:04:07.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092417775038021759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gY4odwqSQw",
+              "end": 50,
+              "expanded_url": "https://x.com/AmieReineke/status/2092417775038021759/photo/1",
+              "media_key": "3_2092417765152067584",
+              "start": 27,
+              "url": "https://t.co/gY4odwqSQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092417775038021759",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092417765152067584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "维生素b怎么这么臭\n分装后整个药盒和包里都是这个味道 https://t.co/gY4odwqSQw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2092663785765105942",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 168,
+          "like_count": 7166,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 703
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T09:00:21.000Z",
+        "description": "我只是呆着……\n前世：@classictramp\n🚪5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "classictramp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.com/hz/wishlist/ls/2RVYUQ69UEC4A?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/xhKiFIVG4p"
+              }
+            ]
+          }
+        },
+        "id": "1946132863457595392",
+        "is_identity_verified": false,
+        "location": "Stuart, FL",
+        "most_recent_tweet_id": "2092616152405209500",
+        "name": "ww",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946132863457595392/1784302533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 87,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/xhKiFIVG4p",
+        "username": "AmieReineke",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

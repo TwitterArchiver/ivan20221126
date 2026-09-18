@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096556793979875490",
+    "created_at": "2026-09-06T14:02:34.000Z",
+    "display_text_range": [
+      36,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096599946996924739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885134120340381697",
+          "start": 0,
+          "username": "alexX79749"
+        },
+        {
+          "end": 23,
+          "id": "2076627902725300225",
+          "start": 12,
+          "username": "Fuyuumibai"
+        },
+        {
+          "end": 35,
+          "id": "2077732421488054272",
+          "start": 24,
+          "username": "FreePGBPlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096599946996924739",
+    "in_reply_to_user_id": "1885134120340381697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096575329133576407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexX79749 @Fuyuumibai @FreePGBPlz 梦女来了，我不好说我擦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096556793979875490",
+        "created_at": "2026-09-06T14:02:34.000Z",
+        "display_text_range": [
+          36,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096599946996924739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885134120340381697",
+              "start": 0,
+              "username": "alexX79749"
+            },
+            {
+              "end": 23,
+              "id": "2076627902725300225",
+              "start": 12,
+              "username": "Fuyuumibai"
+            },
+            {
+              "end": 35,
+              "id": "2077732421488054272",
+              "start": 24,
+              "username": "FreePGBPlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096599946996924739",
+        "in_reply_to_user_id": "1885134120340381697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096575329133576407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexX79749 @Fuyuumibai @FreePGBPlz 梦女来了，我不好说我擦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885134120340381697",
+        "conversation_id": "2096556793979875490",
+        "created_at": "2026-09-06T12:24:45.000Z",
+        "display_text_range": [
+          24,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096575329133576407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2076627902725300225",
+              "start": 0,
+              "username": "Fuyuumibai"
+            },
+            {
+              "end": 23,
+              "id": "2077732421488054272",
+              "start": 12,
+              "username": "FreePGBPlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096575329133576407",
+        "in_reply_to_user_id": "2076627902725300225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096556793979875490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuyuumibai @FreePGBPlz 你们到处造谣还不让人举报把你们嘴封上你们只会叫的更欢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096599946996924739",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 168,
+          "like_count": 8166,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-31T01:12:59.000Z",
+        "description": "od蛆一只～喜欢打三角洲～互fo看到就回哦",
+        "id": "1885134120340381697",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096581282407059501",
+        "name": "alex X",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885134120340381697/1779942784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059855388376436736/Tf_C_Ooa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 138,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "alexX79749",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T11:26:51.000Z",
+        "description": "10年出厂 | 持证含糖🍥 | HRT日期 2025.7.7 | 跨女desu🏳️‍⚧️ | OD | 普瑞巴林它把我逼到了健全的地步 | 同类互fo | 谢绝建制派与粉红兔兔",
+        "id": "2076627902725300225",
+        "is_identity_verified": false,
+        "location": "白云山",
+        "most_recent_tweet_id": "2096556793979875490",
+        "name": "冬海霾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076627902725300225/1783942541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076629784583655424/ZEDwAeYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 37,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Fuyuumibai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T12:36:56.000Z",
+        "description": "",
+        "id": "2077732421488054272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096562617854902718",
+        "name": "PGB",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077734428705771520/g4X7GxyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 0,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "FreePGBPlz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

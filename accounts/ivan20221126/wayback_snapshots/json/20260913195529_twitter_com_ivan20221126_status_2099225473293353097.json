@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2099225473293353097",
+    "created_at": "2026-09-13T19:55:29.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T20:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099225473293353097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/misaki102113/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/misaki102113/status/2099172852247535957",
+          "start": 18,
+          "url": "https://t.co/C2bwngpnaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099225473293353097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099172852247535957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我并不觉得pr的抗焦虑比bzd好， https://t.co/C2bwngpnaG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2099225473293353097",
+        "created_at": "2026-09-13T19:55:29.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099225473293353097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misaki102113/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/misaki102113/status/2099172852247535957",
+              "start": 18,
+              "url": "https://t.co/C2bwngpnaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099225473293353097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099172852247535957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我并不觉得pr的抗焦虑比bzd好， https://t.co/C2bwngpnaG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978297494464585728",
+        "conversation_id": "2099172852247535957",
+        "created_at": "2026-09-13T16:26:23.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099172852247535957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099172852247535957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1013,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么国内不把pr广泛列入抗焦虑药物呢，和bzds药物竞争的话，pr全面完胜啊，相较于bzds让你犯困的镇静，pr才真正能让你拜托焦虑的情绪，同时很多心理疾病患者都有躯体化带来的浑身疼痛，pr也能帮助缓解这一点，且药物带来的社交能力增强也能帮助患者回归社会。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2099225473293353097",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 178,
+          "like_count": 8851,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T03:11:37.000Z",
+        "description": "大二计科在读/萌新kiger/皱皮/sensei/友跨🏳‍⚧/抑郁/焦虑/割手手/血图预警/免费但不一定成功的心理委员/欢迎找我倾诉",
+        "id": "1978297494464585728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099202116502073383",
+        "name": "misaki",
+        "pinned_tweet_id": "2058894966454444495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068702900038381568/FDPyXAHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 3298,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "misaki102113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095434343233839104"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2095433057079894235",
+    "created_at": "2026-09-03T08:50:54.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095434348917096469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937073350750466048",
+          "start": 0,
+          "username": "karo269640607"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJwVR1eJOT",
+          "end": 45,
+          "expanded_url": "https://x.com/ivan20221126/status/2095434348917096469/photo/1",
+          "media_key": "3_2095434343233839104",
+          "start": 22,
+          "url": "https://t.co/BJwVR1eJOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095434348917096469",
+    "in_reply_to_user_id": "1937073350750466048",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095434343233839104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095433057079894235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karo269640607 看看民族成分 https://t.co/BJwVR1eJOT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2095434343233839104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRR6bt6bYAAYcrP.jpg",
+        "width": 1264
+      },
+      {
+        "height": 392,
+        "media_key": "3_2095432916818104320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRR5IsGakAAbzui.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095434343233839104"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2095433057079894235",
+        "created_at": "2026-09-03T08:50:54.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095434348917096469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJwVR1eJOT",
+              "end": 45,
+              "expanded_url": "https://x.com/ivan20221126/status/2095434348917096469/photo/1",
+              "media_key": "3_2095434343233839104",
+              "start": 22,
+              "url": "https://t.co/BJwVR1eJOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095434348917096469",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095434343233839104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095433057079894235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 看看民族成分 https://t.co/BJwVR1eJOT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095432916818104320"
+          ]
+        },
+        "author_id": "1937073350750466048",
+        "conversation_id": "2095433057079894235",
+        "created_at": "2026-09-03T08:45:46.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095433057079894235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UrSusgKHyK",
+              "end": 53,
+              "expanded_url": "https://x.com/karo269640607/status/2095433057079894235/photo/1",
+              "media_key": "3_2095432916818104320",
+              "start": 30,
+              "url": "https://t.co/UrSusgKHyK"
+            },
+            {
+              "display_url": "x.com/Nakg1Lovely/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Nakg1Lovely/status/2095349929061540062",
+              "start": 54,
+              "url": "https://t.co/bKV9k6ylSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095433057079894235",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095432916818104320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095349929061540062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心情。\n大家都是芝麻竹。\n哦不对我不能算是\n哎其实也是吧。 https://t.co/UrSusgKHyK https://t.co/bKV9k6ylSc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2095434348917096469",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 168,
+          "like_count": 7914,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 748
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️| 同类互fo |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "is_identity_verified": false,
+        "location": "新西兰   奥克兰",
+        "most_recent_tweet_id": "2095433789963210976",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937073350750466048/1772488051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 816,
+          "like_count": 50509,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 10908
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2094356307293937687",
+    "created_at": "2026-08-31T10:59:41.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094379593155375204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "shennainai666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094379593155375204",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094356307293937687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennainai666 奥地利神秘爱猫男"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2094356298926370816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCl9R6bsAAHR4A.jpg",
+        "width": 512
+      },
+      {
+        "height": 527,
+        "media_key": "3_2094356303414185984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCl9ioaUAAGhVl.jpg",
+        "width": 417
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2094356307293937687",
+        "created_at": "2026-08-31T10:59:41.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094379593155375204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennainai666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094379593155375204",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094356307293937687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennainai666 奥地利神秘爱猫男"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094356298926370816",
+            "3_2094356303414185984"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2094356307293937687",
+        "created_at": "2026-08-31T09:27:09.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094356307293937687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dx1AWk13U4",
+              "end": 23,
+              "expanded_url": "https://x.com/shennainai666/status/2094356307293937687/photo/1",
+              "media_key": "3_2094356298926370816",
+              "start": 0,
+              "url": "https://t.co/Dx1AWk13U4"
+            },
+            {
+              "display_url": "pic.x.com/Dx1AWk13U4",
+              "end": 23,
+              "expanded_url": "https://x.com/shennainai666/status/2094356307293937687/photo/1",
+              "media_key": "3_2094356303414185984",
+              "start": 0,
+              "url": "https://t.co/Dx1AWk13U4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094356307293937687",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094356298926370816"
+          },
+          {
+            "media_key": "3_2094356303414185984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Dx1AWk13U4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2094379593155375204",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 167,
+          "like_count": 7527,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "进群私",
+        "id": "2010357366466990080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094359117267886192",
+        "name": "河南之神",
+        "pinned_tweet_id": "2090807353079988484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010357366466990080/1769655313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094306109297418240/X81x0ozf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4968,
+          "following_count": 831,
+          "like_count": 1367,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 4672
+        },
+        "url": "",
+        "username": "shennainai666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

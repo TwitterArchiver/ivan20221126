@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095058580844183552"
+      ],
+      "media_source_tweet_id": [
+        "2095058764651212924"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095068148995432479",
+    "created_at": "2026-09-02T08:35:45.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T09:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095068148995432479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044176423460515840",
+          "start": 3,
+          "username": "dupinkepu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kslXBTxvgV",
+          "end": 99,
+          "expanded_url": "https://x.com/dupinkepu/status/2095058764651212924/photo/1",
+          "media_key": "3_2095058580844183552",
+          "start": 76,
+          "url": "https://t.co/kslXBTxvgV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095068148995432479",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095058580844183552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095058764651212924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dupinkepu: 大家好，朋友告诉我，此品牌的奶油发泡剂，使用起来很不对劲。也不知道是什么原因，请大家避雷。如果可以请帮忙扩散一下，谢谢！ https://t.co/kslXBTxvgV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 755,
+        "media_key": "3_2095058580844183552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMkrd7aAAAZyE7.png",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095058580844183552"
+          ],
+          "media_source_tweet_id": [
+            "2095058764651212924"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095068148995432479",
+        "created_at": "2026-09-02T08:35:45.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095068148995432479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044176423460515840",
+              "start": 3,
+              "username": "dupinkepu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kslXBTxvgV",
+              "end": 99,
+              "expanded_url": "https://x.com/dupinkepu/status/2095058764651212924/photo/1",
+              "media_key": "3_2095058580844183552",
+              "start": 76,
+              "url": "https://t.co/kslXBTxvgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095068148995432479",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095058580844183552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095058764651212924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dupinkepu: 大家好，朋友告诉我，此品牌的奶油发泡剂，使用起来很不对劲。也不知道是什么原因，请大家避雷。如果可以请帮忙扩散一下，谢谢！ https://t.co/kslXBTxvgV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095058580844183552"
+          ]
+        },
+        "author_id": "2044176423460515840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095058764651212924",
+        "created_at": "2026-09-02T07:58:28.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095058764651212924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kslXBTxvgV",
+              "end": 84,
+              "expanded_url": "https://x.com/dupinkepu/status/2095058764651212924/photo/1",
+              "media_key": "3_2095058580844183552",
+              "start": 61,
+              "url": "https://t.co/kslXBTxvgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095058764651212924",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095058580844183552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，朋友告诉我，此品牌的奶油发泡剂，使用起来很不对劲。也不知道是什么原因，请大家避雷。如果可以请帮忙扩散一下，谢谢！ https://t.co/kslXBTxvgV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2095068148995432479",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 171,
+          "like_count": 7821,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T22:10:24.000Z",
+        "description": "知的强奸者",
+        "id": "2044176423460515840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095058764651212924",
+        "name": "橘雪莉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044176423460515840/1780542200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062369390272925696/pssWTzLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 252,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "dupinkepu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

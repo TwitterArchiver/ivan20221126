@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2094474151264473388",
+    "created_at": "2026-08-31T17:18:02.000Z",
+    "display_text_range": [
+      27,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094474806855110667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1571848301594705927",
+          "start": 0,
+          "username": "TheB17w153"
+        },
+        {
+          "end": 26,
+          "id": "2065149033379971072",
+          "start": 12,
+          "username": "Lomyral896444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094474806855110667",
+    "in_reply_to_user_id": "1571848301594705927",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094474151264473388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheB17w153 @Lomyral896444 😈😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2094474151264473388",
+        "created_at": "2026-08-31T17:18:02.000Z",
+        "display_text_range": [
+          27,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094474806855110667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            },
+            {
+              "end": 26,
+              "id": "2065149033379971072",
+              "start": 12,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094474806855110667",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094474151264473388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 @Lomyral896444 😈😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2094474151264473388",
+        "created_at": "2026-08-31T17:15:25.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094474151264473388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2065149033379971072",
+              "start": 5,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094474151264473388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个点赞和@Lomyral896444 做一次"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2094474806855110667",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 167,
+          "like_count": 7582,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2094474151264473388",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 642,
+          "like_count": 1917,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 656
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|INTP/重抑中焦\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit\n碎碎念推，不吸毒|这里是四号机，互关寻回中，下面是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "Zukawbit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/lomyral",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/lomyral",
+                "start": 0,
+                "url": "https://t.co/WpWmwWAsHM"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094271185672720572",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065149033379971072/1781340520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 485,
+          "like_count": 5039,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1149
+        },
+        "url": "https://t.co/WpWmwWAsHM",
+        "username": "Lomyral896444",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

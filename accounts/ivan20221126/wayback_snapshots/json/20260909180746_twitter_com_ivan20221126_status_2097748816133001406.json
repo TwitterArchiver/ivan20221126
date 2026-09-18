@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097505957219901440"
+      ],
+      "media_source_tweet_id": [
+        "2097505964320800916"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2097748816133001406",
+    "created_at": "2026-09-09T18:07:46.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T19:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097748816133001406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2023707996623437824",
+          "start": 3,
+          "username": "GoneAngels8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ayiIFNn6w7",
+          "end": 50,
+          "expanded_url": "https://x.com/GoneAngels8964/status/2097505964320800916/photo/1",
+          "media_key": "3_2097505957219901440",
+          "start": 27,
+          "url": "https://t.co/ayiIFNn6w7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097748816133001406",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097505957219901440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097505964320800916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GoneAngels8964: 這是哪位推友 https://t.co/ayiIFNn6w7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2097505957219901440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvWjhZboAADRNq.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097505957219901440"
+          ],
+          "media_source_tweet_id": [
+            "2097505964320800916"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2097748816133001406",
+        "created_at": "2026-09-09T18:07:46.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097748816133001406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2023707996623437824",
+              "start": 3,
+              "username": "GoneAngels8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayiIFNn6w7",
+              "end": 50,
+              "expanded_url": "https://x.com/GoneAngels8964/status/2097505964320800916/photo/1",
+              "media_key": "3_2097505957219901440",
+              "start": 27,
+              "url": "https://t.co/ayiIFNn6w7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097748816133001406",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097505957219901440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097505964320800916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GoneAngels8964: 這是哪位推友 https://t.co/ayiIFNn6w7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097505957219901440"
+          ]
+        },
+        "author_id": "2023707996623437824",
+        "conversation_id": "2097505964320800916",
+        "created_at": "2026-09-09T02:02:46.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097505964320800916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ayiIFNn6w7",
+              "end": 30,
+              "expanded_url": "https://x.com/GoneAngels8964/status/2097505964320800916/photo/1",
+              "media_key": "3_2097505957219901440",
+              "start": 7,
+              "url": "https://t.co/ayiIFNn6w7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097505964320800916",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097505957219901440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "這是哪位推友 https://t.co/ayiIFNn6w7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2097748816133001406",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 175,
+          "like_count": 8484,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-17T10:36:10.000Z",
+        "description": "🏳️‍⚧️Transgender/Non-binary",
+        "id": "2023707996623437824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097711910322086248",
+        "name": "小Lain",
+        "pinned_tweet_id": "2096797569712267771",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023707996623437824/1785839737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095699403013345280/FwLb5GKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 135,
+          "like_count": 3609,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1337
+        },
+        "url": "",
+        "username": "GoneAngels8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

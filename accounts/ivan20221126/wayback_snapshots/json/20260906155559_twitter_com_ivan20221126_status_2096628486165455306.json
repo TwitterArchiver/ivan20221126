@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096613982845145193",
+    "created_at": "2026-09-06T15:55:59.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096628486165455306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096628486165455306",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096613982845145193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 效果肯定是成幺好，不过圆粉量大管饱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2096613722576031744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRirEoVakAAoXgO.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096613982845145193",
+        "created_at": "2026-09-06T15:55:59.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096628486165455306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096628486165455306",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096613982845145193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 效果肯定是成幺好，不过圆粉量大管饱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096613722576031744"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2096613982845145193",
+        "created_at": "2026-09-06T14:58:21.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096613982845145193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GqVY6KWzX9",
+              "end": 72,
+              "expanded_url": "https://x.com/Citrus_amara/status/2096613982845145193/photo/1",
+              "media_key": "3_2096613722576031744",
+              "start": 49,
+              "url": "https://t.co/GqVY6KWzX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096613982845145193",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096613722576031744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 128,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原粉和成药理论上没区别。没效果可能是假的。我建议买药而不是原粉，因为正常药厂不会给个人出售原粉的 https://t.co/GqVY6KWzX9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096628486165455306",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 170,
+          "like_count": 8184,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2096614882624037108",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2095424847882985800",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 1192,
+          "like_count": 21324,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 12075
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

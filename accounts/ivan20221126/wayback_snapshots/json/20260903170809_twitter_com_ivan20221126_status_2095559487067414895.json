@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2095446357024854475",
+    "created_at": "2026-09-03T17:08:09.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T18:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095559487067414895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758532281873125377",
+          "start": 0,
+          "username": "miyoko39196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095559487067414895",
+    "in_reply_to_user_id": "1758532281873125377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095486093697355897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyoko39196 没看到配料表第二位玉米，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2095446357024854475",
+        "created_at": "2026-09-03T17:08:09.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T18:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095559487067414895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758532281873125377",
+              "start": 0,
+              "username": "miyoko39196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095559487067414895",
+        "in_reply_to_user_id": "1758532281873125377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095486093697355897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyoko39196 没看到配料表第二位玉米，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758532281873125377",
+        "conversation_id": "2095446357024854475",
+        "created_at": "2026-09-03T12:16:31.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095486093697355897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043745937298792448",
+              "start": 0,
+              "username": "ivan20221126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095486093697355897",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095446357024854475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan20221126 味道像金宾，兑苏打水喝喝得了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2095559487067414895",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 168,
+          "like_count": 7940,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 750
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T16:42:37.000Z",
+        "description": "佛教信徒／梦想成为范马刃牙／照见五蕴皆空度一切苦厄／因为她是我的骄傲",
+        "id": "1758532281873125377",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2095486093697355897",
+        "name": "miyoko",
+        "pinned_tweet_id": "1999409951790497934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758532281873125377/1721889488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087164577280839680/kE6IAwc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 142,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "miyoko39196",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

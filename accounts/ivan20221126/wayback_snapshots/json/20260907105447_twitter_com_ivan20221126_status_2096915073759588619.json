@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096915073759588619",
+    "created_at": "2026-09-07T10:54:47.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096915073759588619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Manglesuki/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Manglesuki/status/2033859103853080826",
+          "start": 6,
+          "url": "https://t.co/R81K6Qa95E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096915073759588619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033859103853080826",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们怀念他 https://t.co/R81K6Qa95E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096915073759588619",
+        "created_at": "2026-09-07T10:54:47.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096915073759588619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Manglesuki/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Manglesuki/status/2033859103853080826",
+              "start": 6,
+              "url": "https://t.co/R81K6Qa95E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096915073759588619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033859103853080826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们怀念他 https://t.co/R81K6Qa95E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886054681635704832",
+        "conversation_id": "2033859103853080826",
+        "created_at": "2026-03-17T10:52:52.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033859103853080826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Manglesuki/sta…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/Manglesuki/status/1996632430036635741",
+              "start": 108,
+              "url": "https://t.co/DrytztdZI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033859103853080826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21804,
+          "like_count": 76,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996632430036635741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讣告续集：\n药物百科前wiki主 药圈重要人物 沐雨\n2025.11月25日因吸入性肺炎去世\n已安葬于山东省枣庄市峄城区莲花山公墓\n他的样子还一直浮现在我们眼前\n凌雪接管了他的一些账号\n沉痛哀悼\n\nby.凌雪、玄鸮 https://t.co/DrytztdZI8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096915073759588619",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 173,
+          "like_count": 8275,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-02T14:11:02.000Z",
+        "description": "我是Onyxx/小鸮｜爱人@TUTU16016｜ENTP｜女生｜泛性恋｜药物百科wiki主@yaowubaike｜鸦鸦叫Gavin｜边缘型BPD｜DJ/调酒师/王者代练/底层画画的/coser/🏍️凯越525X｜171cm/51kg｜请找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "TUTU16016"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "yaowubaike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "https://yaowubaike.ca/",
+                "start": 0,
+                "url": "https://t.co/iv2t87QHvr"
+              }
+            ]
+          }
+        },
+        "id": "1886054681635704832",
+        "is_identity_verified": false,
+        "location": "Night city",
+        "most_recent_tweet_id": "2096514613768573127",
+        "name": "OnyxxOwl",
+        "pinned_tweet_id": "2024365569395642508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886054681635704832/1784149743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077495322423738368/CahYMGJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 110,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/iv2t87QHvr",
+        "username": "Manglesuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

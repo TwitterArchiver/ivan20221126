@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096232608158142701",
+    "created_at": "2026-09-05T16:45:10.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096278477574160541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1990083055231631361",
+          "start": 0,
+          "username": "All4theY1108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096278477574160541",
+    "in_reply_to_user_id": "1990083055231631361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096232608158142701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@All4theY1108 公关危机，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096232608158142701",
+        "created_at": "2026-09-05T16:45:10.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096278477574160541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1990083055231631361",
+              "start": 0,
+              "username": "All4theY1108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096278477574160541",
+        "in_reply_to_user_id": "1990083055231631361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096232608158142701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@All4theY1108 公关危机，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990083055231631361",
+        "conversation_id": "2096232608158142701",
+        "created_at": "2026-09-05T13:42:54.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096232608158142701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096232608158142701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叶经理这个话太找打了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096278477574160541",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 169,
+          "like_count": 8129,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 765
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "is_identity_verified": false,
+        "location": "在你身后",
+        "most_recent_tweet_id": "2096252321416327530",
+        "name": "GAZE",
+        "pinned_tweet_id": "2092710870627594685",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990083055231631361/1781402845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093558286775881728/T1h1pcdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 46,
+          "like_count": 7727,
+          "listed_count": 1,
+          "media_count": 480,
+          "tweet_count": 4723
+        },
+        "url": "",
+        "username": "All4theY1108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

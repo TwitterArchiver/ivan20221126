@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096613454287413632",
+    "created_at": "2026-09-06T15:56:11.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096628536580964361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096628536580964361",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096613454287413632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 看看刀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2096613358279790593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiqvbObEAE2BLY.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096613454287413632",
+        "created_at": "2026-09-06T15:56:11.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096628536580964361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096628536580964361",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096613454287413632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 看看刀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096613358279790593"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2096613454287413632",
+        "created_at": "2026-09-06T14:56:15.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096613454287413632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MKAAdBoxp",
+              "end": 44,
+              "expanded_url": "https://x.com/Citrus_amara/status/2096613454287413632/photo/1",
+              "media_key": "3_2096613358279790593",
+              "start": 21,
+              "url": "https://t.co/5MKAAdBoxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096613454287413632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096613358279790593"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去不早说。\n我出门随身带刀，欢迎来找我 https://t.co/5MKAAdBoxp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096628536580964361",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 170,
+          "like_count": 8185,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 769
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2096614882624037108",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2095424847882985800",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 1192,
+          "like_count": 21324,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 12075
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

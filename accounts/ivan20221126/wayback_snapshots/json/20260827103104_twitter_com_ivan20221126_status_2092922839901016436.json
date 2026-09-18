@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2092922839901016436",
+    "created_at": "2026-08-27T10:31:04.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092922839901016436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shigure8964a/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/shigure8964a/status/2092680086411694480",
+          "start": 26,
+          "url": "https://t.co/rjyVpn32jx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092922839901016436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092680086411694480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一天吃一顿肉是社会主义，一天吃一顿以上是资本主义！ https://t.co/rjyVpn32jx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2092922839901016436",
+        "created_at": "2026-08-27T10:31:04.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092922839901016436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shigure8964a/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/shigure8964a/status/2092680086411694480",
+              "start": 26,
+              "url": "https://t.co/rjyVpn32jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092922839901016436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092680086411694480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一天吃一顿肉是社会主义，一天吃一顿以上是资本主义！ https://t.co/rjyVpn32jx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986828541930119168",
+        "conversation_id": "2092663500548251725",
+        "created_at": "2026-08-26T18:26:27.000Z",
+        "display_text_range": [
+          23,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092680086411694480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1616306294851514368",
+              "start": 0,
+              "username": "UccelliACN"
+            },
+            {
+              "end": 22,
+              "id": "1686352242130223104",
+              "start": 12,
+              "username": "cry314cry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092680086411694480",
+        "in_reply_to_user_id": "1616306294851514368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1398,
+          "like_count": 2,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092678026958127570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UccelliACN @cry314cry 那可能我比较克制没什么太高物质需求吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2092922839901016436",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 168,
+          "like_count": 7236,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "📕🌈|INTP-A|自发毛主义|左翼共产主义|反资本主义|反帝国主义|反修正主义|无神论|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "is_identity_verified": false,
+        "location": "中华公社",
+        "most_recent_tweet_id": "2092922211036443078",
+        "name": "時雨☭Leftcom🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2087767031273893902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986828541930119168/1773817315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091095507284447232/D0y3DsEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 690,
+          "like_count": 8311,
+          "listed_count": 8,
+          "media_count": 723,
+          "tweet_count": 9601
+        },
+        "url": "",
+        "username": "shigure8964a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-20T05:27:13.000Z",
+        "description": "中国人です。日本語勉強中、変な日本語があったらすみません！\n素敵な作品には積極的にリプで感想を伝えたい派です。\n好きな作品：ローゼンメイデン/東方Project\n推し：真紅/さとり/レミリア\nMBTI：INFJ\n※雑多垢。時々中国語で政治関連のツイートに反応します。苦手な方は自衛をお願いします。",
+        "id": "1616306294851514368",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2092912323841409141",
+        "name": "藤原アスカ",
+        "pinned_tweet_id": "2067927291586552224",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616306294851514368/1781808761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091228322793750528/6xoVSWdy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 2449,
+          "like_count": 17446,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 4049
+        },
+        "url": "",
+        "username": "UccelliACN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

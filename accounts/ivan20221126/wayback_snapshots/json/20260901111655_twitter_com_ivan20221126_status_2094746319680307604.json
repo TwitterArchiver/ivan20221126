@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2064642159199035862",
+    "created_at": "2026-09-01T11:16:55.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094746319680307604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2063481063750631425",
+          "start": 0,
+          "username": "rexingshim666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094746319680307604",
+    "in_reply_to_user_id": "2063481063750631425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064642159199035862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rexingshim666 我最爱喝习锦评咖啡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24166,
+        "height": 1920,
+        "media_key": "13_2064642018555617280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064642018555617280/img/fF8oXdkir1O1YXd7.jpg",
+        "public_metrics": {
+          "view_count": 659
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064642018555617280/vid/avc1/320x568/LVMPUQINVn4R-oyR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064642018555617280/vid/avc1/480x852/hQwuD5avpvnoAQ2P.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064642018555617280/vid/avc1/720x1280/10GpUFph70zyZo2l.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064642018555617280/pl/b_pNOMA7_zQaf2NK.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2064642159199035862",
+        "created_at": "2026-09-01T11:16:55.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094746319680307604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2063481063750631425",
+              "start": 0,
+              "username": "rexingshim666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094746319680307604",
+        "in_reply_to_user_id": "2063481063750631425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064642159199035862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rexingshim666 我最爱喝习锦评咖啡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064642018555617280"
+          ]
+        },
+        "author_id": "2063481063750631425",
+        "conversation_id": "2064642159199035862",
+        "created_at": "2026-06-10T09:33:44.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064642159199035862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NG5nmu7IP",
+              "end": 32,
+              "expanded_url": "https://x.com/rexingshim666/status/2064642159199035862/video/1",
+              "media_key": "13_2064642018555617280",
+              "start": 9,
+              "url": "https://t.co/1NG5nmu7IP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064642159199035862",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2064642018555617280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2828,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "流氓克星！😎😎😎 https://t.co/1NG5nmu7IP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2094746319680307604",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 169,
+          "like_count": 7685,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 733
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-07T04:42:51.000Z",
+        "description": "昔日奸人叛国，甘为虎作伥行。卖求荣昧心盲，忘却祖宗名姓。\n\n媚外阿谀丑态，背亲弃义狰狞。千秋骂名臭难清，应是人人憎命。",
+        "id": "2063481063750631425",
+        "is_identity_verified": false,
+        "location": "中国，深圳",
+        "most_recent_tweet_id": "2094705496263635092",
+        "name": "rebirth R",
+        "pinned_tweet_id": "2064642159199035862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063481063750631425/1780809655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083481358975086592/sGgPq__e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 97,
+          "like_count": 481,
+          "listed_count": 6,
+          "media_count": 205,
+          "tweet_count": 1551
+        },
+        "url": "",
+        "username": "rexingshim666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

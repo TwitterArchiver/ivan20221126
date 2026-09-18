@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097879328478666752"
+      ],
+      "media_source_tweet_id": [
+        "2097879351799013452"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2097953217225404448",
+    "created_at": "2026-09-10T07:39:59.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097953217225404448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906745280713850880",
+          "start": 3,
+          "username": "IceLeBann"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dVLXadSPwo",
+          "end": 82,
+          "expanded_url": "https://x.com/IceLeBann/status/2097879351799013452/video/1",
+          "media_key": "13_2097879328478666752",
+          "start": 59,
+          "url": "https://t.co/dVLXadSPwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097953217225404448",
+    "lang": "fr",
+    "media_metadata": [
+      {
+        "media_key": "13_2097879328478666752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1512
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097879351799013452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IceLeBann: Très bonne année du kirkval à vous tous !!! https://t.co/dVLXadSPwo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14197,
+        "height": 640,
+        "media_key": "13_2097879328478666752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097879328478666752/img/Wm9xWAaFiU5rCDIT.jpg",
+        "public_metrics": {
+          "view_count": 34490
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097879328478666752/vid/avc1/320x568/LCw49Jr4dOrd7mpT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097879328478666752/vid/avc1/360x640/tjUdGMHOMAikaLoe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097879328478666752/pl/M8AQG0bdEbZBYIkf.m3u8?v=c59"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097879328478666752"
+          ],
+          "media_source_tweet_id": [
+            "2097879351799013452"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2097953217225404448",
+        "created_at": "2026-09-10T07:39:59.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097953217225404448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906745280713850880",
+              "start": 3,
+              "username": "IceLeBann"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVLXadSPwo",
+              "end": 82,
+              "expanded_url": "https://x.com/IceLeBann/status/2097879351799013452/video/1",
+              "media_key": "13_2097879328478666752",
+              "start": 59,
+              "url": "https://t.co/dVLXadSPwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097953217225404448",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2097879328478666752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1512
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097879351799013452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IceLeBann: Très bonne année du kirkval à vous tous !!! https://t.co/dVLXadSPwo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097879328478666752"
+          ]
+        },
+        "author_id": "1906745280713850880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2097879351799013452",
+        "created_at": "2026-09-10T02:46:28.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097879351799013452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVLXadSPwo",
+              "end": 67,
+              "expanded_url": "https://x.com/IceLeBann/status/2097879351799013452/video/1",
+              "media_key": "13_2097879328478666752",
+              "start": 44,
+              "url": "https://t.co/dVLXadSPwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097879351799013452",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2097879328478666752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 791,
+          "impression_count": 93511,
+          "like_count": 9540,
+          "quote_count": 12,
+          "reply_count": 14,
+          "retweet_count": 1512
+        },
+        "reply_settings": "everyone",
+        "text": "Très bonne année du kirkval à vous tous !!! https://t.co/dVLXadSPwo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2097953217225404448",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 175,
+          "like_count": 8518,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 789
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-31T16:28:09.000Z",
+        "description": "Tenté par le diable à quoi bon lnier",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@icelamenace13…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@icelamenace13?_r=1&_t=ZS-96G3ClsTIZx",
+                "start": 0,
+                "url": "https://t.co/rhIP3xPo5H"
+              }
+            ]
+          }
+        },
+        "id": "1906745280713850880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097950545822757258",
+        "name": "Ice aux poings ardents",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906745280713850880/1782608142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043440761316970496/8jjZqpJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 171,
+          "like_count": 29119,
+          "listed_count": 2,
+          "media_count": 3278,
+          "tweet_count": 11853
+        },
+        "url": "https://t.co/rhIP3xPo5H",
+        "username": "IceLeBann",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

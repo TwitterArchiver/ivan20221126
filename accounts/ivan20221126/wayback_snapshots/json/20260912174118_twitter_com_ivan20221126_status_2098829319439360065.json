@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2098823893809258688",
+    "created_at": "2026-09-12T17:41:18.000Z",
+    "display_text_range": [
+      14,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098829319439360065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063809217488982016",
+          "start": 0,
+          "username": "Nijika_Dark2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098829319439360065",
+    "in_reply_to_user_id": "2063809217488982016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098823893809258688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_Dark2 他25年上半年炒作自己是女的吵的不亦乐乎啊，我26年1月才知道一男的还是胖子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2098823893809258688",
+        "created_at": "2026-09-12T17:41:18.000Z",
+        "display_text_range": [
+          14,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098829319439360065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063809217488982016",
+              "start": 0,
+              "username": "Nijika_Dark2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098829319439360065",
+        "in_reply_to_user_id": "2063809217488982016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098823893809258688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_Dark2 他25年上半年炒作自己是女的吵的不亦乐乎啊，我26年1月才知道一男的还是胖子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063809217488982016",
+        "conversation_id": "2098823893809258688",
+        "created_at": "2026-09-12T17:19:45.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098823893809258688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2092878549711757440",
+              "start": 86,
+              "url": "https://t.co/Ej872Sp8jt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098823893809258688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092878549711757440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "望周知😁\n本质酗酒家暴男，她长期也是自称生理女，导致真有不少不熟的网友以为人不带把\n说真的，喜丧，姐妹往前看，过去的当一杯酒，咽下去了有副作用也有精神活性\n愿施主平安遂愿 https://t.co/Ej872Sp8jt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098829319439360065",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 176,
+          "like_count": 8703,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T02:26:36.000Z",
+        "description": "这里是虹夏3.0｜前世@Nijika_overdose，寻回亲友中｜我的大脑空空如也｜坐标重庆🚩｜看到主页记得笑一下噻❤️💙💛💜❛˓◞˂̵✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "Nijika_overdose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+CMlCMdCTShRjN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+CMlCMdCTShRjNzRl",
+                "start": 0,
+                "url": "https://t.co/fyxGlXApbL"
+              }
+            ]
+          }
+        },
+        "id": "2063809217488982016",
+        "is_identity_verified": false,
+        "location": "hrt日雌泰补/减肥💊/小rc零食↓",
+        "most_recent_tweet_id": "2098825311614095838",
+        "name": "超级虹虹虹虹夏",
+        "pinned_tweet_id": "2082110227827335559",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063810145600339968/UI1msXPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 205,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/fyxGlXApbL",
+        "username": "Nijika_Dark2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2094568800800645334",
+    "created_at": "2026-09-01T06:34:30.000Z",
+    "display_text_range": [
+      11,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T07:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094675245013811275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1355034977570701316",
+          "start": 0,
+          "username": "JCMarkEvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094675245013811275",
+    "in_reply_to_user_id": "1355034977570701316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094568800800645334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JCMarkEvo 感觉不如克劳德，露比，斯派克"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_2094568589604929537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFnCOUXwAEBGNi.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2094568800800645334",
+        "created_at": "2026-09-01T06:34:30.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094675245013811275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1355034977570701316",
+              "start": 0,
+              "username": "JCMarkEvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094675245013811275",
+        "in_reply_to_user_id": "1355034977570701316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094568800800645334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JCMarkEvo 感觉不如克劳德，露比，斯派克"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094568589604929537"
+          ]
+        },
+        "author_id": "1355034977570701316",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094568800800645334",
+        "created_at": "2026-08-31T23:31:31.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T00:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094568800800645334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnCL4Kwzvn",
+              "end": 49,
+              "expanded_url": "https://x.com/JCMarkEvo/status/2094568800800645334/photo/1",
+              "media_key": "3_2094568589604929537",
+              "start": 26,
+              "url": "https://t.co/gnCL4Kwzvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094568800800645334",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094568589604929537"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 51039,
+          "like_count": 715,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "如果你不理解什么叫片假名地狱的话\n不妨看看我这个： https://t.co/gnCL4Kwzvn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2094675245013811275",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 169,
+          "like_count": 7615,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 728
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-29T06:08:18.000Z",
+        "description": "你好哦~？ 咳咳，这里是Mark，没什么好介绍的，痛苦上学壬，偶尔会掉落一两张手绘",
+        "id": "1355034977570701316",
+        "is_identity_verified": false,
+        "location": "Port 443",
+        "most_recent_tweet_id": "2094572538567201110",
+        "name": "𝓙.𝓒.𝓜𝓪𝓻𝓴🍀",
+        "pinned_tweet_id": "1897213562684367065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1355034977570701316/1784572407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093851787329511426/oiubzRu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3643,
+          "following_count": 873,
+          "like_count": 35301,
+          "listed_count": 19,
+          "media_count": 1611,
+          "tweet_count": 6675
+        },
+        "url": "",
+        "username": "JCMarkEvo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

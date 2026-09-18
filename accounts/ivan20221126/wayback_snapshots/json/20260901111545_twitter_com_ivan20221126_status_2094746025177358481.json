@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2094746025177358481",
+    "created_at": "2026-09-01T11:15:45.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094746025177358481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1655600869742878720",
+          "start": 3,
+          "username": "Rukawa_anna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094746025177358481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094682506012545509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rukawa_anna: 中国大嫌いです！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2094746025177358481",
+        "created_at": "2026-09-01T11:15:45.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094746025177358481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1655600869742878720",
+              "start": 3,
+              "username": "Rukawa_anna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094746025177358481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094682506012545509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rukawa_anna: 中国大嫌いです！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655600869742878720",
+        "conversation_id": "2094682506012545509",
+        "created_at": "2026-09-01T07:03:21.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094682506012545509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094682506012545509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 87180,
+          "like_count": 1493,
+          "quote_count": 16,
+          "reply_count": 347,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "中国大嫌いです！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2094746025177358481",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 169,
+          "like_count": 7682,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-08T15:49:50.000Z",
+        "description": "",
+        "id": "1655600869742878720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094746041514127703",
+        "name": "🌸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655600869742878720/1739286167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889353877264429056/_axGa7Vi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14534,
+          "following_count": 589,
+          "like_count": 4536,
+          "listed_count": 81,
+          "media_count": 4,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "Rukawa_anna",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

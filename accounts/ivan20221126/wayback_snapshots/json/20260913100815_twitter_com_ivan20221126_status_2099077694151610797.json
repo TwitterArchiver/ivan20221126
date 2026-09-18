@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2099015726615150719",
+    "created_at": "2026-09-13T10:08:15.000Z",
+    "display_text_range": [
+      17,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T11:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099077694151610797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431992822",
+          "start": 0,
+          "username": "lianyu_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099077694151610797",
+    "in_reply_to_user_id": "1431992822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099015726615150719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianyu_official 因为人在不同情况下承担不同的角色，在公司是劳动者，在下班时是消费者，如果可以随意裁员的话还怎么拉消费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2099015726615150719",
+        "created_at": "2026-09-13T10:08:15.000Z",
+        "display_text_range": [
+          17,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099077694151610797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431992822",
+              "start": 0,
+              "username": "lianyu_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099077694151610797",
+        "in_reply_to_user_id": "1431992822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099015726615150719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianyu_official 因为人在不同情况下承担不同的角色，在公司是劳动者，在下班时是消费者，如果可以随意裁员的话还怎么拉消费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431992822",
+        "conversation_id": "2099015726615150719",
+        "created_at": "2026-09-13T06:02:01.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099015726615150719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IdleAircon/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/IdleAircon/status/2098699416865763770",
+              "start": 19,
+              "url": "https://t.co/P5muhP6y6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099015726615150719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098699416865763770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好离谱为什么公司连裁员的权利都没有了 https://t.co/P5muhP6y6x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2099077694151610797",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 179,
+          "like_count": 8823,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 829
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-05-16T02:37:16.000Z",
+        "description": "是来自B站的vtuber怜雨_official，希望能在这里带大家找到每一个人的幸福喵|CityU BME本科在读|English/中文 is ok|green hand with 日本语 but I'm trying to learn it!",
+        "id": "1431992822",
+        "is_identity_verified": false,
+        "location": "HONG KONG China",
+        "most_recent_tweet_id": "2099071717331333369",
+        "name": "怜雨_official",
+        "pinned_tweet_id": "2084098359850303693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431992822/1785678820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083914069132886016/h7rLDcBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 358,
+          "like_count": 4812,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 616
+        },
+        "url": "",
+        "username": "lianyu_official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

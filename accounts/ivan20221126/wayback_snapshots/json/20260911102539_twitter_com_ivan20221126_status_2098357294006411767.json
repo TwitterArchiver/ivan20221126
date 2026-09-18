@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2098357294006411767",
+    "created_at": "2026-09-11T10:25:39.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T11:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098357294006411767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liyfn130024/st…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/liyfn130024/status/2098328584519917662",
+          "start": 91,
+          "url": "https://t.co/4qcuDN4X71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098357294006411767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098328584519917662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他妈也是个苦命人啊，据他生前所说，他母亲已经与他父亲离婚，现在每个月都要支付2000的房贷，他母亲工资只有三千，如果他没出事的话还要付3，4000去做他喉咙的手术，这下倒是不用做了 https://t.co/4qcuDN4X71"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2098357294006411767",
+        "created_at": "2026-09-11T10:25:39.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098357294006411767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liyfn130024/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/liyfn130024/status/2098328584519917662",
+              "start": 91,
+              "url": "https://t.co/4qcuDN4X71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098357294006411767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098328584519917662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他妈也是个苦命人啊，据他生前所说，他母亲已经与他父亲离婚，现在每个月都要支付2000的房贷，他母亲工资只有三千，如果他没出事的话还要付3，4000去做他喉咙的手术，这下倒是不用做了 https://t.co/4qcuDN4X71"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022874915012333568",
+        "conversation_id": "2098328584519917662",
+        "created_at": "2026-09-11T08:31:34.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098328584519917662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098328584519917662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1730,
+          "like_count": 44,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "讣告2:\nMercy（小猫）死亡时间9月8日22:44\n我刚看了死亡证明，和他妈聊了很多，这完全是一场本不该发生的可以阻止的悲剧。\n下午5点多他陷入昏睡，他妈六点多发现嘴唇发紫头歪到一边，把他叫醒了。mercy讲他没事，只是想睡觉，他妈插上了检测仪，直到9点，心率越来越低，甚至停止时，才拨打了120"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098357294006411767",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 176,
+          "like_count": 8550,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 797
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-15T03:25:57.000Z",
+        "description": "不要再醒来了",
+        "id": "2022874915012333568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098331483819897247",
+        "name": "#dpt不好体验分享",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022874915012333568/1785722185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 123,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "liyfn130024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

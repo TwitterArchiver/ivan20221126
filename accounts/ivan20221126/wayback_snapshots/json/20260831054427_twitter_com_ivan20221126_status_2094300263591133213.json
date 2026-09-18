@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2094298332852322331",
+    "created_at": "2026-08-31T05:44:27.000Z",
+    "display_text_range": [
+      15,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T06:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094300263591133213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937073350750466048",
+          "start": 0,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094300263591133213",
+    "in_reply_to_user_id": "1937073350750466048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094299997433131059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karo269640607 不知道璐璐姐尸检没有，感觉不像是呼吸抑制寄的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2094298332852322331",
+        "created_at": "2026-08-31T05:44:27.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094300263591133213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094300263591133213",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094299997433131059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 不知道璐璐姐尸检没有，感觉不像是呼吸抑制寄的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2094298332852322331",
+        "created_at": "2026-08-31T05:43:24.000Z",
+        "display_text_range": [
+          14,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094299997433131059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043745937298792448",
+              "start": 0,
+              "username": "ivan20221126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094299997433131059",
+        "in_reply_to_user_id": "2043745937298792448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094299653223469543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan20221126 不知道\n大概就是药商跟药师命都不长久吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2094300263591133213",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 168,
+          "like_count": 7452,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 718
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️| 同类互fo |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "is_identity_verified": false,
+        "location": "新西兰   奥克兰",
+        "most_recent_tweet_id": "2094300020858335604",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937073350750466048/1772488051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 802,
+          "like_count": 49018,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 10562
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096276967259816149",
+    "created_at": "2026-09-05T16:39:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096276967259816149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986452594206838785",
+          "start": 3,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096276967259816149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096263531910033550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Idontselldrug: 今天给大家讲解一下od俗称药滥用,本质也算一种亚文化他们常吃的药物一般都是愈美片,里面含右美沙芬他们是主要吃这个前几年右美还没有被国家管制,但是他们那些od的就是频繁发在网上教唆他人od国家开始管制,本质和吸毒没什么太大区别可以理解成吸毒但…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096276967259816149",
+        "created_at": "2026-09-05T16:39:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096276967259816149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1986452594206838785",
+              "start": 3,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096276967259816149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096263531910033550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Idontselldrug: 今天给大家讲解一下od俗称药滥用,本质也算一种亚文化他们常吃的药物一般都是愈美片,里面含右美沙芬他们是主要吃这个前几年右美还没有被国家管制,但是他们那些od的就是频繁发在网上教唆他人od国家开始管制,本质和吸毒没什么太大区别可以理解成吸毒但…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2096263531910033550",
+        "created_at": "2026-09-05T15:45:47.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096263531910033550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096263531910033550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天给大家讲解一下od俗称药滥用,本质也算一种亚文化他们常吃的药物一般都是愈美片,里面含右美沙芬他们是主要吃这个前几年右美还没有被国家管制,但是他们那些od的就是频繁发在网上教唆他人od国家开始管制,本质和吸毒没什么太大区别可以理解成吸毒但是不像吸毒危害那么大,况且我们要分清心理成瘾和肉体成瘾就像喝酒一样有的人没有肉体成瘾但是就是想喝酒,但是喝酒长期喝酒会导致肉体成瘾不喝酒会导致失眠, 他们吃的某些药物有些会导致心理成瘾有的也会导致肉体成瘾最典型的,就是普瑞巴林主要就是治疗神经痛的但是他们滥用如果突然戒断的话会出现焦虑失眠"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天给大家讲解一下od俗称药滥用,本质也算一种亚文化他们常吃的药物一般都是愈美片,里面含右美沙芬他们是主要吃这个前几年右美还没有被国家管制,但是他们那些od的就是频繁发在网上教唆他人od国家开始管制,本质和吸毒没什么太大区别可以理解成吸毒但是不像吸毒危害那么大,况且我们要分清心理成瘾和肉体"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096276967259816149",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 169,
+          "like_count": 8123,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2096263531910033550",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 341,
+          "like_count": 3778,
+          "listed_count": 0,
+          "media_count": 637,
+          "tweet_count": 4003
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

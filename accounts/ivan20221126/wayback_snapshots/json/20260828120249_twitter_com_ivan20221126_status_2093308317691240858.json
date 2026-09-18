@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2093306566208553057",
+    "created_at": "2026-08-28T12:02:49.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T13:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093308317691240858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1456231777224347651",
+          "start": 0,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093308317691240858",
+    "in_reply_to_user_id": "1456231777224347651",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093306566208553057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dDguwkiRkZcCSrt 单日20克吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2093306566208553057",
+        "created_at": "2026-08-28T12:02:49.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093308317691240858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456231777224347651",
+              "start": 0,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093308317691240858",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093306566208553057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 单日20克吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456231777224347651",
+        "conversation_id": "2093306566208553057",
+        "created_at": "2026-08-28T11:55:51.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093306566208553057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093306566208553057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒精带来欣快的剂量是肯定过量的。\n\n危害相对低的剂量是男的单日14克？但14克酒精的量是达不到欣快感受的。\n\n就我个人感受，酒精欣快感就是维持在一个区间。超过了后会感觉像挨了一闷棍。本质上在达到那个区间后一点点喝，就是尽量把感觉保持在那个区间内。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2093308317691240858",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 168,
+          "like_count": 7290,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "想要活很久",
+        "id": "1456231777224347651",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093306940243968089",
+        "name": "徐翔",
+        "pinned_tweet_id": "2043152868023345413",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 104,
+          "like_count": 4750,
+          "listed_count": 0,
+          "media_count": 833,
+          "tweet_count": 12224
+        },
+        "url": "",
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094450864811630592",
+        "3_2094450864866131968"
+      ],
+      "media_source_tweet_id": [
+        "2094451314755522612",
+        "2094451314755522612"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2094704873183035431",
+    "created_at": "2026-09-01T08:32:14.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094704873183035431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2051886079134089216",
+          "start": 3,
+          "username": "AdiWolfie1000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/avuSUeYTBk",
+          "end": 78,
+          "expanded_url": "https://x.com/AdiWolfie1000/status/2094451314755522612/photo/1",
+          "media_key": "3_2094450864811630592",
+          "start": 55,
+          "url": "https://t.co/avuSUeYTBk"
+        },
+        {
+          "display_url": "pic.x.com/avuSUeYTBk",
+          "end": 78,
+          "expanded_url": "https://x.com/AdiWolfie1000/status/2094451314755522612/photo/1",
+          "media_key": "3_2094450864866131968",
+          "start": 55,
+          "url": "https://t.co/avuSUeYTBk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094704873183035431",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2094450864811630592"
+      },
+      {
+        "media_key": "3_2094450864866131968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1314
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094451314755522612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AdiWolfie1000: i just want my friend eyes suffer 😌 https://t.co/avuSUeYTBk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2094450864811630592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD79vSbYAAHOv-.jpg",
+        "width": 1803
+      },
+      {
+        "height": 2500,
+        "media_key": "3_2094450864866131968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD79vfbAAAN7Xj.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094450864811630592",
+            "3_2094450864866131968"
+          ],
+          "media_source_tweet_id": [
+            "2094451314755522612",
+            "2094451314755522612"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2094704873183035431",
+        "created_at": "2026-09-01T08:32:14.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094704873183035431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2051886079134089216",
+              "start": 3,
+              "username": "AdiWolfie1000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/avuSUeYTBk",
+              "end": 78,
+              "expanded_url": "https://x.com/AdiWolfie1000/status/2094451314755522612/photo/1",
+              "media_key": "3_2094450864811630592",
+              "start": 55,
+              "url": "https://t.co/avuSUeYTBk"
+            },
+            {
+              "display_url": "pic.x.com/avuSUeYTBk",
+              "end": 78,
+              "expanded_url": "https://x.com/AdiWolfie1000/status/2094451314755522612/photo/1",
+              "media_key": "3_2094450864866131968",
+              "start": 55,
+              "url": "https://t.co/avuSUeYTBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094704873183035431",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094450864811630592"
+          },
+          {
+            "media_key": "3_2094450864866131968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1314
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094451314755522612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AdiWolfie1000: i just want my friend eyes suffer 😌 https://t.co/avuSUeYTBk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094450864811630592",
+            "3_2094450864866131968"
+          ]
+        },
+        "author_id": "2051886079134089216",
+        "conversation_id": "2094451314755522612",
+        "created_at": "2026-08-31T15:44:41.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094451314755522612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/avuSUeYTBk",
+              "end": 59,
+              "expanded_url": "https://x.com/AdiWolfie1000/status/2094451314755522612/photo/1",
+              "media_key": "3_2094450864811630592",
+              "start": 36,
+              "url": "https://t.co/avuSUeYTBk"
+            },
+            {
+              "display_url": "pic.x.com/avuSUeYTBk",
+              "end": 59,
+              "expanded_url": "https://x.com/AdiWolfie1000/status/2094451314755522612/photo/1",
+              "media_key": "3_2094450864866131968",
+              "start": 36,
+              "url": "https://t.co/avuSUeYTBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094451314755522612",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094450864811630592"
+          },
+          {
+            "media_key": "3_2094450864866131968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2926,
+          "impression_count": 517867,
+          "like_count": 12456,
+          "quote_count": 266,
+          "reply_count": 228,
+          "retweet_count": 1314
+        },
+        "reply_settings": "everyone",
+        "text": "i just want my friend eyes suffer 😌 https://t.co/avuSUeYTBk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2094704873183035431",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 169,
+          "like_count": 7639,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 729
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T04:47:08.000Z",
+        "description": "bored weird Artist who draw stupid art\nI'm not promoting any hateful ideology and I'm not a n@zi\nif this not your things please block me I'm just a weirdo",
+        "id": "2051886079134089216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094452034162585700",
+        "name": "AdiWolf",
+        "pinned_tweet_id": "2052043755105247671",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051886731499360256/vA6cFlqD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 3,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "AdiWolfie1000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

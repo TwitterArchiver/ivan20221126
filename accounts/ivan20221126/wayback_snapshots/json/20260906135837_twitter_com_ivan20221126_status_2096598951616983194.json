@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2096579177864634587",
+    "created_at": "2026-09-06T13:58:37.000Z",
+    "display_text_range": [
+      16,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096598951616983194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028661027647422465",
+          "start": 0,
+          "username": "nycteasio78869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096598951616983194",
+    "in_reply_to_user_id": "2028661027647422465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096581127465209955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nycteasio78869 这就是他的营销方式啊，大海航行靠舵手，推特醋汁靠▇▇🤣🤣"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2096581127465209955].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2096581127465209955",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2096581127465209955"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2096579177864634587",
+        "created_at": "2026-09-06T13:58:37.000Z",
+        "display_text_range": [
+          16,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096598951616983194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028661027647422465",
+              "start": 0,
+              "username": "nycteasio78869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096598951616983194",
+        "in_reply_to_user_id": "2028661027647422465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096581127465209955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nycteasio78869 这就是他的营销方式啊，大海航行靠舵手，推特醋汁靠▇▇🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2096598951616983194",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 168,
+          "like_count": 8158,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 767
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-03T02:37:45.000Z",
+        "description": "贺建奎还我猫娘 ！",
+        "id": "2028661027647422465",
+        "is_identity_verified": false,
+        "location": "they/them",
+        "most_recent_tweet_id": "2096554106857169242",
+        "name": "Nycteasio",
+        "pinned_tweet_id": "2086450571360563625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028661027647422465/1772603896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082343048537952256/ve0cTqeV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 107,
+          "like_count": 8475,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1188
+        },
+        "url": "",
+        "username": "nycteasio78869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

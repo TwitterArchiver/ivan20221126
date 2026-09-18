@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2098390728007409730",
+    "created_at": "2026-09-11T12:38:30.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098390728007409730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pbpp10521715/s…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/pbpp10521715/status/2098378648348983686",
+          "start": 97,
+          "url": "https://t.co/HmaLMZ1D6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098390728007409730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098378648348983686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这还有什么不称职的，不报警把你送戒毒所两年强戒都已经烧高香了。自己瞎用挂了能怪谁，难道你父母还要时时刻刻看你血氧看你心率还要学药理学学怎么把你那糟糕的药物尝试逆转回来吗。自己都不在乎还能怎么办 https://t.co/HmaLMZ1D6y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2098390728007409730",
+        "created_at": "2026-09-11T12:38:30.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098390728007409730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pbpp10521715/s…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/pbpp10521715/status/2098378648348983686",
+              "start": 97,
+              "url": "https://t.co/HmaLMZ1D6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098390728007409730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098378648348983686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这还有什么不称职的，不报警把你送戒毒所两年强戒都已经烧高香了。自己瞎用挂了能怪谁，难道你父母还要时时刻刻看你血氧看你心率还要学药理学学怎么把你那糟糕的药物尝试逆转回来吗。自己都不在乎还能怎么办 https://t.co/HmaLMZ1D6y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "conversation_id": "2098328584519917662",
+        "created_at": "2026-09-11T11:50:30.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098378648348983686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022874915012333568",
+              "start": 0,
+              "username": "liyfn130024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098378648348983686",
+        "in_reply_to_user_id": "2022874915012333568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098328584519917662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyfn130024 家长某种意义上挺不称职的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2098390728007409730",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 176,
+          "like_count": 8578,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 801
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "哇！啊！你们fo得也太快了！",
+        "id": "1421301972007849986",
+        "is_identity_verified": false,
+        "location": "Mongolia",
+        "most_recent_tweet_id": "2098380844062953782",
+        "name": "咪咪摸摸",
+        "pinned_tweet_id": "2096746811218330069",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1421301972007849986/1789066967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675109537091584/VK9tOAeJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12255,
+          "following_count": 512,
+          "like_count": 24687,
+          "listed_count": 23,
+          "media_count": 932,
+          "tweet_count": 9999
+        },
+        "url": "",
+        "username": "pbpp10521715",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-15T03:25:57.000Z",
+        "description": "不要再醒来了",
+        "id": "2022874915012333568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098331483819897247",
+        "name": "#dpt不好体验分享",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022874915012333568/1785722185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 124,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "liyfn130024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

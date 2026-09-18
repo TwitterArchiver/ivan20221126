@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2092598396339302620",
+    "created_at": "2026-08-26T15:07:31.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092630024738521567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907414826101669888",
+          "start": 0,
+          "username": "JamFarewellSong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092630024738521567",
+    "in_reply_to_user_id": "1907414826101669888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092598396339302620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JamFarewellSong 汕头那个吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2092598019531354112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpmz8vaMAAH6Rm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2092598396339302620",
+        "created_at": "2026-08-26T15:07:31.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092630024738521567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907414826101669888",
+              "start": 0,
+              "username": "JamFarewellSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092630024738521567",
+        "in_reply_to_user_id": "1907414826101669888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092598396339302620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamFarewellSong 汕头那个吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092598019531354112"
+          ]
+        },
+        "author_id": "1907414826101669888",
+        "conversation_id": "2092598396339302620",
+        "created_at": "2026-08-26T13:01:50.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092598396339302620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4QphonyYc",
+              "end": 87,
+              "expanded_url": "https://x.com/JamFarewellSong/status/2092598396339302620/photo/1",
+              "media_key": "3_2092598019531354112",
+              "start": 64,
+              "url": "https://t.co/O4QphonyYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092598396339302620",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092598019531354112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又在吸食草的尸体…其实我是一个不那么有趣的人\n橙子在上厕所，此刻我很想她。不，应该说离开老家去旅游的第一天就开始想了(′Д`) https://t.co/O4QphonyYc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2092630024738521567",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 168,
+          "like_count": 7156,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "the Bone Gatherer；电波系中央空调；MtX（断糖中）&泛性恋&ASD&BPD&CPTSD，性别/身材焦虑；od&自伤新手；文娱杂食党，Gore爱好者；心目中主观排行第一的乐队：“神聖かまってちゃん”，其次是“未來電波基地”；“如果海洋注定要决堤，就让所有的苦水都注入我心中”\n欢迎大家都来扩列互fo喵😇",
+        "id": "1907414826101669888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092598396339302620",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907414826101669888/1775085260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 1735,
+          "like_count": 7180,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1773
+        },
+        "url": "",
+        "username": "JamFarewellSong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

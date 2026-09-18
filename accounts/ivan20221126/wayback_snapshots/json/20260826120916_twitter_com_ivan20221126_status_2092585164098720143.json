@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2092302967055810581",
+    "created_at": "2026-08-26T12:09:16.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092585164098720143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1924482734396997632",
+          "start": 0,
+          "username": "_vvni_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092585164098720143",
+    "in_reply_to_user_id": "1924482734396997632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092302967055810581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_vvni_ 可乐粉是阿片嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2092302967055810581",
+        "created_at": "2026-08-26T12:09:16.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092585164098720143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1924482734396997632",
+              "start": 0,
+              "username": "_vvni_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092585164098720143",
+        "in_reply_to_user_id": "1924482734396997632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092302967055810581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vvni_ 可乐粉是阿片嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924482734396997632",
+        "conversation_id": "2092302967055810581",
+        "created_at": "2026-08-25T17:27:55.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092302967055810581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2092217871711539294",
+              "start": 21,
+              "url": "https://t.co/vjg1HYAR7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092302967055810581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092217871711539294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很好奇可卡因这种阿片是怎么和哌甲酯比的 https://t.co/vjg1HYAR7c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2092585164098720143",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 168,
+          "like_count": 7147,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/christina40514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/christina40514",
+                "start": 0,
+                "url": "https://t.co/VZuVq6bf2k"
+              }
+            ]
+          }
+        },
+        "id": "1924482734396997632",
+        "is_identity_verified": false,
+        "location": "被窝",
+        "most_recent_tweet_id": "2092315916537336148",
+        "name": "Vvni(发不出回复版)",
+        "pinned_tweet_id": "2066567996567339234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924482734396997632/1760787529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 352,
+          "like_count": 50978,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1644
+        },
+        "url": "https://t.co/VZuVq6bf2k",
+        "username": "_vvni_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
