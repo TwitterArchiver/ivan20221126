@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2100593932237500523",
+    "created_at": "2026-09-17T23:21:14.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T00:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100726805892329886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431992822",
+          "start": 0,
+          "username": "lianyu_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100726805892329886",
+    "in_reply_to_user_id": "1431992822",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100593932237500523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianyu_official 要不喝喝清酒以外的酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2100593932237500523",
+        "created_at": "2026-09-17T23:21:14.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T00:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100726805892329886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431992822",
+              "start": 0,
+              "username": "lianyu_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100726805892329886",
+        "in_reply_to_user_id": "1431992822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100593932237500523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianyu_official 要不喝喝清酒以外的酒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431992822",
+        "conversation_id": "2100593932237500523",
+        "created_at": "2026-09-17T14:33:15.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100593932237500523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nini_incrypto_…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/nini_incrypto_/status/2100533246098538764",
+              "start": 46,
+              "url": "https://t.co/oMFpMLHo7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100593932237500523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100533246098538764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们钱多也会很烦恼的。。。各种美味都吃过了感觉现在都没有吃饭的欲望了，还是喝酒更舒服一些 https://t.co/oMFpMLHo7R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2100726805892329886",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 180,
+          "like_count": 9137,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 852
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-05-16T02:37:16.000Z",
+        "description": "是来自B站的vtuber怜雨_official，希望能在这里带大家找到每一个人的幸福喵|CityU BME本科在读|English/中文 is ok|green hand with 日本语 but I'm trying to learn it!",
+        "id": "1431992822",
+        "is_identity_verified": false,
+        "location": "HONG KONG China",
+        "most_recent_tweet_id": "2100614321692942785",
+        "name": "怜雨_official",
+        "pinned_tweet_id": "2084098359850303693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431992822/1785678820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083914069132886016/h7rLDcBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 407,
+          "like_count": 6815,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 763
+        },
+        "url": "",
+        "username": "lianyu_official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

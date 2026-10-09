@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106005696886067203"
+      ],
+      "media_source_tweet_id": [
+        "2106005871683657950"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2106216398884344027",
+    "created_at": "2026-10-03T02:54:55.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T03:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106216398884344027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1930803870680436736",
+          "start": 3,
+          "username": "Pirata1716601"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BhaueQoWTB",
+          "end": 108,
+          "expanded_url": "https://x.com/Pirata1716601/status/2106005871683657950/video/1",
+          "media_key": "13_2106005696886067203",
+          "start": 85,
+          "url": "https://t.co/BhaueQoWTB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106216398884344027",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "13_2106005696886067203"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 380
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106005871683657950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pirata1716601: \"El mes de prevención del suicidio ha terminado, matémonos todos\" https://t.co/BhaueQoWTB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5717,
+        "height": 1294,
+        "media_key": "13_2106005696886067203",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106005696886067203/img/XxYBp7SBJmVv8Qwr.jpg",
+        "public_metrics": {
+          "view_count": 16596
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106005696886067203/vid/avc1/320x382/hTPfeCgkVSsfheE4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106005696886067203/vid/avc1/480x574/QLgDhnZxbwx05Jsx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106005696886067203/vid/avc1/720x862/LJEDyHFjZx0-Ct4q.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106005696886067203/pl/7Tw_jr2GOwy1DCuv.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106005696886067203"
+          ],
+          "media_source_tweet_id": [
+            "2106005871683657950"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2106216398884344027",
+        "created_at": "2026-10-03T02:54:55.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106216398884344027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1930803870680436736",
+              "start": 3,
+              "username": "Pirata1716601"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhaueQoWTB",
+              "end": 108,
+              "expanded_url": "https://x.com/Pirata1716601/status/2106005871683657950/video/1",
+              "media_key": "13_2106005696886067203",
+              "start": 85,
+              "url": "https://t.co/BhaueQoWTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106216398884344027",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2106005696886067203"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106005871683657950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pirata1716601: \"El mes de prevención del suicidio ha terminado, matémonos todos\" https://t.co/BhaueQoWTB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106005696886067203"
+          ]
+        },
+        "author_id": "1930803870680436736",
+        "conversation_id": "2106005871683657950",
+        "created_at": "2026-10-02T12:58:22.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106005871683657950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhaueQoWTB",
+              "end": 89,
+              "expanded_url": "https://x.com/Pirata1716601/status/2106005871683657950/video/1",
+              "media_key": "13_2106005696886067203",
+              "start": 66,
+              "url": "https://t.co/BhaueQoWTB"
+            },
+            {
+              "display_url": "x.com/dykek1ng/statu…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/dykek1ng/status/2105510836966215742",
+              "start": 90,
+              "url": "https://t.co/UnetO0l2ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106005871683657950",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2106005696886067203"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 351,
+          "impression_count": 31901,
+          "like_count": 4013,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105510836966215742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"El mes de prevención del suicidio ha terminado, matémonos todos\" https://t.co/BhaueQoWTB https://t.co/UnetO0l2ar"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2106216398884344027",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 187,
+          "like_count": 9973,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 927
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-06T01:48:22.000Z",
+        "description": "Cipayo.",
+        "id": "1930803870680436736",
+        "is_identity_verified": false,
+        "location": "Córdoba ",
+        "most_recent_tweet_id": "2106203151808471218",
+        "name": "PETER THIEL ANIQUILANDO EL BARRIO PADRE MUGICA",
+        "pinned_tweet_id": "2105382004237975893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1930803870680436736/1790228823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935018195879915520/h9V9i7yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 1095,
+          "like_count": 63228,
+          "listed_count": 1,
+          "media_count": 990,
+          "tweet_count": 7326
+        },
+        "url": "",
+        "username": "Pirata1716601",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

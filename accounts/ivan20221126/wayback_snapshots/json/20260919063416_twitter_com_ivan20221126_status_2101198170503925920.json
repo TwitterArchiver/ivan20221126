@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101198156457484288",
+        "3_2101198164351209472"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101198170503925920",
+    "created_at": "2026-09-19T06:34:16.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T07:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101198170503925920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5sZ3wFHgQo",
+          "end": 31,
+          "expanded_url": "https://x.com/ivan20221126/status/2101198170503925920/photo/1",
+          "media_key": "3_2101198156457484288",
+          "start": 8,
+          "url": "https://t.co/5sZ3wFHgQo"
+        },
+        {
+          "display_url": "pic.x.com/5sZ3wFHgQo",
+          "end": 31,
+          "expanded_url": "https://x.com/ivan20221126/status/2101198170503925920/photo/1",
+          "media_key": "3_2101198164351209472",
+          "start": 8,
+          "url": "https://t.co/5sZ3wFHgQo"
+        },
+        {
+          "display_url": "x.com/ivan20221126/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/ivan20221126/status/2101195154845835698",
+          "start": 32,
+          "url": "https://t.co/sb0PteaSll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101198170503925920",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101198156457484288"
+      },
+      {
+        "media_key": "3_2101198164351209472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101195154845835698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全家活光光😂😂 https://t.co/5sZ3wFHgQo https://t.co/sb0PteaSll"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_2101198156457484288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSj0lzZaoAAgovq.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2101198164351209472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSj0mQzbUAAgKB2.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101198156457484288",
+            "3_2101198164351209472"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101198170503925920",
+        "created_at": "2026-09-19T06:34:16.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101198170503925920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sZ3wFHgQo",
+              "end": 31,
+              "expanded_url": "https://x.com/ivan20221126/status/2101198170503925920/photo/1",
+              "media_key": "3_2101198156457484288",
+              "start": 8,
+              "url": "https://t.co/5sZ3wFHgQo"
+            },
+            {
+              "display_url": "pic.x.com/5sZ3wFHgQo",
+              "end": 31,
+              "expanded_url": "https://x.com/ivan20221126/status/2101198170503925920/photo/1",
+              "media_key": "3_2101198164351209472",
+              "start": 8,
+              "url": "https://t.co/5sZ3wFHgQo"
+            },
+            {
+              "display_url": "x.com/ivan20221126/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ivan20221126/status/2101195154845835698",
+              "start": 32,
+              "url": "https://t.co/sb0PteaSll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101198170503925920",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101198156457484288"
+          },
+          {
+            "media_key": "3_2101198164351209472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101195154845835698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全家活光光😂😂 https://t.co/5sZ3wFHgQo https://t.co/sb0PteaSll"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2101195154845835698",
+        "created_at": "2026-09-19T06:22:17.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101195154845835698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/d9nmTTT/status…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/d9nmTTT/status/2101167943652712661",
+              "start": 68,
+              "url": "https://t.co/7GeOUDfoyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101195154845835698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101167943652712661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药商高价倒固然可耻，但是用从源革这拿到的货倒卖更是低能中的低能😅😅，合着你之前在tg里的表现就是为了还能从源革拿货是吗，真是脸都不要了 https://t.co/7GeOUDfoyW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2101198170503925920",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 180,
+          "like_count": 9253,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 869
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

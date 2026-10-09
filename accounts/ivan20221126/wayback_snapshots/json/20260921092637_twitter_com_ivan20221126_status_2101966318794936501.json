@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2101926817032790471",
+    "created_at": "2026-09-21T09:26:37.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101966318794936501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1507522456180854784",
+          "start": 0,
+          "username": "drug_artistgod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101966318794936501",
+    "in_reply_to_user_id": "1507522456180854784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101926817032790471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artistgod 披露一下利润率"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2101926817032790471",
+        "created_at": "2026-09-21T09:26:37.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101966318794936501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1507522456180854784",
+              "start": 0,
+              "username": "drug_artistgod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101966318794936501",
+        "in_reply_to_user_id": "1507522456180854784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101926817032790471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artistgod 披露一下利润率"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507522456180854784",
+        "conversation_id": "2101926817032790471",
+        "created_at": "2026-09-21T06:49:39.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101926817032790471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101926817032790471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是沐雨\n我其实想通了\n我不会再有自伤自杀行为了\n普瑞和一些NPS（RC）生意\n我将会很快重新拾起来\n所有物质成分全部公开\n我要赚钱赚钱赚钱\n当然我会做到最好 客户满意为止\n无关药物百科和相关组织\n\n现在是团队商家\n名人堂梦工厂- 沐雨#角宿一"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2101966318794936501",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 184,
+          "like_count": 9456,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-26T00:59:12.000Z",
+        "description": "前药物百科wiki主|投稿报告请私信我|4i男娘INFPI|愿每一位药物滥用者都能脱离深渊|\n提供药物/精神病咨询|im crazy! 年号雨玄二年\n名人堂梦工厂-沐雨 零售试剂产品联系我的https://t.co/QsZVHyAmQG \n我的双子星：@qiyueqiye11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 126,
+                "username": "qiyueqiye11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 118,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 95,
+                "url": "https://t.co/QsZVHyAmQG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/fB5xuitaE8"
+              }
+            ]
+          }
+        },
+        "id": "1507522456180854784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101933820400615857",
+        "name": "沐雨#角宿一",
+        "pinned_tweet_id": "2101933820400615857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1507522456180854784/1789971709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101919809571373056/SrVBDs-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 42,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/fB5xuitaE8",
+        "username": "drug_artistgod",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106296995682136064"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106297006415307126",
+    "created_at": "2026-10-03T08:15:14.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106297006415307126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A7BcyM3Oom",
+          "end": 29,
+          "expanded_url": "https://x.com/ivan20221126/status/2106297006415307126/photo/1",
+          "media_key": "3_2106296995682136064",
+          "start": 6,
+          "url": "https://t.co/A7BcyM3Oom"
+        },
+        {
+          "display_url": "x.com/x1wtgywb/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/x1wtgywb/status/2106006328514924715",
+          "start": 30,
+          "url": "https://t.co/40DOMKf6Pf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106297006415307126",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106296995682136064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106006328514924715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请输入文本 https://t.co/A7BcyM3Oom https://t.co/40DOMKf6Pf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2101,
+        "media_key": "3_2106296995682136064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsR9TsbMAA48MM.jpg",
+        "width": 1263
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2106006315684478976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToJlgUaQAArxOH.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106296995682136064"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106297006415307126",
+        "created_at": "2026-10-03T08:15:14.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106297006415307126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7BcyM3Oom",
+              "end": 29,
+              "expanded_url": "https://x.com/ivan20221126/status/2106297006415307126/photo/1",
+              "media_key": "3_2106296995682136064",
+              "start": 6,
+              "url": "https://t.co/A7BcyM3Oom"
+            },
+            {
+              "display_url": "x.com/x1wtgywb/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/x1wtgywb/status/2106006328514924715",
+              "start": 30,
+              "url": "https://t.co/40DOMKf6Pf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106297006415307126",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106296995682136064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106006328514924715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请输入文本 https://t.co/A7BcyM3Oom https://t.co/40DOMKf6Pf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106006315684478976"
+          ]
+        },
+        "author_id": "2096841020331978753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106006328514924715",
+        "created_at": "2026-10-02T13:00:11.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106006328514924715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/syZGul18Sv",
+              "end": 37,
+              "expanded_url": "https://x.com/x1wtgywb/status/2106006328514924715/photo/1",
+              "media_key": "3_2106006315684478976",
+              "start": 14,
+              "url": "https://t.co/syZGul18Sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106006328514924715",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106006315684478976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦，哦，嗯哦啊嗯啊。哦。 https://t.co/syZGul18Sv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2106297006415307126",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 187,
+          "like_count": 9992,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:01:47.000Z",
+        "description": "=叉一/扶扶 倒垃圾流水账twt 上x只为看黄片#经资潮酷右逼z世代潮酷奇搞哲b骚孩间性人跨性别男的低道德自恋精神分裂精神病态穷惨底层社会寄生虫世俗迂腐本质后现代犬儒三好健全日子人吸毒od 没几把的假矮子心态有病的女人 中国佬，你生活怎么样？我爱党爱国 米线高的滚出我的主页",
+        "id": "2096841020331978753",
+        "is_identity_verified": false,
+        "location": "🚪89/64",
+        "most_recent_tweet_id": "2106288815577174104",
+        "name": "x1",
+        "pinned_tweet_id": "2105613260749975803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096841020331978753/1790229652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104950029832343552/RNuhv2zL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 176,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "x1wtgywb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

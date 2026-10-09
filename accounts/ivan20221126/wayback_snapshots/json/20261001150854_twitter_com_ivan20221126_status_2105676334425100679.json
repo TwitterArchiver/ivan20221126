@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2105371500673151136",
+    "created_at": "2026-10-01T15:08:54.000Z",
+    "display_text_range": [
+      20,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T16:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105676334425100679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937925047458664449",
+          "start": 0,
+          "username": "WiaAir"
+        },
+        {
+          "end": 19,
+          "id": "2047454675230769152",
+          "start": 8,
+          "username": "rurika2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105676334425100679",
+    "in_reply_to_user_id": "1937925047458664449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105579039616311374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WiaAir @rurika2006 这个的戒断主要是抑郁，焦虑翻跳是真没bzd严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2105371500673151136",
+        "created_at": "2026-10-01T15:08:54.000Z",
+        "display_text_range": [
+          20,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105676334425100679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937925047458664449",
+              "start": 0,
+              "username": "WiaAir"
+            },
+            {
+              "end": 19,
+              "id": "2047454675230769152",
+              "start": 8,
+              "username": "rurika2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105676334425100679",
+        "in_reply_to_user_id": "1937925047458664449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105579039616311374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WiaAir @rurika2006 这个的戒断主要是抑郁，焦虑翻跳是真没bzd严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937925047458664449",
+        "conversation_id": "2105371500673151136",
+        "created_at": "2026-10-01T08:42:17.000Z",
+        "display_text_range": [
+          12,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105579039616311374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047454675230769152",
+              "start": 0,
+              "username": "rurika2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105579039616311374",
+        "in_reply_to_user_id": "2047454675230769152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105371500673151136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rurika2006 有用 但会物极必反。你越用它抗焦虑戒断反应就越会让你更焦虑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2105676334425100679",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 187,
+          "like_count": 9931,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T17:26:44.000Z",
+        "description": "可以叫我小寒或W！/生理心理女/INTP/自伤🔪/od💊/烟酒👌/脑残智障精神病/文艺消肿比/纯血铜仁钕/\n匿名提问：https://t.co/5QvclcWDDF\n1.0：@AirWiaAir\n🦋指路：ChillyWinter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "AirWiaAir"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/chilly_57586",
+                "end": 82,
+                "expanded_url": "https://ngl.link/chilly_57586",
+                "start": 59,
+                "url": "https://t.co/5QvclcWDDF"
+              }
+            ]
+          }
+        },
+        "id": "1937925047458664449",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105579039616311374",
+        "name": "小寒2.00000",
+        "pinned_tweet_id": "2103411386990968971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937925047458664449/1786469368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061314473768718337/LusnPfoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 208,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "WiaAir",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T23:16:59.000Z",
+        "description": "english/中文\n伴精双相/焦虑/ptsd/谱系+adhd/不od/戒🔪🩸中/精品神药品鉴员\n社科生/二次元/穿搭爱好者/无性恋喜好女/欢迎互fo",
+        "id": "2047454675230769152",
+        "is_identity_verified": false,
+        "location": "Asia",
+        "most_recent_tweet_id": "2105666155965006021",
+        "name": "琉璃花",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101841146292944896/1vpXJXT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 104,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "rurika2006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

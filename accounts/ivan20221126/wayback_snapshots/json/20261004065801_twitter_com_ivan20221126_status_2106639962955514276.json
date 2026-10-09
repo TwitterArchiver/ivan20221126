@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106356721807441920"
+      ],
+      "media_source_tweet_id": [
+        "2106356739788468635"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106639962955514276",
+    "created_at": "2026-10-04T06:58:01.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106639962955514276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1956460355174998016",
+          "start": 3,
+          "username": "Not_Fritz_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J6a9fdEfAo",
+          "end": 52,
+          "expanded_url": "https://x.com/Not_Fritz_/status/2106356739788468635/video/1",
+          "media_key": "13_2106356721807441920",
+          "start": 29,
+          "url": "https://t.co/J6a9fdEfAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106639962955514276",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2106356721807441920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106356739788468635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Not_Fritz_: Good morning https://t.co/J6a9fdEfAo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10633,
+        "height": 720,
+        "media_key": "13_2106356721807441920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106356721807441920/img/2ICh6ySxzUe-5quR.jpg",
+        "public_metrics": {
+          "view_count": 2544
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106356721807441920/vid/avc1/320x320/O4tJKkkRgi6bKFX9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106356721807441920/vid/avc1/540x540/J2MlgbLIWDhOWCsK.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106356721807441920/vid/avc1/720x720/ErfnoOtbZRHq6nRT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106356721807441920/pl/0rVFRoiD8a5_FYKf.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106356721807441920"
+          ],
+          "media_source_tweet_id": [
+            "2106356739788468635"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106639962955514276",
+        "created_at": "2026-10-04T06:58:01.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106639962955514276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1956460355174998016",
+              "start": 3,
+              "username": "Not_Fritz_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J6a9fdEfAo",
+              "end": 52,
+              "expanded_url": "https://x.com/Not_Fritz_/status/2106356739788468635/video/1",
+              "media_key": "13_2106356721807441920",
+              "start": 29,
+              "url": "https://t.co/J6a9fdEfAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106639962955514276",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106356721807441920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106356739788468635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Not_Fritz_: Good morning https://t.co/J6a9fdEfAo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106356721807441920"
+          ]
+        },
+        "author_id": "1956460355174998016",
+        "conversation_id": "2106356739788468635",
+        "created_at": "2026-10-03T12:12:35.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106356739788468635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J6a9fdEfAo",
+              "end": 36,
+              "expanded_url": "https://x.com/Not_Fritz_/status/2106356739788468635/video/1",
+              "media_key": "13_2106356721807441920",
+              "start": 13,
+              "url": "https://t.co/J6a9fdEfAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106356739788468635",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106356721807441920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 4850,
+          "like_count": 525,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "Good morning https://t.co/J6a9fdEfAo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2106639962955514276",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 187,
+          "like_count": 10038,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 930
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-15T20:58:04.000Z",
+        "description": "Hispanic (🇪🇸🇲🇽&🇺🇸) daily dose of Girls' Last Tour content, will occasionally post other things • priv: @Fritz_Private_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "Fritz_Private_"
+              }
+            ]
+          }
+        },
+        "id": "1956460355174998016",
+        "is_identity_verified": false,
+        "location": "age: 18",
+        "most_recent_tweet_id": "2106561035532452206",
+        "name": "𝙵𝚛𝚒𝚝𝚣",
+        "pinned_tweet_id": "2080137486236348508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956460355174998016/1790641710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105483831847378944/95hT2J05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6798,
+          "following_count": 829,
+          "like_count": 29839,
+          "listed_count": 21,
+          "media_count": 2669,
+          "tweet_count": 8402
+        },
+        "url": "",
+        "username": "Not_Fritz_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

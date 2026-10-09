@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2104145762280001985",
+    "created_at": "2026-09-27T09:46:57.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104145762280001985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678100718438449152",
+          "start": 3,
+          "username": "jinqianhanji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104145762280001985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104046412602478821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinqianhanji: 想象一下我是你的tcc男友，网上搜到学校建筑图，拿几个红笔随便画了一下路线，拿上弹弓跟自己朋友中午中秋节吃完饭骑着雅迪电瓶车来到学校开直播准备开杀，结果铁门锁了进不去，还被保安大爷骂了，灰溜溜骑电瓶车跑路下播回家继续吃月饼，沦为直播间几千人的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_2104046406071918592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTMTDwDaoAAIGsI.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2104145762280001985",
+        "created_at": "2026-09-27T09:46:57.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104145762280001985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678100718438449152",
+              "start": 3,
+              "username": "jinqianhanji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104145762280001985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104046412602478821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinqianhanji: 想象一下我是你的tcc男友，网上搜到学校建筑图，拿几个红笔随便画了一下路线，拿上弹弓跟自己朋友中午中秋节吃完饭骑着雅迪电瓶车来到学校开直播准备开杀，结果铁门锁了进不去，还被保安大爷骂了，灰溜溜骑电瓶车跑路下播回家继续吃月饼，沦为直播间几千人的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104046406071918592"
+          ]
+        },
+        "author_id": "1678100718438449152",
+        "conversation_id": "2104046412602478821",
+        "created_at": "2026-09-27T03:12:10.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104046412602478821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MmLy49n0w",
+              "end": 147,
+              "expanded_url": "https://x.com/jinqianhanji/status/2104046412602478821/photo/1",
+              "media_key": "3_2104046406071918592",
+              "start": 124,
+              "url": "https://t.co/7MmLy49n0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104046412602478821",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104046406071918592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 364,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的tcc男友，网上搜到学校建筑图，拿几个红笔随便画了一下路线，拿上弹弓跟自己朋友中午中秋节吃完饭骑着雅迪电瓶车来到学校开直播准备开杀，结果铁门锁了进不去，还被保安大爷骂了，灰溜溜骑电瓶车跑路下播回家继续吃月饼，沦为直播间几千人的笑柄 https://t.co/7MmLy49n0w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2104145762280001985",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 187,
+          "like_count": 9714,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 908
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-09T17:56:24.000Z",
+        "description": "るるじばここび、生活が気持ち",
+        "id": "1678100718438449152",
+        "is_identity_verified": false,
+        "location": "新大東亞共榮圈大中華帝國",
+        "most_recent_tweet_id": "2104136687828054223",
+        "name": "狂気电波精神病",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678100718438449152/1753966701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099395002032082944/kNlF44OK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 326,
+          "like_count": 6094,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 965
+        },
+        "url": "",
+        "username": "jinqianhanji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

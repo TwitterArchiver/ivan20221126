@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2100943050281455894",
+    "created_at": "2026-09-18T13:40:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100943050281455894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1567111980523130881",
+          "start": 3,
+          "username": "Stonez_420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100943050281455894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100740926414946466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stonez_420: 【速報】吸入大麻で心臓の期外収縮は増えなかった。むしろ減っていた——JACCの無作為クロスオーバー試験です。\n\n日常的に大麻を使う成人108人を、14日間、日ごとに「吸入する/控える」に無作為に割り付け。\nすると吸入日は期外収縮が約9%少なく、特…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2100943050281455894",
+        "created_at": "2026-09-18T13:40:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100943050281455894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1567111980523130881",
+              "start": 3,
+              "username": "Stonez_420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100943050281455894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100740926414946466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stonez_420: 【速報】吸入大麻で心臓の期外収縮は増えなかった。むしろ減っていた——JACCの無作為クロスオーバー試験です。\n\n日常的に大麻を使う成人108人を、14日間、日ごとに「吸入する/控える」に無作為に割り付け。\nすると吸入日は期外収縮が約9%少なく、特…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567111980523130881",
+        "conversation_id": "2100740926414946466",
+        "created_at": "2026-09-18T00:17:21.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T01:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100740926414946466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100740926414946466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "doi.org/10.1016/j.jacc…",
+                "end": 340,
+                "expanded_url": "https://doi.org/10.1016/j.jacc.2026.07.014",
+                "start": 317,
+                "url": "https://t.co/ZCzKGlwzwz"
+              }
+            ]
+          },
+          "text": "【速報】吸入大麻で心臓の期外収縮は増えなかった。むしろ減っていた——JACCの無作為クロスオーバー試験です。\n\n日常的に大麻を使う成人108人を、14日間、日ごとに「吸入する/控える」に無作為に割り付け。\nすると吸入日は期外収縮が約9%少なく、特に心房性の期外収縮が減っていました。\n歩数・睡眠時間・血糖値には差がなし。\n\nですが著者は「心血管に良いという意味ではない」と強く留保しています。\n離脱効果や割付の不完全さもあり、機序はまだ解釈できない、と。\n\n観察研究で言われてきた「大麻は心臓に悪い」と真逆の結果で、そこが一番おもしろいところです。🤔\n\n※使用を勧める話ではありません。\n\n出典: JACC (2026-08-12)\nhttps://t.co/ZCzKGlwzwz"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2961,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "【速報】吸入大麻で心臓の期外収縮は増えなかった。むしろ減っていた——JACCの無作為クロスオーバー試験です。\n\n日常的に大麻を使う成人108人を、14日間、日ごとに「吸入する/控える」に無作為に割り付け。\nすると吸入日は期外収縮が約9%少なく、特に心房性の期外収縮が減っていました。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2100943050281455894",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 179,
+          "like_count": 9220,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 863
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T11:26:43.000Z",
+        "description": "大人の自由研究【キマる草を探せ!!】検証中🖊|⚡️ 米国NO.1 Vapeブランド「Pulsar」日本総代理店 |🇯🇵 最新ヴェポライザー | 510規格バッテリー|クセのある表現力、文章力が強み🗒商品のレビュー承ります。ご依頼はDM📮|\n避難&Vape紹介アカウントはこちら👉@stonez__420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 139,
+                "username": "stonez__420"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "links.stonez420.jp",
+                "end": 23,
+                "expanded_url": "https://links.stonez420.jp/",
+                "start": 0,
+                "url": "https://t.co/gB0yIwsZuE"
+              }
+            ]
+          }
+        },
+        "id": "1567111980523130881",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100740958698492098",
+        "name": "𝐒𝐭𝐨𝐧𝐞𝐳 【キマる草を探せ!!】",
+        "pinned_tweet_id": "2098717305828262053",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567111980523130881/1723107293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651453546695385091/BdbZaTqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32312,
+          "following_count": 271,
+          "like_count": 2005,
+          "listed_count": 25,
+          "media_count": 533,
+          "tweet_count": 2087
+        },
+        "url": "https://t.co/gB0yIwsZuE",
+        "username": "Stonez_420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2106607551488163983",
+    "created_at": "2026-10-04T04:49:13.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106607551488163983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_girlarchive/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/_girlarchive/status/2098379225774330175",
+          "start": 16,
+          "url": "https://t.co/ZOZ7q6JNR3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106607551488163983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098379225774330175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太奇异了，白羽鸡支持肯德基😂😂 https://t.co/ZOZ7q6JNR3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2098379212545794048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7wxq_bIAA0Yiq.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2106607551488163983",
+        "created_at": "2026-10-04T04:49:13.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106607551488163983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_girlarchive/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/_girlarchive/status/2098379225774330175",
+              "start": 16,
+              "url": "https://t.co/ZOZ7q6JNR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106607551488163983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098379225774330175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太奇异了，白羽鸡支持肯德基😂😂 https://t.co/ZOZ7q6JNR3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098379212545794048"
+          ]
+        },
+        "author_id": "2023896719310905344",
+        "conversation_id": "2098379225774330175",
+        "created_at": "2026-09-11T11:52:48.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098379225774330175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwcsMe3MmI",
+              "end": 23,
+              "expanded_url": "https://x.com/_girlarchive/status/2098379225774330175/photo/1",
+              "media_key": "3_2098379212545794048",
+              "start": 0,
+              "url": "https://t.co/GwcsMe3MmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098379225774330175",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2098379212545794048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 427546,
+          "like_count": 4369,
+          "quote_count": 122,
+          "reply_count": 155,
+          "retweet_count": 853
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GwcsMe3MmI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2106607551488163983",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 187,
+          "like_count": 10020,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 929
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-17T23:06:18.000Z",
+        "description": "curated visuals | pretty things | daily inspiration",
+        "id": "2023896719310905344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106372036696424706",
+        "name": "˚₊",
+        "pinned_tweet_id": "2031957234046157175",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023896719310905344/1783158801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083382167577464832/Kr7z2mr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3796,
+          "following_count": 5,
+          "like_count": 40437,
+          "listed_count": 39,
+          "media_count": 6306,
+          "tweet_count": 7468
+        },
+        "url": "",
+        "username": "_girlarchive",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

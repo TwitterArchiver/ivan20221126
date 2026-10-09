@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2104829019971846483",
+    "created_at": "2026-09-29T07:01:58.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T08:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104829019971846483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/N3kuv/status/2…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/N3kuv/status/2104807843400409127",
+          "start": 18,
+          "url": "https://t.co/NcO3PnqfbV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104829019971846483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104807843400409127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "伊用剂量的啊噗就有强烈锌筷感了😇😇 https://t.co/NcO3PnqfbV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2104829019971846483",
+        "created_at": "2026-09-29T07:01:58.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T08:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104829019971846483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N3kuv/status/2…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/N3kuv/status/2104807843400409127",
+              "start": 18,
+              "url": "https://t.co/NcO3PnqfbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104829019971846483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104807843400409127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伊用剂量的啊噗就有强烈锌筷感了😇😇 https://t.co/NcO3PnqfbV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2104807843400409127",
+        "created_at": "2026-09-29T05:37:49.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104807843400409127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aranumono/stat…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/aranumono/status/2104767388680179876",
+              "start": 132,
+              "url": "https://t.co/ULytvbNRK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104807843400409127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104767388680179876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这点很有意思。我第一次尝试od阿普唑仑，有很明显的欣快感。后来查了一下阿普唑仑的欣快感取决于你有多焦虑，对于重度患者来说，第一次尝试中等到高剂量才可能会产生欣快。\n当然还是不推荐o阿普唑仑的，我以前转发过一个od阿普唑仑进精神病院的报告……（欣快也挑人和体质。） https://t.co/ULytvbNRK4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2104829019971846483",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 187,
+          "like_count": 9815,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "20 ⬇️ / 冲动自杀干预 • 药物咨询 请看我tg/不是药商，不贩卖列管药，不滥用任何物质/我没有任何药物渠道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+xJGsITQkFGMxN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+xJGsITQkFGMxNTM0",
+                "start": 0,
+                "url": "https://t.co/jM2uM0tOuC"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "is_identity_verified": false,
+        "location": "https://t.me/nekocaline",
+        "most_recent_tweet_id": "2104809612604231923",
+        "name": "天使糖",
+        "pinned_tweet_id": "2103393801754812563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476198137589268480/1790228628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100747986183815168/1nRI_rj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 674,
+          "like_count": 6846,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/jM2uM0tOuC",
+        "username": "N3kuv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2101302759593267519",
+    "created_at": "2026-09-20T02:05:02.000Z",
+    "display_text_range": [
+      10,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T03:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101492800982519872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "985466659929501696",
+          "start": 0,
+          "username": "Dolliso5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101492800982519872",
+    "in_reply_to_user_id": "985466659929501696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101302759593267519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dolliso5 本来他们那要不肥头大耳要不瘦成猴的样子就阳刚不到哪去，跟个太监一样还叫自己男人🤣🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2101302720149983233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlTsNgaEAElKLx.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2101302737757773824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlTtPGboAA_42K.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2101302759593267519",
+        "created_at": "2026-09-20T02:05:02.000Z",
+        "display_text_range": [
+          10,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101492800982519872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "985466659929501696",
+              "start": 0,
+              "username": "Dolliso5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101492800982519872",
+        "in_reply_to_user_id": "985466659929501696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101302759593267519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dolliso5 本来他们那要不肥头大耳要不瘦成猴的样子就阳刚不到哪去，跟个太监一样还叫自己男人🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101302720149983233",
+            "3_2101302737757773824"
+          ]
+        },
+        "author_id": "985466659929501696",
+        "conversation_id": "2101302759593267519",
+        "created_at": "2026-09-19T13:29:52.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101302759593267519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdD7A4ILim",
+              "end": 30,
+              "expanded_url": "https://x.com/Dolliso5/status/2101302759593267519/photo/1",
+              "media_key": "3_2101302720149983233",
+              "start": 7,
+              "url": "https://t.co/SdD7A4ILim"
+            },
+            {
+              "display_url": "pic.x.com/SdD7A4ILim",
+              "end": 30,
+              "expanded_url": "https://x.com/Dolliso5/status/2101302759593267519/photo/1",
+              "media_key": "3_2101302737757773824",
+              "start": 7,
+              "url": "https://t.co/SdD7A4ILim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101302759593267519",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101302720149983233"
+          },
+          {
+            "media_key": "3_2101302737757773824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3639,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阳刚羞辱🤮🤮 https://t.co/SdD7A4ILim"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2101492800982519872",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 182,
+          "like_count": 9348,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 876
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-15T10:35:35.000Z",
+        "description": "世界还有很多值得我们拯救的东西",
+        "id": "985466659929501696",
+        "is_identity_verified": false,
+        "location": "北京市景山前街4号（紫禁城）",
+        "most_recent_tweet_id": "2101450545194287450",
+        "name": "🏳️‍⚧️Gabriel小静",
+        "pinned_tweet_id": "2098399193081716990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/985466659929501696/1789082011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093161400491540481/wXnigpkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 308,
+          "like_count": 3282,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 1010
+        },
+        "url": "",
+        "username": "Dolliso5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103874551075778560"
+      ],
+      "media_source_tweet_id": [
+        "2103881006302584937"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2104044845371400291",
+    "created_at": "2026-09-27T03:05:57.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T04:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104044845371400291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2096605025653186560",
+          "start": 3,
+          "username": "ylgmxcb"
+        },
+        {
+          "end": 47,
+          "id": "2077732421488054272",
+          "start": 36,
+          "username": "FreePGBPlz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/krghEFOeo1",
+          "end": 114,
+          "expanded_url": "https://x.com/ylgmxcb/status/2103881006302584937/photo/1",
+          "media_key": "3_2103874551075778560",
+          "start": 91,
+          "url": "https://t.co/krghEFOeo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104044845371400291",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103874551075778560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103881006302584937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ylgmxcb: 325fo纪念\n重要消息：原料革命下属低价药商@FreePGBPlz即将恢复运营，目前暂定平壤槟榔价格为2.4r/g，1161预计将在一段时间后恢复售卖。 https://t.co/krghEFOeo1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2103874551075778560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJ2weTbMAAAXKr.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103874551075778560"
+          ],
+          "media_source_tweet_id": [
+            "2103881006302584937"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2104044845371400291",
+        "created_at": "2026-09-27T03:05:57.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104044845371400291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2096605025653186560",
+              "start": 3,
+              "username": "ylgmxcb"
+            },
+            {
+              "end": 47,
+              "id": "2077732421488054272",
+              "start": 36,
+              "username": "FreePGBPlz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/krghEFOeo1",
+              "end": 114,
+              "expanded_url": "https://x.com/ylgmxcb/status/2103881006302584937/photo/1",
+              "media_key": "3_2103874551075778560",
+              "start": 91,
+              "url": "https://t.co/krghEFOeo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104044845371400291",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103874551075778560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103881006302584937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ylgmxcb: 325fo纪念\n重要消息：原料革命下属低价药商@FreePGBPlz即将恢复运营，目前暂定平壤槟榔价格为2.4r/g，1161预计将在一段时间后恢复售卖。 https://t.co/krghEFOeo1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103874551075778560"
+          ]
+        },
+        "author_id": "2096605025653186560",
+        "conversation_id": "2103881006302584937",
+        "created_at": "2026-09-26T16:14:54.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103881006302584937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "2077732421488054272",
+              "start": 23,
+              "username": "FreePGBPlz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/krghEFOeo1",
+              "end": 101,
+              "expanded_url": "https://x.com/ylgmxcb/status/2103881006302584937/photo/1",
+              "media_key": "3_2103874551075778560",
+              "start": 78,
+              "url": "https://t.co/krghEFOeo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103881006302584937",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103874551075778560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 292,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "325fo纪念\n重要消息：原料革命下属低价药商@FreePGBPlz即将恢复运营，目前暂定平壤槟榔价格为2.4r/g，1161预计将在一段时间后恢复售卖。 https://t.co/krghEFOeo1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2104044845371400291",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 187,
+          "like_count": 9688,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 904
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T14:23:43.000Z",
+        "description": "原料革命是一个致力于提供药物信息，消除信息差所导致的不平等的在药圈活动的组织。\n本账号即代表，为原料革命的最重要一环——宣传，所兢兢业业的人们。\n原料革命下属低价药商：@freepgbplz\n原料革命自由宣传部：@freedogdrum\n原料革命最锋利的剑：@UWATCHLIFE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "freepgbplz"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "freedogdrum"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "UWATCHLIFE"
+              }
+            ]
+          }
+        },
+        "id": "2096605025653186560",
+        "is_identity_verified": false,
+        "location": "OD圈",
+        "most_recent_tweet_id": "2103881006302584937",
+        "name": "原料革命宣传部",
+        "pinned_tweet_id": "2096964371150999637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096605025653186560/1788779650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096919871372369920/iFcW2t6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 21,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "ylgmxcb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T12:36:56.000Z",
+        "description": "",
+        "id": "2077732421488054272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103705620071514157",
+        "name": "PGB",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077734428705771520/g4X7GxyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 3,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "FreePGBPlz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

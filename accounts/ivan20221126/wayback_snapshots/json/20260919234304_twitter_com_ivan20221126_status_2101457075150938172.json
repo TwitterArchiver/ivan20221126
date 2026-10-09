@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2101387019662536769",
+    "created_at": "2026-09-19T23:43:04.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T00:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101457075150938172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860970079246303232",
+          "start": 0,
+          "username": "1ju3twant2die"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101457075150938172",
+    "in_reply_to_user_id": "1860970079246303232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101387019662536769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ju3twant2die 哪来的，给我一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2101387010615488512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSmgWj9bMAAAF4I.jpg",
+        "width": 1081
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101387010619678721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSmgWj-bIAElZOV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2101387019662536769",
+        "created_at": "2026-09-19T23:43:04.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T00:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101457075150938172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860970079246303232",
+              "start": 0,
+              "username": "1ju3twant2die"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101457075150938172",
+        "in_reply_to_user_id": "1860970079246303232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101387019662536769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ju3twant2die 哪来的，给我一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101387010615488512",
+            "3_2101387010619678721"
+          ]
+        },
+        "author_id": "1860970079246303232",
+        "conversation_id": "2101387019662536769",
+        "created_at": "2026-09-19T19:04:42.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T20:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101387019662536769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZyWyi8Lc0O",
+              "end": 23,
+              "expanded_url": "https://x.com/1ju3twant2die/status/2101387019662536769/photo/1",
+              "media_key": "3_2101387010615488512",
+              "start": 0,
+              "url": "https://t.co/ZyWyi8Lc0O"
+            },
+            {
+              "display_url": "pic.x.com/ZyWyi8Lc0O",
+              "end": 23,
+              "expanded_url": "https://x.com/1ju3twant2die/status/2101387019662536769/photo/1",
+              "media_key": "3_2101387010619678721",
+              "start": 0,
+              "url": "https://t.co/ZyWyi8Lc0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101387019662536769",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101387010615488512"
+          },
+          {
+            "media_key": "3_2101387010619678721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZyWyi8Lc0O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2101457075150938172",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 180,
+          "like_count": 9310,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 875
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-25T08:53:51.000Z",
+        "description": "Post-structuralism｜Anarcho-monarchism｜Psychoanalysis｜Drug｜ Low-Functioning Antisocial Personality Disorder｜Satanism",
+        "id": "1860970079246303232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101418947644170485",
+        "name": "椎名依子",
+        "pinned_tweet_id": "2079788052814450690",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860970079246303232/1788364230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100193047149785088/Q8eIlOiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 147,
+          "like_count": 1269,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1028
+        },
+        "url": "",
+        "username": "1ju3twant2die",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

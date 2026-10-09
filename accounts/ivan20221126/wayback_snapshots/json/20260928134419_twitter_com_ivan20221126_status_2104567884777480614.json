@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2104567884777480614",
+    "created_at": "2026-09-28T13:44:19.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104567884777480614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2018580567282122752",
+          "start": 3,
+          "username": "to__africa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104567884777480614",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104555170839580880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @to__africa: 3年間植物人間状態だった男性が睡眠薬のゾルピデム（マイスリー、Ambien）10mgを飲ませると約4時間だけ目が覚め、普通の会話ができるまで回復する謎の現象\n\n31歳の男性で、交通事故による重度の脳損傷から3年以上にわたり植物状態と診断され意識が…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2104555168633430016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTThxoSboAAnXFi.jpg",
+        "width": 800
+      },
+      {
+        "height": 771,
+        "media_key": "3_2104555168700481536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTThxoiawAAfdjg.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2104567884777480614",
+        "created_at": "2026-09-28T13:44:19.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104567884777480614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018580567282122752",
+              "start": 3,
+              "username": "to__africa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104567884777480614",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104555170839580880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @to__africa: 3年間植物人間状態だった男性が睡眠薬のゾルピデム（マイスリー、Ambien）10mgを飲ませると約4時間だけ目が覚め、普通の会話ができるまで回復する謎の現象\n\n31歳の男性で、交通事故による重度の脳損傷から3年以上にわたり植物状態と診断され意識が…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104555168633430016",
+            "3_2104555168700481536"
+          ]
+        },
+        "author_id": "2018580567282122752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104555170839580880",
+        "created_at": "2026-09-28T12:53:48.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T13:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104555170839580880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7W0BWW4Eht",
+              "end": 162,
+              "expanded_url": "https://x.com/to__africa/status/2104555170839580880/photo/1",
+              "media_key": "3_2104555168633430016",
+              "start": 139,
+              "url": "https://t.co/7W0BWW4Eht"
+            },
+            {
+              "display_url": "pic.x.com/7W0BWW4Eht",
+              "end": 162,
+              "expanded_url": "https://x.com/to__africa/status/2104555170839580880/photo/1",
+              "media_key": "3_2104555168700481536",
+              "start": 139,
+              "url": "https://t.co/7W0BWW4Eht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104555170839580880",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104555168633430016"
+          },
+          {
+            "media_key": "3_2104555168700481536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "journals.sagepub.com/doi/10.3233/NR…",
+                "end": 564,
+                "expanded_url": "https://journals.sagepub.com/doi/10.3233/NRE-2006-21104",
+                "start": 541,
+                "url": "https://t.co/LFBrEbjSie"
+              },
+              {
+                "display_url": "frontiersin.org/journals/neuro…",
+                "end": 588,
+                "expanded_url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.863016/full",
+                "start": 565,
+                "url": "https://t.co/7NYSUucii3"
+              }
+            ]
+          },
+          "text": "3年間植物人間状態だった男性が睡眠薬のゾルピデム（マイスリー、Ambien）10mgを飲ませると約4時間だけ目が覚め、普通の会話ができるまで回復する謎の現象\n\n31歳の男性で、交通事故による重度の脳損傷から3年以上にわたり植物状態と診断され意識が回復することはありませんでした\n\nところがゾルピデム10mgを投与すると、約20〜30分後から反応が現れ、家族や医療スタッフと意思疎通ができるようになりました\n\n母親や医療スタッフと会話ができたり、簡単な計算や、食べ物を自分で口に運ぶ、冗談を言えるまで回復するといったことが可能になったと論文では報告されています\n\nしかしこれは恒久的な回復ではありません\n\nゾルピデムの作用が切れる約4時間後には再び元の重度意識障害に戻りました\n\nしかし、翌日に再びゾルピデムを投与すると、また4時間覚醒するという現象が繰り返されました\n\nこの現象はゾルピデムの逆説的覚醒と呼ばれ、彼だけでなく他の重度の脳損傷患者でもゾルピデムによる逆説的覚醒の症例研究はあります\n\n2022年のレビューゾルピデムを慢性意識障害患者に系統的に投与した研究は数十〜100人規模まであり、再現性のある明確な逆説的覚醒を示すのはおよそ6％前後と言われています\n\n【元論文】\nhttps://t.co/LFBrEbjSie\nhttps://t.co/7NYSUucii3"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 3744,
+          "like_count": 134,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "3年間植物人間状態だった男性が睡眠薬のゾルピデム（マイスリー、Ambien）10mgを飲ませると約4時間だけ目が覚め、普通の会話ができるまで回復する謎の現象\n\n31歳の男性で、交通事故による重度の脳損傷から3年以上にわたり植物状態と診断され意識が回復することはありませんでした https://t.co/7W0BWW4Eht"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2104567884777480614",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 186,
+          "like_count": 9778,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 911
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T07:02:15.000Z",
+        "description": "ドラッグジャーナリズム\nハームリダクション\n違法・合法問わず薬物について化学・歴史・文化を一次資料を中心に科学的に基づいて読み解いていきます",
+        "id": "2018580567282122752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104567140384956426",
+        "name": "アフリカから",
+        "pinned_tweet_id": "2099786317135847475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018580567282122752/1770102379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018662815968735232/zGwlMpIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 61,
+          "like_count": 1023,
+          "listed_count": 13,
+          "media_count": 84,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "to__africa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

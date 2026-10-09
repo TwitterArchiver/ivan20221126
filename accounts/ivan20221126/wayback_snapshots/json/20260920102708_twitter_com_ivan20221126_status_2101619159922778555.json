@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2101574389896741176",
+    "created_at": "2026-09-20T10:27:08.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T11:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101619159922778555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028661027647422465",
+          "start": 0,
+          "username": "nycteasio78869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101619159922778555",
+    "in_reply_to_user_id": "2028661027647422465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101574389896741176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@nycteasio78869 棘龙新复原："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101574371634741248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSpKwaJagAAxhUQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2101574389896741176",
+        "created_at": "2026-09-20T10:27:08.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T11:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101619159922778555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028661027647422465",
+              "start": 0,
+              "username": "nycteasio78869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101619159922778555",
+        "in_reply_to_user_id": "2028661027647422465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101574389896741176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@nycteasio78869 棘龙新复原："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101574371634741248"
+          ]
+        },
+        "author_id": "2028661027647422465",
+        "conversation_id": "2101574389896741176",
+        "created_at": "2026-09-20T07:29:14.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101574389896741176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jm8D8IOM2h",
+              "end": 29,
+              "expanded_url": "https://x.com/nycteasio78869/status/2101574389896741176/photo/1",
+              "media_key": "3_2101574371634741248",
+              "start": 6,
+              "url": "https://t.co/Jm8D8IOM2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101574389896741176",
+        "lang": "tl",
+        "media_metadata": [
+          {
+            "media_key": "3_2101574371634741248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "hehe： https://t.co/Jm8D8IOM2h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2101619159922778555",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 182,
+          "like_count": 9376,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 878
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-03T02:37:45.000Z",
+        "description": "贺建奎还我猫娘 ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+tpebTcwm-TFlM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+tpebTcwm-TFlMDEx",
+                "start": 0,
+                "url": "https://t.co/rdHoRTLBmO"
+              }
+            ]
+          }
+        },
+        "id": "2028661027647422465",
+        "is_identity_verified": false,
+        "location": "they/them",
+        "most_recent_tweet_id": "2101574389896741176",
+        "name": "Nycteasio",
+        "pinned_tweet_id": "2086450571360563625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028661027647422465/1772603896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082343048537952256/ve0cTqeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 121,
+          "like_count": 9897,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/rdHoRTLBmO",
+        "username": "nycteasio78869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

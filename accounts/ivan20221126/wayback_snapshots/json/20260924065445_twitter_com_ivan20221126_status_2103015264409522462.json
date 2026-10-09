@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102709288493862912"
+      ],
+      "media_source_tweet_id": [
+        "2102709313210884189"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "conversation_id": "2103015264409522462",
+    "created_at": "2026-09-24T06:54:45.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T07:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103015264409522462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1451229528513261576",
+          "start": 3,
+          "username": "defaulttroller2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PWWtaWDRnc",
+          "end": 64,
+          "expanded_url": "https://x.com/defaulttroller2/status/2102709313210884189/video/1",
+          "media_key": "13_2102709288493862912",
+          "start": 41,
+          "url": "https://t.co/PWWtaWDRnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103015264409522462",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2102709288493862912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 818
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102709313210884189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @defaulttroller2: Good Morning Frens! https://t.co/PWWtaWDRnc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16509,
+        "height": 720,
+        "media_key": "13_2102709288493862912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102709288493862912/img/FJGfrCkuS2hhcloV.jpg",
+        "public_metrics": {
+          "view_count": 93453
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102709288493862912/vid/avc1/270x270/LRX7iJ9LasD3d1jK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102709288493862912/vid/avc1/360x360/-keCF-4Mz8Dmk-79.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102709288493862912/vid/avc1/722x720/TNOYmZzVDL5UecVh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102709288493862912/pl/3mDzmGoeP2OV93CZ.m3u8?v=cfc"
+          }
+        ],
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102709288493862912"
+          ],
+          "media_source_tweet_id": [
+            "2102709313210884189"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2103015264409522462",
+        "created_at": "2026-09-24T06:54:45.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103015264409522462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1451229528513261576",
+              "start": 3,
+              "username": "defaulttroller2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWWtaWDRnc",
+              "end": 64,
+              "expanded_url": "https://x.com/defaulttroller2/status/2102709313210884189/video/1",
+              "media_key": "13_2102709288493862912",
+              "start": 41,
+              "url": "https://t.co/PWWtaWDRnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103015264409522462",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102709288493862912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 818
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102709313210884189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @defaulttroller2: Good Morning Frens! https://t.co/PWWtaWDRnc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102709288493862912"
+          ]
+        },
+        "author_id": "1451229528513261576",
+        "conversation_id": "2102709313210884189",
+        "created_at": "2026-09-23T10:39:01.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102709313210884189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWWtaWDRnc",
+              "end": 43,
+              "expanded_url": "https://x.com/defaulttroller2/status/2102709313210884189/video/1",
+              "media_key": "13_2102709288493862912",
+              "start": 20,
+              "url": "https://t.co/PWWtaWDRnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102709313210884189",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102709288493862912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3038,
+          "impression_count": 191747,
+          "like_count": 12245,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 818
+        },
+        "reply_settings": "everyone",
+        "text": "Good Morning Frens! https://t.co/PWWtaWDRnc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2103015264409522462",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 187,
+          "like_count": 9602,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 895
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-21T16:51:05.000Z",
+        "description": "Professional E-Girl Collector⁣.\n\nE-Girls Collected: 218   ⁣                             \nPriv/Backup: @defaulttroller3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "defaulttroller3"
+              }
+            ]
+          }
+        },
+        "id": "1451229528513261576",
+        "is_identity_verified": false,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2102933399262404903",
+        "name": "E-Girl Hunter",
+        "pinned_tweet_id": "2085081054671425859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1451229528513261576/1781284905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012224929446473728/417STCuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 1865,
+          "like_count": 289688,
+          "listed_count": 5,
+          "media_count": 1774,
+          "tweet_count": 12379
+        },
+        "url": "",
+        "username": "defaulttroller2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103512708180246528"
+      ]
+    },
+    "author_id": "2043745937298792448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103512780934705429",
+    "created_at": "2026-09-25T15:51:43.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103512780934705429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TskoqHWjXP",
+          "end": 46,
+          "expanded_url": "https://x.com/ivan20221126/status/2103512780934705429/photo/1",
+          "media_key": "3_2103512708180246528",
+          "start": 23,
+          "url": "https://t.co/TskoqHWjXP"
+        },
+        {
+          "display_url": "x.com/ylgmxcb/status…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/ylgmxcb/status/2103453277350461518",
+          "start": 47,
+          "url": "https://t.co/zJRjBxPNqM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103512780934705429",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103512708180246528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103453277350461518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以防你们不知道此人在鸡哥群内询问pr价格😁😁 https://t.co/TskoqHWjXP https://t.co/zJRjBxPNqM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2006,
+        "media_key": "3_2103512708180246528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEtqceagAAmNvT.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103512708180246528"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103512780934705429",
+        "created_at": "2026-09-25T15:51:43.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103512780934705429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TskoqHWjXP",
+              "end": 46,
+              "expanded_url": "https://x.com/ivan20221126/status/2103512780934705429/photo/1",
+              "media_key": "3_2103512708180246528",
+              "start": 23,
+              "url": "https://t.co/TskoqHWjXP"
+            },
+            {
+              "display_url": "x.com/ylgmxcb/status…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/ylgmxcb/status/2103453277350461518",
+              "start": 47,
+              "url": "https://t.co/zJRjBxPNqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103512780934705429",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103512708180246528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103453277350461518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以防你们不知道此人在鸡哥群内询问pr价格😁😁 https://t.co/TskoqHWjXP https://t.co/zJRjBxPNqM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096605025653186560",
+        "conversation_id": "2103453277350461518",
+        "created_at": "2026-09-25T11:55:16.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103453277350461518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fennel_Homura/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/Fennel_Homura/status/2103072820662333710",
+              "start": 47,
+              "url": "https://t.co/04FSBmKndL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103453277350461518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103072820662333710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "禁止OD无法禁止人们罹患精神疾病，在社会对精神疾病的看法正常化之前OD显然有其存在的合理性。 https://t.co/04FSBmKndL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2103512780934705429",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 188,
+          "like_count": 9640,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 902
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T14:23:43.000Z",
+        "description": "原料革命是一个致力于提供药物信息，消除信息差所导致的不平等的在药圈活动的组织。\n本账号即代表，为原料革命的最重要一环——宣传，所兢兢业业的人们。\n原料革命下属低价药商：@freepgbplz\n原料革命自由宣传部：@freedogdrum\n原料革命最锋利的剑：@UWATCHLIFE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "freepgbplz"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "freedogdrum"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "UWATCHLIFE"
+              }
+            ]
+          }
+        },
+        "id": "2096605025653186560",
+        "is_identity_verified": false,
+        "location": "OD圈",
+        "most_recent_tweet_id": "2103492202559324261",
+        "name": "原料革命宣传部",
+        "pinned_tweet_id": "2096964371150999637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096605025653186560/1788779650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096919871372369920/iFcW2t6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 20,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "ylgmxcb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

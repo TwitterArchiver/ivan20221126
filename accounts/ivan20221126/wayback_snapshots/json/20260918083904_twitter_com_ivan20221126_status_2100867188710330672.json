@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2100447035451388292",
+    "created_at": "2026-09-18T08:39:04.000Z",
+    "display_text_range": [
+      28,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T09:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100867188710330672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518404201168007168",
+          "start": 0,
+          "username": "godspeedyou50"
+        },
+        {
+          "end": 27,
+          "id": "239485187",
+          "start": 15,
+          "username": "freedogdrum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100867188710330672",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100855748402004423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godspeedyou50 @freedogdrum 问题是团购基本没利润，只有发货员会得到报酬啊😶😶，这个更像是公益项目"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2100447035451388292",
+        "created_at": "2026-09-18T08:39:04.000Z",
+        "display_text_range": [
+          28,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T09:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100867188710330672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 27,
+              "id": "239485187",
+              "start": 15,
+              "username": "freedogdrum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100867188710330672",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100855748402004423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @freedogdrum 问题是团购基本没利润，只有发货员会得到报酬啊😶😶，这个更像是公益项目"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2100447035451388292",
+        "created_at": "2026-09-18T07:53:37.000Z",
+        "display_text_range": [
+          13,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100855748402004423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "239485187",
+              "start": 0,
+              "username": "freedogdrum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100855748402004423",
+        "in_reply_to_user_id": "239485187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "OK，如果你把所有我话里带有猜测性的话都算做对你的贬损伤害，也好，我伤害了原料革命，伤害时代进步了，以及刚才说过你们并没有做试剂代跑业务，那么就不针对我说赚钱影响生意之类的话是否是一种假设影响了团购赛乃普汀。\n也别觉得我道歉的不真诚，当然我觉得我好像也没有必要大宣旗鼓的去这样道歉，你能看到就行或者是说我要挂多久都行，我就不重申在对于什么所谓的药物时代的问题了，因为我本质不在乎，这是我个人的说话风格且我的受众偏“滥用”而不是研究。\n所以不认识，对于时代问题OK你们很禁忌，这个并且我恰好和你吵起来了，那就对于你和确实把这当成一部分人生信条的人完全的道歉，不要觉得我不真诚因为这样的真诚，我觉得差不多够了，举着三根手指头告诉你\n没有戏谑的意思 over 再多的我应该不需要做"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100853420433580182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freedogdrum OK，如果你把所有我话里带有猜测性的话都算做对你的贬损伤害，也好，我伤害了原料革命，伤害时代进步了，以及刚才说过你们并没有做试剂代跑业务，那么就不针对我说赚钱影响生意之类的话是否是一种假设影响了团购赛乃普汀。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2100867188710330672",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 179,
+          "like_count": 9183,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 856
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n宗教现代哲学文化传播者，又称古典心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/3vanSMggsw"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100866744223216001",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 708,
+          "like_count": 1465,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 3308
+        },
+        "url": "https://t.co/3vanSMggsw",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-17T18:50:17.000Z",
+        "description": "自由是廉价的，或者又是像件大衣如此昂贵，人们付出了他们的生命而不放弃它。",
+        "id": "239485187",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100853420433580182",
+        "name": "原料革命自由宣传部",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239485187/1788697096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096573693447319553/kDU7qBmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 216,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "freedogdrum",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

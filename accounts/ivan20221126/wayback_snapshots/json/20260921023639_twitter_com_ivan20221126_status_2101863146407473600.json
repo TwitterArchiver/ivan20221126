@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2101840774715617559",
+    "created_at": "2026-09-21T02:36:39.000Z",
+    "display_text_range": [
+      24,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T03:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101863146407473600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924598611175731200",
+          "start": 0,
+          "username": "tugj421515"
+        },
+        {
+          "end": 23,
+          "id": "1236908710523326464",
+          "start": 12,
+          "username": "lovelycake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101863146407473600",
+    "in_reply_to_user_id": "1924598611175731200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101859186090930382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tugj421515 @lovelycake 冶金啊，比如坦克发射的apfsds里面的芯就含钨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2101840774715617559",
+        "created_at": "2026-09-21T02:36:39.000Z",
+        "display_text_range": [
+          24,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101863146407473600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924598611175731200",
+              "start": 0,
+              "username": "tugj421515"
+            },
+            {
+              "end": 23,
+              "id": "1236908710523326464",
+              "start": 12,
+              "username": "lovelycake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101863146407473600",
+        "in_reply_to_user_id": "1924598611175731200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101859186090930382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tugj421515 @lovelycake 冶金啊，比如坦克发射的apfsds里面的芯就含钨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924598611175731200",
+        "conversation_id": "2101840774715617559",
+        "created_at": "2026-09-21T02:20:55.000Z",
+        "display_text_range": [
+          12,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101859186090930382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1236908710523326464",
+              "start": 0,
+              "username": "lovelycake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101859186090930382",
+        "in_reply_to_user_id": "1236908710523326464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101840774715617559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelycake 钨是干啥用的，以前是灯泡里的灯丝，现在那种灯泡已经没有了，除了浴霸灯。基本上照明都是LED的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2101863146407473600",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 182,
+          "like_count": 9426,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-19T22:51:55.000Z",
+        "description": "",
+        "id": "1924598611175731200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101859186090930382",
+        "name": "tu gj",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924598925870465024/j18l-Alj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 165,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "tugj421515",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-09T06:56:46.000Z",
+        "description": "《兩岸雞蛋糕》歡樂吐槽兩岸新聞，發現不同文化的参差\n我的油管頻道：https://t.co/cinFwisTW4\n每週四台灣時間20：00在線直播\n歡迎大家互動提問哦\n有想討論的話題可以私信我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCWge1…",
+                "end": 56,
+                "expanded_url": "https://www.youtube.com/channel/UCWge1-Gkd6EHPnYkYWfXjgA",
+                "start": 33,
+                "url": "https://t.co/cinFwisTW4"
+              }
+            ]
+          }
+        },
+        "id": "1236908710523326464",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2101861777122439284",
+        "name": "小蛋糕(日本勇者村）",
+        "pinned_tweet_id": "2100588188138164523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236908710523326464/1728710059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345328983622107137/M5KziEMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21297,
+          "following_count": 1911,
+          "like_count": 30917,
+          "listed_count": 94,
+          "media_count": 3740,
+          "tweet_count": 9286
+        },
+        "url": "",
+        "username": "lovelycake",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

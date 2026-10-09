@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2105483235669254457",
+    "created_at": "2026-10-01T02:21:36.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T03:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105483235669254457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1394177500679270408",
+          "start": 3,
+          "username": "6O___o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105483235669254457",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3849
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105128841354379519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @6O___o: 누누히 말하지만 정신병을 의지로 이겨낼 수 있으면 같은 맥락으로 고혈압 당뇨 성인병 관절염 대상포진도 환부에 힘 줘서 이겨낼 수 있음"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2105483235669254457",
+        "created_at": "2026-10-01T02:21:36.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105483235669254457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1394177500679270408",
+              "start": 3,
+              "username": "6O___o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105483235669254457",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3849
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105128841354379519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @6O___o: 누누히 말하지만 정신병을 의지로 이겨낼 수 있으면 같은 맥락으로 고혈압 당뇨 성인병 관절염 대상포진도 환부에 힘 줘서 이겨낼 수 있음"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394177500679270408",
+        "conversation_id": "2105128841354379519",
+        "created_at": "2026-09-30T02:53:21.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T03:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105128841354379519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105128841354379519",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 675,
+          "impression_count": 266681,
+          "like_count": 9952,
+          "quote_count": 309,
+          "reply_count": 1,
+          "retweet_count": 3849
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "누누히 말하지만 정신병을 의지로 이겨낼 수 있으면 같은 맥락으로 고혈압 당뇨 성인병 관절염 대상포진도 환부에 힘 줘서 이겨낼 수 있음"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2105483235669254457",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 187,
+          "like_count": 9890,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 920
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-17T06:26:42.000Z",
+        "description": "영화 보고 코믹스 읽는 애매필 성인남성 / 삼성 라이온즈💙 / ❤️반려 애인❤️(@bree_k1m) / 인장 by (@biyurilo) / 이별은 블락",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "bree_k1m"
+              },
+              {
+                "end": 74,
+                "start": 65,
+                "username": "biyurilo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pedia.watcha.com/ko-KR/users/Jg…",
+                "end": 23,
+                "expanded_url": "https://pedia.watcha.com/ko-KR/users/JgkqlJJPQa5X0",
+                "start": 0,
+                "url": "https://t.co/pcnFeZyNai"
+              }
+            ]
+          }
+        },
+        "id": "1394177500679270408",
+        "is_identity_verified": false,
+        "location": "\"불행하게도 이미 과거가 된 일입니다.\"",
+        "most_recent_tweet_id": "2105282071480701247",
+        "name": "애라스",
+        "pinned_tweet_id": "2100152153428082697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394177500679270408/1785490719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642134833697800193/Zpxt2xZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 278,
+          "like_count": 6097,
+          "listed_count": 11,
+          "media_count": 12033,
+          "tweet_count": 115076
+        },
+        "url": "https://t.co/pcnFeZyNai",
+        "username": "6O___o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

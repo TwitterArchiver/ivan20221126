@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2043745937298792448",
+    "conversation_id": "2105893926964244659",
+    "created_at": "2026-10-02T08:28:59.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T09:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105938082000490884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484072544009347072",
+          "start": 0,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105938082000490884",
+    "in_reply_to_user_id": "1484072544009347072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105893926964244659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BelovedUren8964 想喝日产朝日"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2105893915878649856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmjW-aacAAVBZ0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043745937298792448",
+        "conversation_id": "2105893926964244659",
+        "created_at": "2026-10-02T08:28:59.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105938082000490884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484072544009347072",
+              "start": 0,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105938082000490884",
+        "in_reply_to_user_id": "1484072544009347072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105893926964244659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BelovedUren8964 想喝日产朝日"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105893915878649856"
+          ]
+        },
+        "author_id": "1484072544009347072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105893926964244659",
+        "created_at": "2026-10-02T05:33:32.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105893926964244659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGtdFITH5x",
+              "end": 29,
+              "expanded_url": "https://x.com/BelovedUren8964/status/2105893926964244659/photo/1",
+              "media_key": "3_2105893915878649856",
+              "start": 6,
+              "url": "https://t.co/gGtdFITH5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105893926964244659",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105893915878649856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "享受美食中 https://t.co/gGtdFITH5x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "is_identity_verified": false,
+        "location": "乌鲁木齐中路",
+        "most_recent_tweet_id": "2105938082000490884",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043745937298792448/1787226273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 187,
+          "like_count": 9940,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "我在高一的第二学期重新开始自己的人生 卡力老虎、周乘羽、李家鑫萌追 顺男 猫砂帮荣誉成员 老学校客座教授 主讲谈论 人在日本 合法住民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTsiwH"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2105901736628253069",
+        "name": "浜辺雨怜从高一第二学期重活一次",
+        "pinned_tweet_id": "2050110766905475396",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484072544009347072/1790407623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100222596554121216/qvty9gWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 511,
+          "like_count": 6559,
+          "listed_count": 1,
+          "media_count": 653,
+          "tweet_count": 5084
+        },
+        "url": "https://t.co/DgJHLTsiwH",
+        "username": "BelovedUren8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
